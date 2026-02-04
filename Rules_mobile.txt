@@ -1,0 +1,815 @@
+﻿1tw.live##.GDPRPanel-module-root
+1tw.live##.Layout-module-banner
+1tw.live##.SupportPanel-module-root, .SupportPanel-module-ru
+2ip.ru##.page-speed-checker-links
+2ip.ru##.speed_last_results
+2ip.ru##div.speed_statistic__item:nth-of-type(1)
+2ip.ru##div.speed_statistic__item:nth-of-type(2)
+2ip.ru##div.speed_statistic__item:nth-of-type(3)
+2ip.ru##div.speed_statistic__item:nth-of-type(4)
+2ip.ru##li.related-item:nth-of-type(1)
+2ip.ru##li.related-item:nth-of-type(2)
+2ip.ru##li.related-item:nth-of-type(3)
+2ip.ru##li.related-item:nth-of-type(4)
+9xbuddy.com##.leading-6.text-sm.dark\:text-gray-200.text-gray-500.py-3.px-4
+9xbuddy.com##.pr-6.p-4.relative.items-center.justify-between.flex
+9xbuddy.in##.pr-6.p-4.relative.items-center.justify-between.flex
+48.ru##.content_bAXuV
+48.ru##.draggable_SH8Hs.container_4yOxe
+123sudo.com##.px-2.mt-16.mx-auto.max-w-4xl
+123sudo.com##.py-3.px-4.mx-auto.max-w-7xl
+360.ru##.krlzc02
+ads.vk.*##div.CookieBanner_wrapper___Pfqg.vkui--vkCom--light
+apkpure.net##.ad-box-auto
+apkpure.net##.js-ad-slot.ad-adsense
+apkpure.net##.module-card-container.hot-search-box
+apkpure.net##.module-card-container.trending-box
+apkpure.net##.scroll-box
+apkpure.net##.title-bar
+auto.mail.ru##.a2e3b3faca
+auto.mail.ru##.js-dwh-logger-exclude > div > div
+auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude
+bangbros.com##.bTBSxq.sc-1fep8qc-0
+bangbros.com##.dfFMJe.sc-1fep8qc-0
+bangbros.com##.flickity-resize.is-draggable.flickity-enabled
+bangbros.com##.kgDLin.sc-1deoyo3-0 > .cyqzGO.sc-1fep8qc-0
+bangbros.com##div.ixRver.sc-1fep8qc-0:nth-of-type(4)
+base.garant.ru##.popup-social-mobile
+belta.by###scrollUp
+calc.consultant.ru##.b-popup-content
+chr.aif.ru##.content_body.content_container_js > .content > .article > .article_content.io-article-body > .article_text > .img_inject.left_inj.size2
+chr.aif.ru##.content_body.content_container_js > .content > .article > .article_content.io-article-body > .article_text > .img_inject.left_inj.size2 > .inj_link_box
+chr.aif.ru##.content_body.content_container_js > .content > .article > .article_content.io-article-body > .article_text > .img_inject.left_inj.size2 > .inj_link_box > .inj_text
+chr.aif.ru##.content_body.content_container_js > .content > .article > .article_content.io-article-body > .article_text > .img_inject.left_inj.size2 > [src*="https://aif-s3.aif.ru/images/044/664/44c4310c1720a104c3c4aa0421f9044a.webp"]
+club.dns-shop.ru##.most-popular-widget__list
+club.dns-shop.ru##.most-popular-widget__title
+club.dns-shop.ru##.read-more-widget > div:nth-of-type(1)
+club.dns-shop.ru##.scroll-up-btn
+club.dns-shop.ru##.site-banner-list.site-banner-list_mobile
+cocoshot.net###liveToast
+daiunique.com##.recent-news.margin-bottom-10
+daiunique.com##.us-close
+daiunique.com##[src*="/assets/cherry/up-c2cf900063250bf367617d76b3f2dc076972f1155de89dcab3ad9326a908dea5.png"]
+daiunique.com##h2:nth-of-type(2)
+daniosvet.ru###as-section-similar
+daniosvet.ru###as-section-similar > .uk-container
+daniosvet.ru##.uk-panel.uk-width-medium\@l.uk-margin-auto-left.uk-height-1-1
+diplomis-o-vysshem-v-lipetske-48.ru###chat-popup
+downhomedigital.net##section.related-section.inside-article:nth-of-type(1)
+ebalovo.club##.page-desc
+ebalovo.club##.page-section.mt-0.mt-lg-3 > .thumb-grid
+ebalovo.club##.video-container__aside
+epp.genproc.gov.ru##p:nth-of-type(3)
+epp.genproc.gov.ru##p:nth-of-type(4)
+epp.genproc.gov.ru##p:nth-of-type(5)
+epp.genproc.gov.ru##p:nth-of-type(6)
+esia.gosuslugi.ru##.banner
+f1.hdzog.vip##.dqxxodaopattktkuuddolqttluud
+f1.hdzog.vip##.jw-custom-btn.jw-hardlink-btn.nopop > .jw-hardlink-inner
+f1.hdzog.vip##.jw-hardlink-inner
+f1.hdzog.vip##.jw-title.jw-reset-text
+f1.hdzog.vip##.listing.video-page__listing.listing_related
+f1.hdzog.vip##.pagination
+f1.hdzog.vip##.partners-wrap
+f1.hdzog.vip##.quoaattktkuuddolqttluud
+f1.hdzog.vip##.tikporn-carousel
+f1.hdzog.vip##.uklodooxplududkkxx
+f1.hdzog.vip##.xkuqpuududkkxx
+fakehub.com###root > div.sc-3hrznp-2.iwCJUI:last-child
+fakehub.com###root > div.sc-yo7o1v-0.jzQxQF:first-child > div.sc-1fep8qc-0.hAewsL:last-child > div.sc-1deoyo3-0.dXXztf > div.sc-je45mb-0.cVlgZd
+fakehub.com###root > div.sc-yo7o1v-0.jzQxQF:first-child > div.sc-1fep8qc-0.hAewsL:nth-child(10) > div.sc-1deoyo3-0.dXXztf > div.sc-188caa2-0.fmzYNO
+fboom.me##._omniEmailWidget_1gm9n_393.omni-email-widget
+fboom.me##.compact.css-1j0a7yt.e3o18i35
+fboom.me##.css-366s38.e87d5ri2
+fboom.me##.css-1a8pcwl.e11fb6q62
+fboom.me##.css-1j0a7yt.e3o18i35
+fboom.me##.css-1nvyjok.ebcpu4o4
+fboom.me##.css-cr1abf.e1i91qbc3
+fboom.me##.e1i91qbc3.css-cr1abf
+fboom.me##.e3o18i36.css-3y46tr
+fboom.me##.e87d5ri1.css-1t29nre
+fboom.me##.ebcpu4o4.css-1nvyjok
+fboom.me##.omni-email-widget
+filejoker.net##.flex-wrap.font-weight-bold.text-big.text-primary.text-center.justify-content-center.align-items-center.d-flex.col-12
+filejoker.net##.justify-content-around.plans-wrap.row
+filejoker.net##.px-3.align-items-center.justify-content-center.payment-icons.row
+finance.mail.ru##.c2c94d0dd4
+finance.mail.ru##.js-dwh-logger-exclude > div
+finance.mail.ru##div.js-dwh-logger-exclude
+forum.intporn.com###top > div.p-body:nth-child(5) > div.p-body-inner > ul.p-breadcrumbs.p-breadcrumbs--bottom:last-child
+forum.intporn.com##.p-body-inner > div.samCodeUnit:first-child
+forum.intporn.com##.samCodeUnit
+garant.ru##.consult-banner
+garant.ru##.fl-r.anons
+garant.ru##.popup-social
+gaywire.com###root > div.sc-3hrznp-2.iwCJUI:last-child
+glavpahar.ru##.leftEar__b38d85
+glavpahar.ru##.mobileBannerContainer__b38d85
+glavpahar.ru##.rightEar__b38d85
+google.com##.a1DBFd
+google.com##.card-section
+gorod48.ru###w-node-aa61ddba-74ad-69d6-cee1-b8da659eddd1-659edd77
+gorod48.ru###w-node-aa61ddba-74ad-69d6-cee1-b8da659eddf3-659edd77
+gorod48.ru###w-node-aa61ddba-74ad-69d6-cee1-b8da659ede09-659edd77
+gorod48.ru###w-node-aa61ddba-74ad-69d6-cee1-b8da659ede18-659edd77
+gorod48.ru##.cookiemodal
+gorod48.ru##.f-bottom
+gorod48.ru##.f-socia
+gorod48.ru##.footer > .container > .swiper-android.swiper-horizontal.swiper-initialized.mod--cat.swiper
+gorod48.ru##.footer > .container > .swiper-horizontal.swiper-initialized.mod--cat.swiper
+gorod48.ru##.footer > .container > .swiper-horizontal.swiper-initialized.mod--cat.swiper > .mod--cat.swiper-wrapper
+gorod48.ru##.footer > .container > .swiper.mod--cat.swiper-initialized.swiper-horizontal
+gorod48.ru##.footer > .container > .swiper.mod--cat.swiper-initialized.swiper-horizontal.swiper-android
+gorod48.ru##.home--slider-wr
+gorod48.ru##.main--slider
+gorod48.ru##.post-comments
+gorod48.ru##.post-reaction
+gorod48.ru##.post-tags
+gorod48.ru##.swiper.sl--main.swiper-fade.swiper-initialized.swiper-horizontal.swiper-autoheight.swiper-android.swiper-watch-progress.swiper-backface-hidden
+gorod48.ru##.top--tabs-sec
+gorod48.ru##.top-tabs.w-tabs > .tabs-content.w-tab-content
+gorod48.ru##.top-tabs.w-tabs > .tabs-menu.w-tab-menu
+gorod48.ru##section.home--sec:nth-of-type(3)
+gorod48.ru##section.home--sec:nth-of-type(5)
+gorod48.ru##section.home--sec:nth-of-type(5) > .container > .home--slider-wr
+guyselector.com###root > div.sc-3hrznp-2.iwCJUI:last-child
+health.mail.ru##div.js-dwh-logger-exclude
+hi-tech.mail.ru##.a398bea66a
+hi-tech.mail.ru##.js-dwh-logger-exclude
+hi-tech.mail.ru##div.js-dwh-logger-exclude
+hornyjourney.com###mvs
+hornyjourney.com###vid-ads > ul
+hornyjourney.com##.thumbs
+hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.box:nth-child(8)
+hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.c_title:nth-child(7)
+incezt.net##.yarpp-related
+it365.janqi.com##div.info-section:nth-of-type(7)
+it365.janqi.com##div.info-section:nth-of-type(8)
+it365.janqi.com##div.info-section:nth-of-type(9)
+it365.janqi.com##div.info-section:nth-of-type(10)
+k2s.cc##.compact.css-1j0a7yt.e3o18i35
+k2s.cc##.css-24j7oh.e3o18i34
+k2s.cc##.css-1bm3tvj.e9pu4p33
+k2s.cc##.css-1g8tv9x.e1hoouff5
+k2s.cc##.css-1j0a7yt.e3o18i35
+k2s.cc##.css-1nlnn4k.e124gmq03
+k2s.cc##.css-c0ius6.e9zl81t3
+k2s.cc##.e3o18i35.css-1j0a7yt
+k2s.cc##.e3o18i35.css-1j0a7yt.compact
+k2s.cc##.e9pu4p33.css-1bm3tvj
+k2s.cc##.e124gmq03.css-1nlnn4k
+k2s.cc##.load-more-button_button-holder
+k2s.cc##.omniEmailWidget
+k2s.cc##.omniEmailWidget.css-dvv134.e1k3b5i70
+k2s.cc##.video-link
+k2sporn.net###scrolltop
+k2sporn.net##.section__content.section__items.d-flex.jc-flex-start
+k2sporn.net##[src*="https://static.k2s.cc/images/i/00728x0090-01.gif"]
+k2sporn.net##div.section:nth-of-type(2)
+kino.mail.ru##div.js-dwh-logger-exclude
+lady.mail.ru##.a398bea66a
+lady.mail.ru##.js-dwh-logger-exclude
+lady.mail.ru##div.js-dwh-logger-exclude
+lifehackov.ru##.tg-widget.tg-visible
+lipetskmedia.ru###banneralarm_6781a72f2a8fd > a:nth-child(2) > img
+lipetskmedia.ru###banneralarmmobile_6781addbafbe5 > a:nth-child(2) > img
+lipetskmedia.ru###root > div.container.container-banner.d-block.d-xl-none:first-child
+lipetskmedia.ru###root > div.container:nth-child(5) > div.usefull-news > div.video-player
+lipetskmedia.ru###root > div.main-body.for-video-list:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-3.position-sticky:last-child > div.banner-4.d-none.d-xl-block:last-child
+lipetskmedia.ru###root > div.main-body.for-video-list:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-3.position-sticky:last-child > div.banner-4.d-none.d-xl-block:last-child > a:nth-child(2) > img
+lipetskmedia.ru###root > div.main-body.page-for-2columns.page-for-1columns:nth-child(4) > div.container > div.article:first-child > div.backgr-white.container-inner > div.banner-5:nth-child(5) > a > img
+lipetskmedia.ru###root > div.main-body.page-for-2columns.page-for-1columns:nth-child(4) > div.container > div.article:last-child
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-6.order-1.order-xl-2:nth-child(2) > div.article:first-child > div.backgr-white.container-inner > div.banner-5:nth-child(4)
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-6.order-1.order-xl-2:nth-child(2) > div.article:nth-child(2)
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-6.order-1.order-xl-2:nth-child(2) > div.banner-alarm.d-block.d-xl-none:first-child
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-6.order-1.order-xl-2:nth-child(2) > div.banner-alarm.d-none.d-xl-block:nth-child(2)
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-3.d-none.d-xl-block.order-3.position-sticky:last-child > div.banner-4.d-none.d-xl-block:last-child
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-3.d-none.d-xl-block.order-3.position-sticky:last-child > div.banner-4.d-none.d-xl-block:last-child > a:nth-child(2) > img
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-3.order-3.position-sticky.right-sidebar:last-child > div.banner-4.d-none.d-xl-block:last-child
+lipetskmedia.ru###root > div.main-body:nth-child(4) > div.container > div.row.align-items-start > div.col-12.col-xl-3.order-3.position-sticky.right-sidebar:last-child > div.banner-4.d-none.d-xl-block:last-child > a:nth-child(2) > img
+lipetsknews.ru##.article-related_readAlso__gSVZS
+lipetsknews.ru##.banner-fix_fixBtn__zPHC5
+lipetsknews.ru##.footer_ftrInfoWrap__DTP22 > div:nth-of-type(2) > p
+lipetsknews.ru##.footer_ftrInfoWrap__DTP22 > div:nth-of-type(3)
+lipetsknews.ru##.jsx-4bc5312448bc76c0.sub-menu_sbmWrp__cQf1J.logo-lipetsknews
+lipetsknews.ru##.notifycation_notifycationWrap__8lzkG
+lipetsknews.ru##.social-list-subscribe_socialListSubscribeLinks__Nh0pM.social-list-subscribe_socialListSubscribeLinksMoveTwo__noQO_
+lipetsktime.ru###banner-AKK5mZyhabGs
+lipetsktime.ru##.articles-column.mt-3.px-3.px-xl-4.order-3.d-flex.right-column.flex-column.flex-md-row.flex-xl-column
+lipetsktime.ru##.container-fluid.gx-0.pt-2.mb-3.pb-3.px-3.px-lg-0
+lipetsktime.ru##.d-flex.flex-column.flex-md-row.bg-colored.bg-slate.shadow.px-lg-3.py-lg-4 > .px-3.w-100
+lipetsktime.ru##.d-flex.flex-column.flex-md-row.bg-slate.shadow.py-lg-4 > .px-4.w-100
+lipetsktime.ru##.d-flex.flex-column.flex-sm-row.justify-content-between.py-4.my-4.border-top
+lipetsktime.ru##.mx-0.px-0.flex-grow-0.responsive-container
+lipetsktime.ru##.order-1.d-flex.flex-row.flex-xxl-column.align-items-center.align-items-lg-start
+lipetsktime.ru##div.col-12.col-md-12.col-lg-4.mb-3.px-lg-4:nth-of-type(2)
+lipetsktime.ru##div.col-12.col-md-12.col-lg-4.mb-3.px-lg-4:nth-of-type(3)
+livejournal.com##div.body-content:nth-child(7) > header.s-header.s-header--notown-journal.s-header--personal-journal.s-header--nocyr.s-header--logged-out:nth-child(8) > div.dugsum5qe4a7fbnpm:nth-child(5)
+livejournal.com##div.s-layout.body-content.s-logged-out:first-child > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
+livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
+m.mirporeva.xyz##.items
+m.mirporeva.xyz##.stitle
+m.my.mail.ru###wrap > div.body-wrapper:nth-child(4) > div.event.m-secondary:first-child > ul.list.m-video.video-list:nth-child(4)
+m.my.mail.ru##._visible.simple-message
+m.newslipetsk.ru##.additional-news
+m.newslipetsk.ru##.advertisement-block__in
+m.newslipetsk.ru##.footer-bottom-block
+m.newslipetsk.ru##.main-first-news-block__in.main-first-js.owl-carousel.owl-loaded.owl-drag > .owl-dots
+m.newslipetsk.ru##.main-first-news-block__in.main-first-js.owl-carousel.owl-loaded.owl-drag > .owl-stage-outer > .owl-stage
+m.newslipetsk.ru##.main-first-news-block__in.main-first-js.owl-carousel.owl-loaded.owl-drag > .owl-stage-outer > .owl-stage > .owl-item.active > .main-first-news-block__big
+m.newslipetsk.ru##.main-white-news
+m.newslipetsk.ru##div.big-news-list-item-category:nth-of-type(12)
+m.newslipetsk.ru##div.big-news-list-item-category:nth-of-type(18)
+m.newslipetsk.ru##div.main-news-block:nth-of-type(8) > .main-news-block__in.main-news-block__in-detail
+m.newslipetsk.ru##div.main-news-block:nth-of-type(9) > .main-news-block__in.main-news-block__in-detail
+m.newslipetsk.ru##header > div:nth-of-type(1)
+m.newslipetsk.ru##header:first-child > div:first-child
+m.ok.ru###content > div.invite-banner:last-child
+m.ok.ru##.bg
+m.ok.ru##.cnt
+m.ok.ru##.related-movies
+m.ok.ru##div.invite-banner:nth-of-type(3)
+m.ok.ru##div.invite-banner:nth-of-type(4)
+m.ok.ru##div.invite-banner:nth-of-type(7)
+m.rusoska3.net###list_videos_related_videos
+m.rusoska3.net##.tags-cloud.box
+m.vaginke.life###scroll-top
+m.vaginke.life###video-related > .video-related.thumbs-wrap
+m.vaginke.life###video-related > .video-related.thumbs-wrap > div.thumb > .item > [href] > .wide-ratio.thumb-image
+m.vaginke.life##.btn-refresh-related
+m.vaginke.life##.footer-links
+m.vaginke.life##.m-active.with-model-item
+m.vaginke.life##.text > p:nth-of-type(1)
+m.vaginke.life##.text > p:nth-of-type(2)
+m.vaginke.life##.vertical-ratio.thumb-image
+m.vaginke.life##a.with-model-item:nth-of-type(1)
+m.vaginke.life##a.with-model-item:nth-of-type(2)
+m.vaginke.life##button.btn-refresh-footer:nth-of-type(1)
+m.vaginke.life##button.btn-refresh-footer:nth-of-type(2)
+m.vaginke.life##button.btn-refresh-footer:nth-of-type(3)
+m.vaginke.life##button.btn-refresh-footer:nth-of-type(4)
+m.vaginke.life##div.cat-width.thumb-cat.thumb > .item > [href] > .wide-ratio.thumb-image
+m.vaginke.life##div.full-links-items
+m.vaginke.life##div.thumbs-wrap:nth-of-type(4)
+m.vaginke.life##div.thumbs-wrap:nth-of-type(5)
+m.vaginke.life##div.thumbs-wrap:nth-of-type(6)
+m.vaginke.life##div.thumbs-wrap:nth-of-type(7)
+m.vaginke.life##h2.less-margin:nth-of-type(2)
+m.vaginke.life##h2.less-margin:nth-of-type(3)
+m.vaginke.life##h2.less-margin:nth-of-type(4)
+m.vaginke.life##h2:nth-of-type(1)
+m.vaginke.life##ul.list-1:nth-of-type(1)
+m.vaginke.life##ul.list-1:nth-of-type(2)
+m.vk.*###lm_cont
+m.vk.*###replies_to_last
+m.vk.*##.BottomMenu__fixed
+m.vk.*##.Replies_last_shown.Replies_last
+m.vk.*##.pv_nav_left > .pv_nav_link._thover
+m.vk.*##.pv_nav_right > .pv_nav_link._thover
+m.vk.*##.svgIcon.svgIcon-down_circle_24
+m.vk.*##.vkitButton__root--jY25e.OpenInAppPromoButton__button--5j1z2.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeM.vkuiButton__modePrimary.vkuiButton__appearanceAccent.vkuiButton__sizeYRegular.vkuiTappable__host.vkuiTappable__sizeXCompact.vkuiTappable__hasPointerFalse.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host
+m.vk.*##.vkitComment__likesModeAlways--2bEZ9
+m.vk.*##.vkuiButton__in
+m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
+m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
+m.vk.*##.vkuiModalCardBase__container
+m.vk.*##.vkuiRootComponent__host.vkuiGroup__paddingM.vkuiInternalGroup--mode-plain.vkuiGroup__modePlain.vkuiGroup__sizeXCompact.vkuiGroup__host.vkuiInternalGroup.vkitRecommendationBlock__blockWrapResetPadding--tH8Sb.vkitGroup__groupModePlain--teaPf.vkitGroup__groupPaddingM--YlUNt.vkitGroup__group--lbf33
+m.vk.*##.vkuiRootComponent__host.vkuiWriteBar__host
+m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
+m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiButton__sizeYRegular.vkuiButton__appearanceAccent.vkuiButton__modePrimary.vkuiButton__sizeM.vkuiButton__host.vkuiInternalTappable.OpenInAppPromoButton__button--iZ3qF.vkitButton__root--nxPS7
+m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiIconButton__host.vkuiInternalTappable.vkitAction__action--RX2hK.vkitIconButton__rootNoPadding--UiSpg
+m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiInternalTappable.vkitCommentLike__like--XYq0X
+m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
+m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
+m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable:nth-of-type(1)
+m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
+m.voronezhnews.ru###topAdWrapperVRN
+m.voronezhnews.ru##.additional-news
+m.voronezhnews.ru##.content-container > .main-news-list > .big-news-list > .big-news-list-item-category
+m.voronezhnews.ru##div.big-news-list-item-category:nth-of-type(18)
+m.voronezhnews.ru##div.main-news-block:nth-of-type(8) > .main-news-block__in.main-news-block__in-detail
+m.voronezhnews.ru##div.main-news-block:nth-of-type(9)
+m.voronezhnews.ru##div.main-news-list:nth-of-type(2) > .big-news-list > div.big-news-list-item-category:nth-of-type(12)
+m.vpoisk.xyz##.dublicate.video_tags > ul
+m.vpoisk.xyz##.video_category
+m.vpoisk.xyz##.video_category > p
+m.vpoisk.xyz##div.videos:nth-of-type(4)
+m.xn--80aabp1a.org##.container > .container
+m.xn--80aabp1a.org##.hero-text
+m.xn--80aabp1a.org##.menu-footer-menu-container
+m.xn--80aabp1a.org##.refresh-btn.reloadbtn
+m.xn--80aabp1a.org##.related-reload.widget-videos-block.widget
+m.xn--80aabp1a.org##.related-videos
+m.xn--80aabp1a.org##.video-comments
+m.xn--80aabp1a.org##.watchnow
+m.xn--80aabp1a.org##div.video-loop:nth-of-type(8)
+m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(2)
+m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(3)
+mail.ru###closeCookieBanner
+mail.ru##.ads_overflow-disabled.ads-above-dzen.ads-above-horoscopes
+mail.ru##.horo
+mail.ru##.search-container_mobile.search-container
+mail.ru##.section_rounded-corners.section_padding
+mail.ru##.vk-feed
+meduza.io##.GDPRPanel-module-root
+meduza.io##.Layout-module-banner
+meduza.io##.SupportPanel-module-root, .SupportPanel-module-ru
+mirporeva.com##div.items:nth-of-type(7)
+mirporeva.com##div.stitle:nth-of-type(6)
+mk-lipetsk.ru##.good-place__top
+mmido.ru##.mobile_hide2.new_wrap_cookies
+moe-lipetsk.ru###footer_bottom
+moe-lipetsk.ru###footer_main > .container > div.row:nth-of-type(1) > .col-md-3
+moe-lipetsk.ru###lenta-news
+moe-lipetsk.ru##.banner_adt2_contain
+moe-lipetsk.ru##.context-container.mt-30
+moe-lipetsk.ru##.cookie-plate
+moe-lipetsk.ru##.down_stat_wr.clearfix.mt-0.for-phone
+moe-lipetsk.ru##.flex-dop
+moe-lipetsk.ru##.material-footer-2.no_comment
+moe-lipetsk.ru##.row.gr_bg_mob
+moe-lipetsk.ru##.visible-xs.lower_panel
+mtsbank.ru###__next > div.sc-8350f874-0.gPWgxB:first-child > div.styled__Wrapper-sc-37ac7ba-0.hhBONQ:last-child > div.styled__BodyWrapper-sc-37ac7ba-2.jAbiuc > a.styled__Body-sc-37ac7ba-3.bZA-dsh:first-child
+mtsbank.ru###__next > div.sc-8350f874-0.gPWgxB:first-child > div.styled__Wrapper-sc-37ac7ba-0.hhBONQ:last-child > div.styled__BodyWrapper-sc-37ac7ba-2.jAbiuc > a.styled__ImageContainer-sc-37ac7ba-8.jTOuQO:last-child > picture > img:last-child
+my.mail.ru##.sp-video__body__right
+my.mail.ru##.sp-video__right-suggest.sp-video__weeks-top
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(2) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(3) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(4) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(5) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(6) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(7) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(8) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(9) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(10) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(11) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(12) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(13) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(14) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(15) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(16) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(17) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(18) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(19) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(20) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(21) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(22) > .b-common__section__content
+my.mail.ru##div.b-common__section.b-video__section__item-page-player:nth-of-type(23) > .b-common__section__content
+mygaysites.com##.bottom-block
+mygaysites.com##.bottom-fixed-buttons
+mygaysites.com##.bottom-shadow.top-shadow.v-scroll.link-details-review-wrapper
+mygaysites.com##.footer
+mygaysites.com##.scroll-to-next
+mygaysites.com##.scrollbox.category-desc
+mygaysites.com##.url_links_wrapper_related.url_links_wrapper
+mygaysites.com##.view_category
+mygaysites.com##.with-bg.copyright-message
+mylked.com###food-lifeline
+mylked.com###slide-video
+mylked.com##div.main:nth-child(5) > footer:last-child > div.container > div.footer-middle:nth-child(2)
+mylked.com##div.main:nth-child(5) > footer:last-child > div.container > div.footer-top.text-center:first-child
+mylked.com##div.main:nth-child(5) > section.section.section-video-pages:nth-child(3) > div.container > div.col-md-8.col-md-offset-2:first-child > div.video-box > div.title:last-child > div.title-bottom:last-child > div.text-center:last-child > a.big-btn-pink:last-child
+mylked.com##div.main:nth-child(5) > section.section.section-video-pages:nth-child(3) > div.container > div.row.gutter-10:nth-child(4)
+mylked.com##div.main:nth-child(5) > section.section.section-video-pages:nth-child(3) > div.container > h1.section-title:nth-child(3)
+mylked.com##div.main:nth-child(7) > footer:last-child > div.container > div.footer-middle:nth-child(2)
+mylked.com##div.main:nth-child(7) > footer:last-child > div.container > div.footer-top.text-center:first-child
+mylked.com##section.section-logo-slider:nth-child(5)gorod48.ru##.top-tabs.w-tabs > .tabs-content.w-tab-content
+mylked.com##section.section.offer-text.text-center.text-uppercase:nth-child(4)
+mylked.com##section.section.section-intro:nth-child(6)
+myqloud.org##.mb-3.py-3.px-1.text-center.col-12.buy-c2a
+news.mail.ru##.f96e65655a.b7f6791faf
+news.mail.ru##.fbb742eebb
+news.mail.ru##.js-dwh-logger-exclude
+news.mail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
+news.mail.ru##div.js-dwh-logger-exclude
+ok.ru###hook_Block_AuthLoginAutoOpen > auth-login-banner.h-mod.auth-login_auth-login-banner:last-child > div.auth-login-banner__e19f0
+ok.ru##.auth-login-banner__e19f0
+pcsupport.lenovo.com###confirmit-feedback
+pets.mail.ru##.rb-pulse
+pets.mail.ru##div.js-dwh-logger-exclude
+pikabu.ru##.app__host--fxp1CiA6
+pikabu.ru##.footer__captcha_nofooter.footer__captcha
+pikabu.ru##.footer__captcha_nofooter.footer__captcha_v3
+pikabu.ru##.promo-banner.promo-banner_button
+pikabu.ru##.promo-button
+pikabu.ru##a.ny2024_shown.ny2024:nth-of-type(2)
+pikabu.ru##div.app.promo-banner-sticky:nth-child(3) > div.app__content:nth-child(3) > div.page-story.main__content:last-child > div.related-stories-feed:last-child > div.stories-feed__container:last-child
+pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(2) > div.main:last-child > main.main__inner > div.page-story > div.related-stories-feed:last-child > div.stories-feed__container:last-child
+pogoda.mail.ru##.dd2b256c60
+pogoda.mail.ru##div.js-dwh-logger-exclude
+porndude2.com##.chat-widget
+porndude2.com##.drawer-opener.drawer-opener-mobile.drawer-opener-show > .drawer-opener-inner
+porndude2.com##.drawer-opener.drawer-opener-mobile.drawer-opener-show > .drawer-opener-inner > .drawer-opener-content
+porndude2.com##.inner-footer
+porngeek.com##.copyright-message
+porngeek.com##div.content-text__row:nth-of-type(1)
+pornlistx.com##.drawer-app__toggle.drawer-app__toggle--floating
+pornolab.net##.hide-for-print.ta-inf2.top-alert
+pornrip.cc###back-to-top
+pornrip.cc###bitcoin-banner
+pornrip.cc###footer
+pornrip.cc###st_undr_ban > [href*="/buy-premium-on-keep2share-with-litecoin/"] > span
+pornrip.cc##.author.grid-parent > p
+pornrip.cc##.content-wrapper.grid-70 > .section
+pornrip.cc##.next-posts
+pornrip.cc##.tags.grid-parent
+pornrip.cc##div.articles:nth-of-type(5)
+pornrip.cc##div.tag-description.textcenter:nth-of-type(4)
+pornrips.cc###content > article.short:nth-of-type(1)
+pornrips.cc###content > article.short:nth-of-type(2)
+pornrips.cc###content > article.short:nth-of-type(3)
+pornrips.cc###content > article.short:nth-of-type(4)
+pornrips.cc###content > article.short:nth-of-type(5)
+pornrips.cc###content > article.short:nth-of-type(6)
+pornrips.cc###content > article.short:nth-of-type(7)
+pornrips.cc###content > article.short:nth-of-type(8)
+pornrips.cc##.grid_list > article.short
+pornrips.cc##.nextprev
+pornrips.cc##.related > .category-line
+pornrips.cc##[src*="/templates/Red/images/waysha.jpg"]
+pornrips.cc##div.category-line:nth-of-type(2)
+pornsites.com##.seo-block > .container
+postimg.cc###collapse-list > div.container.container-top:first-child
+postimg.cc###collapse-list > div.container.container-top:first-child > div.controls
+postimg.cc###collapse-list > div.container:nth-child(2)
+postimg.cc###td-image > div:first-child
+promocodes.hi-tech.mail.ru##.landing-banners
+promocodes.hi-tech.mail.ru##.retailer-coupon--banner
+promocodes.hi-tech.mail.ru##.scroll-banner
+promocodes.hi-tech.mail.ru##.swiper-wrapper
+prostitutki-today.com###scrollup
+prostitutki-today.com##.more-button-box
+prostitutki-today.com##div.owl-slider-carousel:nth-of-type(2) > .catalog-box
+prostitutki-today.com##div.owl-slider-carousel:nth-of-type(4) > .catalog-box
+prostitutki-today.com##h2.main-title:nth-of-type(1)
+prostitutki-today.com##h2.main-title:nth-of-type(2)
+remonta.top##.scrolltop.js-scrolltop
+ren.tv##.MaxBanner_c3Mc0.MaxBannerOpen_8NkL8
+ren.tv##.px-24.py-24.customButtonsWrapper_pk3ZA
+rg.ru##.ChannelButtonGroup_root__GKaMd.PageArticleContent_channelButtons__o4MLd
+rg.ru##.PageArticleContent_relationBottom__jIiqg
+rg.ru##.PageArticle_media7__cdeUV
+ria.ru##.js__toggle-chat-article.widgets__open-chat
+ria.ru##.lenta-mini
+rt.pornhub.org###countryRedirectMessage
+rt.pornhub.org##.tabWrapper
+ru.kbs-connector.com##.GdImBox
+ru.kbs-connector.com##.GdImMiniBox
+ru.kbs-connector.com##.msgList.bubbleList
+ru.kbs-connector.com##.pro-random
+ru.savefrom.net###main > .wrapper
+ru.savefrom.net##.b-instruction
+ru.savefrom.net##.dailymotion-page
+ru.savefrom.net##.dailymotion-page > section:nth-of-type(1) > h2:nth-of-type(1)
+ru.savefrom.net##.f-nav
+ru.savefrom.net##.main-supported-services
+ru.savefrom.net##.show-mobile-only
+ru.savefrom.net##.terms__string
+rudiplomy.ru##span.snowflake
+rutube.ru##div.wdp-grid-module__gridWrapper:nth-of-type(1) > .wdp-grid-module__grid
+science.mail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
+sexhd.pics###free_sign_up
+sexhd.pics##.relativetop
+sexhd.pics##div.mc
+site-analyzer.ru##.popup-fade.exitblock
+sportmail.ru##.fbb742eebb
+sportmail.ru##.js-dwh-logger-exclude
+sportmail.ru##.js-dwh-logger-exclude > div
+sportmail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
+sportmail.ru##.rb-lenta__lenta.lenta-lenta-root
+sportmail.ru##.rb-pulse__lenta, .pulse-lenta-root
+sportmail.ru##div.js-dwh-logger-exclude
+sudrf.ru###divAdmMessContainer0
+sudrf.ru###divAdmMessContent0 > div:nth-of-type(1)
+sudrf.ru##.blockall
+sudrf.ru##.blockall > div:nth-of-type(1)
+sudrf.ru##.blockall > div:nth-of-type(2)
+sudrf.ru##.gossluzhba
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div.divAdmMessContent:nth-of-type(3)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div.divAdmMessContent:nth-of-type(4)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div:nth-of-type(2)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div:nth-of-type(3)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(3) > div:nth-of-type(1)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(3) > div:nth-of-type(2)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(4) > div:nth-of-type(2)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(5) > div
+sudrf.ru##.voit.assist-toggle
+sudrf.ru##div.m-ver_m.m-left_m:nth-of-type(3) > .menu.menu_vertical.menu_brown > .menu__item
+sudrf.ru##div.m-ver_m.m-left_m:nth-of-type(4) > .menu.menu_vertical.menu_brown > .menu__item
+sudrf.ru##div.m-ver_m.m-right_m:nth-of-type(2)
+sudrf.ru/1195/user/9_maya.jpg"]
+sudrf.ru/1195/user/1681042263_papik-pro-p-nakleika-invalid-7.jpg"]
+sudrf.ru/1195/user/Poluchenie_sudebnih_aktov_i_uvedomleniy.jpg"]
+sudrf.ru/1195/user/Primiritelnie_protseduri.jpg"]
+sudrf.ru/1195/user/VK_sayt.png"]
+sudrf.ru/1532/user/80_let1.png"]
+sudrf.ru/1532/user/Gossluzba_1.jpg"]
+sudrf.ru/1532/user/VK_sayt.png"]
+sudrf.ru/1532/user/Virt_SUD.jpg"]
+sudrf.ru/2159/user/9_maya.jpg"]
+sudrf.ru/2159/user/Poluchenie_sudebnih_aktov_i_uvedomleniy.jpg"]
+t.me###widget_actions
+t.me###widget_actions_wrap
+t.me##.stuck.tgme_page_widget_actions_wrap
+t.me##.tgme_head_right_btn
+t.me##.tgme_page_widget_actions_wrap
+telemetr.me###__replain_widget_iframe
+telemetr.me##.img-fluid.advise-block__bg
+telemetr.me##.partners-mp-section > .mp-section-separate__heading
+telemetr.me##.partners-mp-section__swiper.swiper.swiper-initialized.swiper-horizontal.swiper-android.swiper-backface-hidden
+telemetr.me##.reg-mp-section
+telemetr.me##.upper-alert-line
+telemetr.me##.web-hide.w-100
+telemetr.me##div.advise-block
+tema.livejournal.com##.more-entries-wrapper > section
+texter.ru##._text-info_t4wcg_1
+texterra.ru##.web-promo-banner
+theporndude.com###bottom-block
+theporndude.com##.back-block-link
+theporndude.com##.back-block.lazyloaded
+theporndude.com##.bottom-block
+theporndude.com##.bottom-toolbar-main
+theporndude.com##.bottom-toolbar-show.bottom-toolbar-category.bottom-toolbar
+theporndude.com##.bottom-toolbar-show.bottom-toolbar-review.bottom-toolbar
+theporndude.com##.bottom-toolbar-side
+theporndude.com##.category-desc.scrollbox.custom-scrollbar
+theporndude.com##.category-top-cards
+theporndude.com##.chat-widget
+theporndude.com##.drawer-opener.drawer-opener-mobile.drawer-opener-show
+theporndude.com##.inner-footer > p:nth-of-type(1)
+theporndude.com##.inner-footer > p:nth-of-type(2)
+theporndude.com##.lazyloaded.back-block
+theporndude.com##.scrollspy-btn-fixed.scrollspy-btn
+theporndude.com##.scrollspy-btn-progress-bar
+theporndude.com##h2.copyright-message-headline
+theporndude.com##h3.copyright-message-headline:nth-of-type(1)
+theporndude.com##h3.copyright-message-headline:nth-of-type(2)
+theporndude.com##h3.copyright-message-headline:nth-of-type(3)
+theporndude.com##h3.copyright-message-headline:nth-of-type(4)
+theporndude.com##h3.copyright-message-headline:nth-of-type(5)
+theporndude.com##h3.copyright-message-headline:nth-of-type(6)
+theporndude.com##h3.copyright-message-headline:nth-of-type(7)
+theporndude.com##p:nth-of-type(3)
+theporndude.com##p:nth-of-type(4)
+theporndude.com##p:nth-of-type(5)
+theporndude.com##p:nth-of-type(6)
+theporndude.com##p:nth-of-type(7)
+theporndude.com##p:nth-of-type(8)
+transfiles.ru###footer_4 > .container > div
+transfiles.ru##.cont_row
+transfiles.ru##.donate_btn
+tv.mail.ru##div.js-dwh-logger-exclude
+ukraina.ru##.lenta-mini
+unian.net##.read-also-slider
+useful-faq.livejournal.com##.aentry-wrapper__autoplay-video
+useful-faq.livejournal.com##.b-singlepost-standout
+useful-faq.livejournal.com##.dugsum5qe4a7fbnpm
+useful-faq.livejournal.com##.threeposts, .threeposts--count-3, .threeposts--size-xxl, .threeposts--items-in-row-3, .threeposts--item-size-xl
+useful-faq.livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.aentry.aentry--post2017 > div.aentry-item.js--first-post-item:first-child > div.aentry-comments:nth-child(6)
+useful-faq.livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.aentry.aentry--post2017 > div.aentry-item.js--first-post-item:first-child > div.more-entries-wrapper:nth-child(4)
+useful-faq.livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.aentry.aentry--post2017 > div.aentry__loader.js-initial-observer-target:nth-child(3)
+vfokuse.mail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
+vfokuse.mail.ru##div.js-dwh-logger-exclude
+vk.*###content > div.VideoLayout > div.VideoLayout__aside.VideoLayout__aside--collapsed:first-child
+vk.*###content > div.VideoLayout > div.VideoLayout__aside:first-child
+vk.*###fastchat-reforged > div.vkui__root > div.FCApp.FCAppConfig.MEConfig > aside.FCPanel:last-child
+vk.*###footer_wrap
+vk.*###mv_comments_wrap
+vk.*###react_rootLeftMenuRoot
+vk.*###react_rootTopNavNotifications
+vk.*###react_rootVideo_page > div.vkui__root > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
+vk.*###react_rootVideo_page > div.vkui__root > div.vkuiSplitLayout.vkuiPopoutRoot.vkuiRootComponent > div.vkuiSplitLayout__inner.vkitTwoColumnLayout__root--282Wt.vkuiInternalTwoColumnLayout > div.vkitTwoColumnLayoutNarrow__root--kuz5K.vkuiInternalTwoColumnLayoutColumn.vkuiSplitCol.vkuiSplitCol--viewWidth-none.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent:last-child
+vk.*###top_reg_link
+vk.*###video_left_menu_toggle
+vk.*###video_recommendations
+vk.*###web_spa_top_audio_player
+vk.*##.FCPanel
+vk.*##.FCPanel__add
+vk.*##.FCPanel__list
+vk.*##.FCPanel__widthToggleIcon
+vk.*##.HeaderNav__item--acts.HeaderNav__item
+vk.*##.StoryFeedBlockWrapper.stories_feed_wrap
+vk.*##.WideSeparator--legalRecommendationsLink.WideSeparator
+vk.*##._emoji_field_wrap
+vk.*##._post_wrap.wall_module.pv_reply_form
+vk.*##.fl_l.side_bar_video_spa_collapsed
+vk.*##.fl_r.footer_wrap
+vk.*##.mv_info_narrow_column
+vk.*##.no_rows.pv_no_commments_placeholder
+vk.*##.reply_box_wrap
+vk.*##.reply_fakebox_wrap
+vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeLink.vkuiButton__appearanceAccent.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host > .vkuiButton__in
+vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeOutline.vkuiButton__appearanceNeutral.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host
+vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeOutline.vkuiButton__appearanceNeutral.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host > .vkuiButton__in
+vk.*##.vkitComment__likesModeAlways--2bEZ9.vkitComment__likeShowOnHover--BDeAf
+vk.*##.vkitFooterBanner__inner--APCYy
+vk.*##.vkitOnboardingBanner__root--ghbel
+vk.*##.vkitPageFooter__rootCompact--UWfMM
+vk.*##.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host
+vk.*##.vkuiFlex__host.vkuiFlex__wrap.vkuiFlex__justifyEnd.vkuistyles__-row-gap--xl.vkuistyles__-column-gap--3xl.vkuiRootComponent__host > div.vkuiRootComponent__host:nth-of-type(3) > .vkitLink__link--b0dQw.vkitLink__contrast--beYBI.vkitLink__withIconInChildren--HZ01v.vkuiInternalTappable.vkuiLink__host.vkuiLink__withUnderline.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host > span
+vk.*##.vkuiRootComponent__host.vkuiDiv__host.vkitCommentInput__root--On0G7
+vk.*##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
+vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerNone.vkuiTappable__host.vkuiButton__appearanceNeutral.vkuiButton__modeOutline.vkuiButton__sizeS.vkuiButton__host.vkuiInternalTappable.vkitButton__root--nxPS7
+vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerNone.vkuiTappable__host.vkuiInternalTappable.vkitCommentLike__like--XYq0X
+vk.*##div.LeftMenuAppPromo
+vk.*##div.LeftMenuAppPromo:nth-of-type(5)
+vk.*##div.LeftMenuAppPromo:nth-of-type(7)
+vk.*##div.WideSeparator:nth-of-type(4)
+vk.*##span.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerNone.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw:nth-of-type(2)
+vk.*##span.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerNone.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw:nth-of-type(3)
+vkvideo.ru###content > div.VideoLayout > div.VideoLayout__aside.VideoLayout__aside--collapsed:first-child
+vkvideo.ru###content > div.VideoLayout > div.VideoLayout__aside:first-child
+vkvideo.ru###mv_comments_wrap
+vkvideo.ru###react_rootVideo_page > div.vkui__root > div.vkuiSplitLayout.vkuiPopoutRoot.vkuiRootComponent > div.vkuiSplitLayout__inner.vkitTwoColumnLayout__root--282Wt.vkuiInternalTwoColumnLayout > div.vkitTwoColumnLayoutNarrow__root--kuz5K.vkuiInternalTwoColumnLayoutColumn.vkuiSplitCol.vkuiSplitCol--viewWidth-none.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent:last-child
+vkvideo.ru###video_recommendations
+vkvideo.ru##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
+vkvideo.ru##.vkuiRootComponent__host.vkuiInternalSplitCol--viewWidth-none.vkuiSplitCol__viewWidthNone.vkuiSplitCol__host.vkitInternalTwoColumnLayoutColumn.vkitTwoColumnLayoutNarrow__root--5futo
+vtrahe.pw###scrolltop
+vtrahe.pw##.sect--tabs.sect
+vtrahe.pw##.sect__title.js-show-comments.is-active
+vtrahe.pw##div.sect__tabs-content:nth-of-type(2)
+wayshare.cc##.plans-wrapper
+wayshare.cc##center > .btn.btn-success.position-main-menu
+wdfiles.ru###fast
+wdfiles.ru###manage
+wdfiles.ru###share
+wdfiles.ru##.fa-chevron-circle-down.fa
+wdfiles.ru##.homepage-section.homepage-section-4.visible.fadeInUp.animated
+wdfiles.ru##.scrollup
+webgraal.ru###block-11
+webgraal.ru###block-3
+www.dataspace.ru##.b-cookie-notice__container.b-container
+www.gazeta.ru###_id_topnews
+www.gazeta.ru###_id_topnews_content
+www.gazeta.ru##.b_topnews-wrapper
+www.gazeta.ru##.wrapper
+www.google.com###CE62Bb > div
+www.google.com##.B4GxFc.b0KoTc
+www.google.com##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
+www.google.com##.b2hzT
+www.google.com##.smiUbb.fbar
+www.google.com##i
+www.hostland.ru##.scrollup
+www.mk-lipetsk.ru##.article-grid__in-region
+www.mk-lipetsk.ru##.article-grid__interesting.interesting_mob-shown
+www.mk-lipetsk.ru##.article-grid__news.js-federal-news-in-region.js-mob-shown
+www.mk-lipetsk.ru##.article-grid__partners
+www.mk-lipetsk.ru##.article-grid__photo-slider.media-slider > .aside-head.aside-head_slider
+www.mk-lipetsk.ru##.article-grid__photo-slider.media-slider > .media-slider__content-wraper > .media-slider__scroll
+www.mk-lipetsk.ru##.article-grid__read-more
+www.mk-lipetsk.ru##.article-grid__read-more > .aside-show-more > .aside-show-more__button
+www.mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(1) > .article-grid__avto.js-slider-with-counter
+www.mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(2) > .article-grid__avto.js-slider-with-counter
+www.mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(3) > .article-grid__avto.js-slider-with-counter
+www.mk-lipetsk.ru##.article-grid__right > a.weather__widget.weather-full:nth-of-type(1)
+www.mk-lipetsk.ru##.article-grid__video-slider.media-slider > .aside-head.aside-head_slider
+www.mk-lipetsk.ru##.article-grid__video-slider.media-slider > .media-slider__content-wraper > .media-slider__scroll
+www.mk-lipetsk.ru##.article-hide.article-grid__most-read.js-mob-shown
+www.mk-lipetsk.ru##.footer__copyright > .footer__text
+www.mk-lipetsk.ru##.footer__copyright > p:nth-of-type(2)
+www.mk-lipetsk.ru##.footer__copyright > p:nth-of-type(3)
+www.mk-lipetsk.ru##.footer__copyright > p:nth-of-type(4)
+www.mk-lipetsk.ru##.footer__for-advertisers.nav_for-advertisers
+www.mk-lipetsk.ru##.footer__for-readers.nav_for-readers
+www.mk-lipetsk.ru##.footer__legal-information > .footer__text
+www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(2)
+www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(3)
+www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(4)
+www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(5)
+www.mk-lipetsk.ru##.footer__mk.nav_mk
+www.mk-lipetsk.ru##.footer__navigation.nav_main > .nav__list
+www.mk-lipetsk.ru##.good-place__inner-under-partner-news
+www.mk-lipetsk.ru##.good-place__under-article-2
+www.mk-lipetsk.ru##.good-place__under-article-1
+www.mk-lipetsk.ru##.good-place__under-article-1 > div:nth-of-type(1)
+www.mk-lipetsk.ru##.interesting__item.interesting__item_first.last-shown-item
+www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(1)
+www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(2)
+www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(3)
+www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(4)
+www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(5)
+www.mk-lipetsk.ru##.subscription.subscription_article
+www.ntv.ru##.anchor-top
+www.ntv.ru##.comments__anchor.anchor-comments > button
+www.ntv.ru##.footer__copy > .b-xs.b
+www.ntv.ru##.footer__info
+www.ntv.ru##.footer__sberrr
+www.ntv.ru##.news__rec.recommendations
+www.ntv.ru##.news__stories.stories-widget
+www.ntv.ru##.news__subscribe-socials
+www.ntv.ru##.news__subscribe-socials.subscribe-socials--max2.subscribe-socials.router-ui
+www.ntv.ru##.swiper-watch-progress.swiper-android.swiper-horizontal.swiper-initialized.swiper.slider-ui__slider > .swiper-wrapper.slider-ui__wrapper
+www.porner.xxx###scrollUp
+www.porner.xxx##.ft_holde
+www.porner.xxx##.info-holder > .sponsor > .text
+www.porner.xxx##.related-videos
+www.porner.xxx##.right
+www.porner.xxx##.sponsor.top_player_sponsor
+www.porner.xxx##.tags
+www.porner.xxx##div.ft:nth-of-type(4)
+www.porner.xxx##div.ft:nth-of-type(4) > div.ft-row:nth-of-type(1)
+www.sexfetishforum.com##[href="https://www.xufile.com"]
+www.sexfetishforum.com##div.windowbg
+www.tafile.com###Prem_days
+www.thepornlist.net##.categorylink
+www.thepornlist.net##.hd2 > span
+www.thepornlist.net##center
+www.thepornlist.net##div.categoryicons
+www.thepornlist.net##p > [href="https://www.thepornlist.net/ru/"]
+www.wildberries.ru###smartBanner
+www.wildberries.ru##._swiperContainer_1va9n_227.custom-slider--goods.swiperContainer--kgj74.isLockedSwiper--WVoGj.custom-slider.custom-slider--beginning
+www.wildberries.ru##.banner--yN9XS
+www.wildberries.ru##.banners--3.j-content-item.j-banners-block.j-slider-banners.slider-main.main-page__banners
+www.wildberries.ru##.banners--3.j-content-item.j-banners-block.j-slider-banners.slider-main.main-page__bannersmail.ru##.svelte-xvln2f.ads-top__fixed.ads-top__fixed-after-rates.ads_overflow-disabled
+www.wildberries.ru##.cards-list
+www.wildberries.ru##.footer-social__list
+www.wildberries.ru##.footer__list.hide-desktop
+www.wildberries.ru##.goods-slider__header-wrap
+www.wildberries.ru##.j-online-chat.j-btn-chat-open
+www.wildberries.ru##.j-recent-items
+www.wildberries.ru##.mainRecBlock--ACZvd
+www.wildberries.ru##.pageBottom--s6YXs
+www.wildberries.ru##div.basket-page__recommend--custom.basket-page__recommend:nth-of-type(2)
+www.wildberries.ru##div.basket-page__recommend--custom.basket-page__recommend:nth-of-type(3)
+www.wildberries.ru##div.basket-page__recommend.basket-page__recommend--custom:nth-of-type(2)
+www.wildberries.ru##div.basket-page__recommend.basket-page__recommend--custom:nth-of-type(3)
+www.xtits.com###list_videos_related_videos
+xnxx-ru.com###ad-footer
+xnxx.lgbt###_popup
+xnxx.lgbt###chat-widget-host
+xx.huyalkino.com###gotop
+xx.huyalkino.com##.bongo
+xx.huyalkino.com##.rels-t
+xx.huyalkino.com##.znakom
+xx.huyalkino.com##[src*="/uploads/banner_shkury-350.webp"]
+xx.huyalkino.com##[src*="/uploads/banner_shkury_goriz.webp"]
+xx.huyalkino.com##[src*="/uploads/sliv.webp"]
+xx.huyalkino.com##div.thumb:nth-of-type(1)
+xx.huyalkino.com##div.thumb:nth-of-type(2)
+xx.huyalkino.com##div.thumb:nth-of-type(3)
+xx.huyalkino.com##div.thumb:nth-of-type(3) > .th-in > .th-img.img-resp-h > .lazy-loaded
+xx.huyalkino.com##div.thumb:nth-of-type(4)
+xx.huyalkino.com##div.thumb:nth-of-type(5)
+xx.huyalkino.com##div.thumb:nth-of-type(6)
+xx.huyalkino.com##div.thumb:nth-of-type(7)
+xx.huyalkino.com##div.thumb:nth-of-type(8)
+xx.huyalkino.com##div.thumb:nth-of-type(9)
+xx.huyalkino.com##div.thumb:nth-of-type(10)
+xx.huyalkino.com##div.thumb:nth-of-type(11)
+xx.huyalkino.com##div.thumb:nth-of-type(12)
+xx.huyalkino.com##div.thumb:nth-of-type(13)
+xx.huyalkino.com##div.thumb:nth-of-type(14)
+xx.huyalkino.com##div.thumb:nth-of-type(15)
+xx.huyalkino.com##div.thumb:nth-of-type(16)
+xx.huyalkino.com##div.thumb:nth-of-type(17)
+xx.huyalkino.com##div.thumb:nth-of-type(18)
+xx.huyalkino.com##div.thumb:nth-of-type(19)
+xx.huyalkino.com##div.thumb:nth-of-type(20)
+xx.huyalkino.com##div.thumb:nth-of-type(21)
+xx.huyalkino.com##div.thumb:nth-of-type(22)
+xx.huyalkino.com##div.thumb:nth-of-type(23)
+xx.huyalkino.com##div.thumb:nth-of-type(24)
+xx.huyalkino.com##div.thumb:nth-of-type(25)
+xx.huyalkino.com##div.thumb:nth-of-type(26)
+xx.huyalkino.com##div.thumb:nth-of-type(27)
+xx.huyalkino.com##div.thumb:nth-of-type(28)
+xx.huyalkino.com##p:nth-of-type(1) > span:nth-of-type(1) > b > span:nth-of-type(1) > u > span
+xx.huyalkino.com##p:nth-of-type(2) > span:nth-of-type(1) > span:nth-of-type(1) > b > span:nth-of-type(1)
+xxxdd.net###footbox
+xxxdd.net##.ilike_rating
+yandex.*###search-result > div:nth-child(4) > div > div.b8KSwZTZhVEmX.b8KSwZTZkSVaO__card:first-child
+yandex.*##.ImagesTouchViewer-ContentCard.ImagesTouchViewer-Rim.ImagesViewerRim.ImagesRelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
+yandex.*##.ImagesTouchViewer-Item.ImagesTouchViewer-ViewerItem_active.ImagesTouchViewer-ViewerItem > div > .ImagesTouchViewer-Card_bLcEPib7M15DaTAQ7Vumllg.ImagesTouchViewer-Card.bC80VjavR8YzXSS43_skeleton.bC80VjavR8YzXSS43_bKc0LhK3B.bC80VjavR8YzXSS43
+yandex.*##.PreventionFeature_type_listRKN.PreventionFeature
+yandex.*##.RelatedBottom
+yandex.*##.RequestMeta-Level_type_antispam.RequestMeta-Level
+yandex.*##.SearchPageGridDirect
+yandex.*##.SearchPrevention.Prevention
+yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
+yandex.*##.Skeleton_type_ad_search_grid_inplace.Skeleton
+yandex.*##.cumZDcap68Fskob0-DetailsChannel.Link
+yandex.*##.cumZDcap68Fskob0-cqGZVcaZY_withStore.cumZDcap68Fskob0-cqGZVcaZY_stickyAvailable.cumZDcap68Fskob0-cqGZVcaZY_placement_cmWFDcbcB6VIyvarH.cumZDcap68Fskob0-cqGZVcaZY
+yandex.*##.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_withStore.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_stickyAvailable.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_placement_h1gqCkwbz9cFxAR7X.h9Q2CkxKI7MhnHQk-h5w2Ukx6q
+yandex.*##.mDK9waJAZWw0D1a0-mHq9maJw7_withStore.mDK9waJAZWw0D1a0-mHq9maJw7_stickyAvailable.mDK9waJAZWw0D1a0-mHq9maJw7_placement_mL6hwaI1iQgQVybrB.mDK9waJAZWw0D1a0-mHq9maJw7
+yandex.*##.orpLumST4guGewlI-ovJL4mSja_withStore.orpLumST4guGewlI-ovJL4mSja_placement_ojZXumTmDmaiI3kXL.orpLumST4guGewlI-ovJL4mSja
+yandex.*##.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_withStore.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_placement_uW6Q4E7fAPzaMbrb8.ueKM4E6q7Jjaa4qg-uaqMuE6aZ
+yandex.*##div.cumZDcap68Fskob0-VideoListPageDirect.cumZDcap68Fskob0-cqGZVcaZY_withStore.cumZDcap68Fskob0-cqGZVcaZY_placement_cmmZDcaoB9VcgsA.cumZDcap68Fskob0-cqGZVcaZY
+yandex.*##div.h9Q2CkxKI7MhnHQk-VideoListPageDirect.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_withStore.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_placement_h1Q2CkxLz6cRjDA.h9Q2CkxKI7MhnHQk-h5w2Ukx6q
+yandex.*##div.mDK9waJAZWw0D1a0-VideoListPageDirect.mDK9waJAZWw0D1a0-mHq9maJw7_withStore.mDK9waJAZWw0D1a0-mHq9maJw7_placement_mLK9waJBiXgEHxg.mDK9waJAZWw0D1a0-mHq9maJw7
+yandex.*##div.orpLumST4guGewlI-VideoListPageDirect.orpLumST4guGewlI-ovJL4mSja_withStore.orpLumST4guGewlI-ovJL4mSja_placement_ojpLumSSDha2a0w.orpLumST4guGewlI-ovJL4mSja
+yandex.*##div.ueKM4E6q7Jjaa4qg-VideoListPageDirect.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_withStore.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_placement_uWKM4E6rAIzqe8w.ueKM4E6q7Jjaa4qg-uaqMuE6aZ
+yandex.*##li.h5w2Ukx6qFeature.h8AGHhB62x8FbGxA
+zenstat.ru##.download-result.col-lg-9.col-12.placeholder.rtb
+zenstat.ru##.explorer-subtext
+zenstat.ru##.mt-5.features
+zenstat.ru##.mt-5.pt-5.faq-section.container
+zenstat.ru##.mt-4.text-center
+zenstat.ru##.placeholder2
+zenstat.ru##.preview.col-md-4.col-12.mb-1.mt-1
+zenstat.ru##.progress
+zenstat.ru##.progress-bar.progress-bar-striped.progress-bar-animated
+zenstat.ru##.pt-4.pb-4.text-center.mt-5
+zenstat.ru##.steps.mt-5.pt-4
+||glavpahar.ru/media/uploads/*-ptz-brend-yanv-*.webp
+||lipetskmedia.ru/upload/rk/30b/7x3006sosdnahlvrd6h1o6n0m4qqz54o.gif
+||s7.dpic.me/02090/nrptbxkvpxhu_o/lois.gif$image
