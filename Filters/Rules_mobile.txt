@@ -646,6 +646,10 @@ www.gazeta.ru###_id_topnews
 www.gazeta.ru###_id_topnews_content
 www.gazeta.ru##.b_topnews-wrapper
 www.gazeta.ru##.wrapper
+www.google.com###CE62Bb > div
+www.google.com##.B4GxFc.b0KoTc
+www.google.com##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
+www.google.com##.b2hzT
 www.google.com##.smiUbb.fbar
 www.google.com##i
 www.hostland.ru##.scrollup
