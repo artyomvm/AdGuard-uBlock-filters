@@ -1,4 +1,4 @@
-﻿1tw.live##.GDPRPanel-module-root
+1tw.live##.GDPRPanel-module-root
 1tw.live##.Layout-module-banner
 1tw.live##.SupportPanel-module-root, .SupportPanel-module-ru
 2ip.ru##.page-speed-checker-links
@@ -310,6 +310,7 @@ mail.ru##.ads_overflow-disabled.ads-above-dzen.ads-above-horoscopes
 mail.ru##.horo
 mail.ru##.search-container_mobile.search-container
 mail.ru##.section_rounded-corners.section_padding
+mail.ru##.svelte-xvln2f.ads-top__fixed.ads-top__fixed-after-rates.ads_overflow-disabled
 mail.ru##.vk-feed
 meduza.io##.GDPRPanel-module-root
 meduza.io##.Layout-module-banner
@@ -373,7 +374,7 @@ mylked.com##div.main:nth-child(5) > section.section.section-video-pages:nth-chil
 mylked.com##div.main:nth-child(5) > section.section.section-video-pages:nth-child(3) > div.container > h1.section-title:nth-child(3)
 mylked.com##div.main:nth-child(7) > footer:last-child > div.container > div.footer-middle:nth-child(2)
 mylked.com##div.main:nth-child(7) > footer:last-child > div.container > div.footer-top.text-center:first-child
-mylked.com##section.section-logo-slider:nth-child(5)gorod48.ru##.top-tabs.w-tabs > .tabs-content.w-tab-content
+mylked.com##section.section-logo-slider:nth-child(5)
 mylked.com##section.section.offer-text.text-center.text-uppercase:nth-child(4)
 mylked.com##section.section.section-intro:nth-child(6)
 myqloud.org##.mb-3.py-3.px-1.text-center.col-12.buy-c2a
@@ -720,7 +721,6 @@ www.wildberries.ru###smartBanner
 www.wildberries.ru##._swiperContainer_1va9n_227.custom-slider--goods.swiperContainer--kgj74.isLockedSwiper--WVoGj.custom-slider.custom-slider--beginning
 www.wildberries.ru##.banner--yN9XS
 www.wildberries.ru##.banners--3.j-content-item.j-banners-block.j-slider-banners.slider-main.main-page__banners
-www.wildberries.ru##.banners--3.j-content-item.j-banners-block.j-slider-banners.slider-main.main-page__bannersmail.ru##.svelte-xvln2f.ads-top__fixed.ads-top__fixed-after-rates.ads_overflow-disabled
 www.wildberries.ru##.cards-list
 www.wildberries.ru##.footer-social__list
 www.wildberries.ru##.footer__list.hide-desktop
