@@ -604,7 +604,6 @@ vk.*##.vkitComment__likesModeAlways--2bEZ9.vkitComment__likeShowOnHover--BDeAf
 vk.*##.vkitFooterBanner__inner--APCYy
 vk.*##.vkitOnboardingBanner__root--ghbel
 vk.*##.vkitPageFooter__rootCompact--UWfMM
-vk.*##.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host
 vk.*##.vkuiFlex__host.vkuiFlex__wrap.vkuiFlex__justifyEnd.vkuistyles__-row-gap--xl.vkuistyles__-column-gap--3xl.vkuiRootComponent__host > div.vkuiRootComponent__host:nth-of-type(3) > .vkitLink__link--b0dQw.vkitLink__contrast--beYBI.vkitLink__withIconInChildren--HZ01v.vkuiInternalTappable.vkuiLink__host.vkuiLink__withUnderline.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host > span
 vk.*##.vkuiRootComponent__host.vkuiDiv__host.vkitCommentInput__root--On0G7
 vk.*##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
