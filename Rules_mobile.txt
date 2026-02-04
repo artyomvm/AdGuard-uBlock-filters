@@ -272,7 +272,6 @@ m.vk.*##.vkitComment__likesModeAlways--2bEZ9
 m.vk.*##.vkuiButton__in
 m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
 m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
-m.vk.*##.vkuiModalCardBase__container
 m.vk.*##.vkuiRootComponent__host.vkuiGroup__paddingM.vkuiInternalGroup--mode-plain.vkuiGroup__modePlain.vkuiGroup__sizeXCompact.vkuiGroup__host.vkuiInternalGroup.vkitRecommendationBlock__blockWrapResetPadding--tH8Sb.vkitGroup__groupModePlain--teaPf.vkitGroup__groupPaddingM--YlUNt.vkitGroup__group--lbf33
 m.vk.*##.vkuiRootComponent__host.vkuiWriteBar__host
 m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
@@ -813,3 +812,4 @@ zenstat.ru##.steps.mt-5.pt-4
 ||glavpahar.ru/media/uploads/*-ptz-brend-yanv-*.webp
 ||lipetskmedia.ru/upload/rk/30b/7x3006sosdnahlvrd6h1o6n0m4qqz54o.gif
 ||s7.dpic.me/02090/nrptbxkvpxhu_o/lois.gif$image
+
