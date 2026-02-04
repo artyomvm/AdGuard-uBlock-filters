@@ -264,6 +264,7 @@ m.vk.*###lm_cont
 m.vk.*###replies_to_last
 m.vk.*##.BottomMenu__fixed
 m.vk.*##.Replies_last_shown.Replies_last
+m.vk.*##.ReplyItem__likeWrap
 m.vk.*##.pv_nav_left > .pv_nav_link._thover
 m.vk.*##.pv_nav_right > .pv_nav_link._thover
 m.vk.*##.svgIcon.svgIcon-down_circle_24
