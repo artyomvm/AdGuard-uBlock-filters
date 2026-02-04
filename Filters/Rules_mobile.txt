@@ -3,6 +3,9 @@
 ! Description: Правила фильтрации с мобильного устройства
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
+! Разблокировка
+google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
+!
 1tw.live##.GDPRPanel-module-root
 1tw.live##.Layout-module-banner
 1tw.live##.SupportPanel-module-root, .SupportPanel-module-ru
