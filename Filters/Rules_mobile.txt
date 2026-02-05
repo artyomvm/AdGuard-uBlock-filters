@@ -3,9 +3,15 @@
 ! Description: Правила фильтрации контента при пользовании мобильным устройством
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
-! Разблокировка правила из фильтра Web Annoyances Ultralist от Adguard (опускание текста в строке поиска в Google)
+!
+! Разблокировка правила из фильтра "Web Annoyances Ultralist" от Adguard (опускание текста в строке поиска в Google)
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
 !
+! Разблокировка правил из фильтра "RU AdList: Counters" от uBlock (сведения о найденном видео - заголовок, описание, источник, дата размещения, количество просмотров)
+yandex.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
+ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
+!
+! Разное
 1tw.live##.GDPRPanel-module-root
 1tw.live##.Layout-module-banner
 1tw.live##.SupportPanel-module-root, .SupportPanel-module-ru
@@ -64,6 +70,10 @@ daniosvet.ru###as-section-similar > .uk-container
 daniosvet.ru##.uk-panel.uk-width-medium\@l.uk-margin-auto-left.uk-height-1-1
 diplomis-o-vysshem-v-lipetske-48.ru###chat-popup
 downhomedigital.net##section.related-section.inside-article:nth-of-type(1)
+dzen.ru##.video-viewer--topic-channel-relatives-floor-redesign__borderWrapper-3m
+dzen.ru##.video-viewer--video-card-view-common__isMobile-R-.video-viewer--video-card-view-common__wrapper-3y
+dzen.ru##.video-viewer--video-feed__doc2Doc-2K
+dzen.ru##.video-viewer--video-feed__isVisible-MX.video-viewer--video-feed__d2DTabs-Uq
 ebalovo.club##.page-desc
 ebalovo.club##.page-section.mt-0.mt-lg-3 > .thumb-grid
 ebalovo.club##.video-container__aside
@@ -215,6 +225,7 @@ lipetsktime.ru##div.col-12.col-md-12.col-lg-4.mb-3.px-lg-4:nth-of-type(3)
 livejournal.com##div.body-content:nth-child(7) > header.s-header.s-header--notown-journal.s-header--personal-journal.s-header--nocyr.s-header--logged-out:nth-child(8) > div.dugsum5qe4a7fbnpm:nth-child(5)
 livejournal.com##div.s-layout.body-content.s-logged-out:first-child > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
 livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
+m.dzen.ru##.topic-channel--topic-channel-relatives-floor-redesign__isNewGaps-1c.topic-channel--topic-channel-relatives-floor-redesign__mobile-2d.topic-channel--palette__apricot-ta.topic-channel--topic-channel-relatives-floor__isNewGaps-1s.topic-channel--topic-channel-relatives-floor__mobile-2a.topic-channel--topic-channel-relatives-floor__thematicsEntryWrapperRedesign-2E
 m.mirporeva.xyz##.items
 m.mirporeva.xyz##.stitle
 m.my.mail.ru###wrap > div.body-wrapper:nth-child(4) > div.event.m-secondary:first-child > ul.list.m-video.video-list:nth-child(4)
@@ -289,6 +300,7 @@ m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realC
 m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
+m.vk.*##div.vkuiRootComponent__host.vkuiDiv__host > .vkuiRootComponent__host.vkuiInternalHorizontalScroll.vkuiHorizontalScroll__host.vkitGridHorizontalScroll__root--Os7re
 m.voronezhnews.ru###topAdWrapperVRN
 m.voronezhnews.ru##.additional-news
 m.voronezhnews.ru##.content-container > .main-news-list > .big-news-list > .big-news-list-item-category
@@ -444,10 +456,10 @@ promocodes.hi-tech.mail.ru##.landing-banners
 promocodes.hi-tech.mail.ru##.retailer-coupon--banner
 promocodes.hi-tech.mail.ru##.scroll-banner
 promocodes.hi-tech.mail.ru##.swiper-wrapper
-prostitutki-today.com##.footer_text
 prostitutki-today.com###scrollup
 prostitutki-today.com##.filter_text > p:nth-of-type(1)
 prostitutki-today.com##.filter_text > p:nth-of-type(2)
+prostitutki-today.com##.footer_text
 prostitutki-today.com##.more-button-box
 prostitutki-today.com##div.owl-slider-carousel:nth-of-type(2) > .catalog-box
 prostitutki-today.com##div.owl-slider-carousel:nth-of-type(4) > .catalog-box
@@ -495,29 +507,29 @@ sudrf.ru##.blockall
 sudrf.ru##.blockall > div:nth-of-type(1)
 sudrf.ru##.blockall > div:nth-of-type(2)
 sudrf.ru##.gossluzhba
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div.divAdmMessContent:nth-of-type(2) > [href*="https://sudlip-museum.ru/"] > span:nth-of-type(1) > span > [src*="https://files.sudrf.ru/1532/user/Virt_SUD.jpg"]
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div.divAdmMessContent:nth-of-type(3)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div.divAdmMessContent:nth-of-type(3) > [href*="https://vk.com/sud48"] > span:nth-of-type(1) > span > [src*="https://files.sudrf.ru/1532/user/VK_sayt.png"]
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div.divAdmMessContent:nth-of-type(4)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div.divAdmMessContent:nth-of-type(4) > [href*="https://gossluzhba.gov.ru/"] > span:nth-of-type(1) > span > [src*="https://files.sudrf.ru/1532/user/Gossluzba_1.jpg"]
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div:nth-of-type(1) > [href*="https://sovetsud.lpk.sudrf.ru/modules.php"] > [src*="https://files.sudrf.ru/2159/user/Poluchenie_sudebnih_aktov_i_uvedomleniy.jpg"]
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div:nth-of-type(2)
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > .m-ver_m.m-right_m > div:nth-of-type(3)
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(3) > div:nth-of-type(1)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(3) > div:nth-of-type(1) > [src*="https://files.sudrf.ru/1195/user/Primiritelnie_protseduri.jpg"]
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(3) > div:nth-of-type(2)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(4) > div:nth-of-type(1) > [href*="https://levsud.lpk.sudrf.ru/modules.php"] > [src*="https://files.sudrf.ru/1195/user/1681042263_papik-pro-p-nakleika-invalid-7.jpg"]
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(4) > div:nth-of-type(2)
+sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(5) > a[href*="https://vk.com/sud48"]:nth-of-type(1) > [src*="https://files.sudrf.ru/1195/user/VK_sayt.png"]
 sudrf.ru##.row.m-all_m.spice.spice_assist.spice_adopt > div.m-ver_m.m-right_m:nth-of-type(5) > div
 sudrf.ru##.voit.assist-toggle
+sudrf.ru##[src*="https://files.sudrf.ru/1195/user/9_maya.jpg"]
+sudrf.ru##[src*="https://files.sudrf.ru/1532/user/80_let1.png"]
+sudrf.ru##[src*="https://files.sudrf.ru/2159/user/9_maya.jpg"]
 sudrf.ru##div.m-ver_m.m-left_m:nth-of-type(3) > .menu.menu_vertical.menu_brown > .menu__item
 sudrf.ru##div.m-ver_m.m-left_m:nth-of-type(4) > .menu.menu_vertical.menu_brown > .menu__item
 sudrf.ru##div.m-ver_m.m-right_m:nth-of-type(2)
-sudrf.ru/1195/user/9_maya.jpg"]
-sudrf.ru/1195/user/1681042263_papik-pro-p-nakleika-invalid-7.jpg"]
-sudrf.ru/1195/user/Poluchenie_sudebnih_aktov_i_uvedomleniy.jpg"]
-sudrf.ru/1195/user/Primiritelnie_protseduri.jpg"]
-sudrf.ru/1195/user/VK_sayt.png"]
-sudrf.ru/1532/user/80_let1.png"]
-sudrf.ru/1532/user/Gossluzba_1.jpg"]
-sudrf.ru/1532/user/VK_sayt.png"]
-sudrf.ru/1532/user/Virt_SUD.jpg"]
-sudrf.ru/2159/user/9_maya.jpg"]
-sudrf.ru/2159/user/Poluchenie_sudebnih_aktov_i_uvedomleniy.jpg"]
+sudrf.ru##div.m-ver_m.m-right_m:nth-of-type(2) > [src*="https://files.sudrf.ru/1195/user/Poluchenie_sudebnih_aktov_i_uvedomleniy.jpg"]
 t.me###widget_actions
 t.me###widget_actions_wrap
 t.me##.stuck.tgme_page_widget_actions_wrap
@@ -633,8 +645,10 @@ vkvideo.ru###content > div.VideoLayout > div.VideoLayout__aside:first-child
 vkvideo.ru###mv_comments_wrap
 vkvideo.ru###react_rootVideo_page > div.vkui__root > div.vkuiSplitLayout.vkuiPopoutRoot.vkuiRootComponent > div.vkuiSplitLayout__inner.vkitTwoColumnLayout__root--282Wt.vkuiInternalTwoColumnLayout > div.vkitTwoColumnLayoutNarrow__root--kuz5K.vkuiInternalTwoColumnLayoutColumn.vkuiSplitCol.vkuiSplitCol--viewWidth-none.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent:last-child
 vkvideo.ru###video_recommendations
+vkvideo.ru##.sticky_top_force.fl_l.side_bar_video_spa_collapsed
 vkvideo.ru##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
 vkvideo.ru##.vkuiRootComponent__host.vkuiInternalSplitCol--viewWidth-none.vkuiSplitCol__viewWidthNone.vkuiSplitCol__host.vkitInternalTwoColumnLayoutColumn.vkitTwoColumnLayoutNarrow__root--5futo
+vkvideo.ru##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerNone.vkuiTappable__borderRadiusInherit.vkuiTappable__host.vkuiIconButton__sizeYCompact.vkuiIconButton__host.vkuiInternalTappable.vkitIconButton__rootCustomSize--jhwfr
 vtrahe.pw###scrolltop
 vtrahe.pw##.sect--tabs.sect
 vtrahe.pw##.sect__title.js-show-comments.is-active
@@ -810,11 +824,13 @@ yandex.*##.cumZDcap68Fskob0-cqGZVcaZY_withStore.cumZDcap68Fskob0-cqGZVcaZY_stick
 yandex.*##.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_withStore.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_stickyAvailable.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_placement_h1gqCkwbz9cFxAR7X.h9Q2CkxKI7MhnHQk-h5w2Ukx6q
 yandex.*##.mDK9waJAZWw0D1a0-mHq9maJw7_withStore.mDK9waJAZWw0D1a0-mHq9maJw7_stickyAvailable.mDK9waJAZWw0D1a0-mHq9maJw7_placement_mL6hwaI1iQgQVybrB.mDK9waJAZWw0D1a0-mHq9maJw7
 yandex.*##.orpLumST4guGewlI-ovJL4mSja_withStore.orpLumST4guGewlI-ovJL4mSja_placement_ojZXumTmDmaiI3kXL.orpLumST4guGewlI-ovJL4mSja
+yandex.*##.sEMxjvbAbOVMb1dM-sAsx1vbwd_withStore.sEMxjvbAbOVMb1dM-sAsx1vbwd_stickyAvailable.sEMxjvbAbOVMb1dM-sAsx1vbwd_placement_sM8tjva1EIFoNycSJ.sEMxjvbAbOVMb1dM-sAsx1vbwd
 yandex.*##.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_withStore.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_placement_uW6Q4E7fAPzaMbrb8.ueKM4E6q7Jjaa4qg-uaqMuE6aZ
 yandex.*##div.cumZDcap68Fskob0-VideoListPageDirect.cumZDcap68Fskob0-cqGZVcaZY_withStore.cumZDcap68Fskob0-cqGZVcaZY_placement_cmmZDcaoB9VcgsA.cumZDcap68Fskob0-cqGZVcaZY
 yandex.*##div.h9Q2CkxKI7MhnHQk-VideoListPageDirect.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_withStore.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_placement_h1Q2CkxLz6cRjDA.h9Q2CkxKI7MhnHQk-h5w2Ukx6q
 yandex.*##div.mDK9waJAZWw0D1a0-VideoListPageDirect.mDK9waJAZWw0D1a0-mHq9maJw7_withStore.mDK9waJAZWw0D1a0-mHq9maJw7_placement_mLK9waJBiXgEHxg.mDK9waJAZWw0D1a0-mHq9maJw7
 yandex.*##div.orpLumST4guGewlI-VideoListPageDirect.orpLumST4guGewlI-ovJL4mSja_withStore.orpLumST4guGewlI-ovJL4mSja_placement_ojpLumSSDha2a0w.orpLumST4guGewlI-ovJL4mSja
+yandex.*##div.sEMxjvbAbOVMb1dM-VideoListPageDirect.sEMxjvbAbOVMb1dM-sAsx1vbwd_withStore.sEMxjvbAbOVMb1dM-sAsx1vbwd_placement_sMMxjvbBEPF8fxA.sEMxjvbAbOVMb1dM-sAsx1vbwd
 yandex.*##div.ueKM4E6q7Jjaa4qg-VideoListPageDirect.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_withStore.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_placement_uWKM4E6rAIzqe8w.ueKM4E6q7Jjaa4qg-uaqMuE6aZ
 yandex.*##li.h5w2Ukx6qFeature.h8AGHhB62x8FbGxA
 zenstat.ru##.download-result.col-lg-9.col-12.placeholder.rtb
