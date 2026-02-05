@@ -3,7 +3,7 @@
 ! Description: Правила фильтрации контента при пользовании мобильным устройством
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
-! Разблокировка правила из фильтра Web Annoyances Ultralist от Adguard (опискание текста в строке поиска в Google)
+! Разблокировка правила из фильтра Web Annoyances Ultralist от Adguard (опускание текста в строке поиска в Google)
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
 !
 1tw.live##.GDPRPanel-module-root
