@@ -1,9 +1,9 @@
 [uBlock Origin]
-! Title: Правила фильтрации с мобильного устройства
-! Description: Правила фильтрации с мобильного устройства
+! Title: Фильтры мобильные
+! Description: Правила фильтрации контента при пользовании мобильным устройством
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
-! Разблокировка
+! Разблокировка правила из фильтра Web Annoyances Ultralist от Adguard (опискание текста в строке поиска в Google)
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
 !
 1tw.live##.GDPRPanel-module-root
@@ -445,6 +445,8 @@ promocodes.hi-tech.mail.ru##.retailer-coupon--banner
 promocodes.hi-tech.mail.ru##.scroll-banner
 promocodes.hi-tech.mail.ru##.swiper-wrapper
 prostitutki-today.com###scrollup
+prostitutki-today.com##.filter_text > p:nth-of-type(1)
+prostitutki-today.com##.filter_text > p:nth-of-type(2)
 prostitutki-today.com##.more-button-box
 prostitutki-today.com##div.owl-slider-carousel:nth-of-type(2) > .catalog-box
 prostitutki-today.com##div.owl-slider-carousel:nth-of-type(4) > .catalog-box
@@ -598,7 +600,9 @@ vk.*##.HeaderNav__item--acts.HeaderNav__item
 vk.*##.StoryFeedBlockWrapper.stories_feed_wrap
 vk.*##.WideSeparator--legalRecommendationsLink.WideSeparator
 vk.*##._emoji_field_wrap
+vk.*##._like.like.like_btn
 vk.*##._post_wrap.wall_module.pv_reply_form
+vk.*##.empty._like.like.like_btn
 vk.*##.fl_l.side_bar_video_spa_collapsed
 vk.*##.fl_r.footer_wrap
 vk.*##.mv_info_narrow_column
@@ -651,9 +655,13 @@ www.gazeta.ru##.b_topnews-wrapper
 www.gazeta.ru##.wrapper
 www.google.com###CE62Bb > div
 www.google.com##.B4GxFc.b0KoTc
+www.google.com##.JwzvB
 www.google.com##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
+www.google.com##.aajZCb > div.ftihzf:nth-of-type(2)
 www.google.com##.b2hzT
 www.google.com##.smiUbb.fbar
+www.google.com##.vt6azd.Ww4FFb.wHYlTd.AuVD
+www.google.com##div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.cUnQKe > .ouy7Mc
 www.google.com##i
 www.hostland.ru##.scrollup
 www.mk-lipetsk.ru##.article-grid__in-region
@@ -782,6 +790,10 @@ xx.huyalkino.com##p:nth-of-type(1) > span:nth-of-type(1) > b > span:nth-of-type(
 xx.huyalkino.com##p:nth-of-type(2) > span:nth-of-type(1) > span:nth-of-type(1) > b > span:nth-of-type(1)
 xxxdd.net###footbox
 xxxdd.net##.ilike_rating
+yaebymob.com###list_dvds_channels_list
+yaebymob.com###list_models_models_list
+yaebymob.com###list_videos_related_videos
+yaebymob.com##div.container:first-child > div.footer-margin:last-child
 yandex.*###search-result > div:nth-child(4) > div > div.b8KSwZTZhVEmX.b8KSwZTZkSVaO__card:first-child
 yandex.*##.ImagesTouchViewer-ContentCard.ImagesTouchViewer-Rim.ImagesViewerRim.ImagesRelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
 yandex.*##.ImagesTouchViewer-Item.ImagesTouchViewer-ViewerItem_active.ImagesTouchViewer-ViewerItem > div > .ImagesTouchViewer-Card_bLcEPib7M15DaTAQ7Vumllg.ImagesTouchViewer-Card.bC80VjavR8YzXSS43_skeleton.bC80VjavR8YzXSS43_bKc0LhK3B.bC80VjavR8YzXSS43
