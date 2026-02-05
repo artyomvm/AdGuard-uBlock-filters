@@ -444,6 +444,7 @@ promocodes.hi-tech.mail.ru##.landing-banners
 promocodes.hi-tech.mail.ru##.retailer-coupon--banner
 promocodes.hi-tech.mail.ru##.scroll-banner
 promocodes.hi-tech.mail.ru##.swiper-wrapper
+prostitutki-today.com##.footer_text
 prostitutki-today.com###scrollup
 prostitutki-today.com##.filter_text > p:nth-of-type(1)
 prostitutki-today.com##.filter_text > p:nth-of-type(2)
