@@ -4,12 +4,15 @@
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
 !
-! Разблокировка правила из фильтра "Web Annoyances Ultralist" от Adguard (опускание текста в строке поиска в Google)
+! Разблокировка правил из фильтра "Web Annoyances Ultralist" от Adguard (опускание текста в строке поиска в Google)
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
 !
 ! Разблокировка правил из фильтра "RU AdList: Counters" от uBlock (сведения о найденном видео - заголовок, описание, источник, дата размещения, количество просмотров)
 yandex.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
+!
+! Разблокировка правил из фильтра "Фильтр cookie уведомлений" (раздел Раздражители) от Adguard
+@@||.ru^$domain=wildberries.ru,important
 !
 ! Разное
 1tw.live##.GDPRPanel-module-root
