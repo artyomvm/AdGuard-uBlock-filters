@@ -2,21 +2,27 @@
 ! Description: Правила фильтрации контента при пользовании мобильным устройством
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
-! Разблокировка правил из фильтра "Web Annoyances Ultralist" от Adguard (опускание текста в строке поиска в Google)
+!
+! РАЗБЛОКИРОВКА
+!
+! Разблокировка опускания текста в строке поиска в Google
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
 !
-! Разблокировка правил из фильтра "RU AdList: Counters" от uBlock (сведения о найденном видео - заголовок, описание, источник, дата размещения, количество просмотров)
+! Разблокировка блока сведений о найденном видео в Яндексе (заголовок, описание, источник, дата размещения, количество просмотров)
 yandex.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 !
-! Разблокировка правил из фильтра "Фильтр cookie уведомлений" (раздел Раздражители) от Adguard
+! Разблокировка Wildberries (не загружается страница полностью с информацией о товарах и отдельного товара)
 @@||wbbasket.ru^$domain=wildberries.ru
 @@||wbbasket.ru^$domain=wbbasket.ru
 @@||wb.ru^$domain=wildberries.ru
 !
-! Разблокировка правил разное
+! Разблокировка правил - разное
 @@||idcdn.top^$document
 @@||r-cdn.top^$document
+!
+!
+! БЛОКИРОВКА
 !
 ! Разное
 1tw.live##.GDPRPanel-module-root
@@ -77,10 +83,13 @@ daniosvet.ru###as-section-similar > .uk-container
 daniosvet.ru##.uk-panel.uk-width-medium\@l.uk-margin-auto-left.uk-height-1-1
 diplomis-o-vysshem-v-lipetske-48.ru###chat-popup
 downhomedigital.net##section.related-section.inside-article:nth-of-type(1)
+duckduckgo.com##.js-footer-feedback-btn-wrap
+duckduckgo.com##.mobile-atb-banner_appBanner__hAimG.mobile-atb-banner_root__EiCQe
 dzen.ru##.video-viewer--topic-channel-relatives-floor-redesign__borderWrapper-3m
 dzen.ru##.video-viewer--video-card-view-common__isMobile-R-.video-viewer--video-card-view-common__wrapper-3y
 dzen.ru##.video-viewer--video-feed__doc2Doc-2K
 dzen.ru##.video-viewer--video-feed__isVisible-MX.video-viewer--video-feed__d2DTabs-Uq
+dzen.ru##div:nth-of-type(8) > .dzen-mobile--snackbar-context-provider__isMobile-3M.dzen-mobile--snackbar-context-provider__snackbarContextProvider-1M
 ebalovo.club##.page-desc
 ebalovo.club##.page-section.mt-0.mt-lg-3 > .thumb-grid
 ebalovo.club##.video-container__aside
@@ -232,7 +241,12 @@ lipetsktime.ru##div.col-12.col-md-12.col-lg-4.mb-3.px-lg-4:nth-of-type(3)
 livejournal.com##div.body-content:nth-child(7) > header.s-header.s-header--notown-journal.s-header--personal-journal.s-header--nocyr.s-header--logged-out:nth-child(8) > div.dugsum5qe4a7fbnpm:nth-child(5)
 livejournal.com##div.s-layout.body-content.s-logged-out:first-child > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
 livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
+m.dzen.ru###zen-row-2
+m.dzen.ru##.news-site--StoryDetails__closeWrapper-1c
+m.dzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
 m.dzen.ru##.topic-channel--topic-channel-relatives-floor-redesign__isNewGaps-1c.topic-channel--topic-channel-relatives-floor-redesign__mobile-2d.topic-channel--palette__apricot-ta.topic-channel--topic-channel-relatives-floor__isNewGaps-1s.topic-channel--topic-channel-relatives-floor__mobile-2a.topic-channel--topic-channel-relatives-floor__thematicsEntryWrapperRedesign-2E
+m.eblinet.xyz##.replace-video
+m.eblinet.xyz##div.thumbs:nth-child(14)
 m.mirporeva.xyz##.items
 m.mirporeva.xyz##.stitle
 m.my.mail.ru###wrap > div.body-wrapper:nth-child(4) > div.event.m-secondary:first-child > ul.list.m-video.video-list:nth-child(4)
@@ -355,6 +369,10 @@ moe-lipetsk.ru##.flex-dop
 moe-lipetsk.ru##.material-footer-2.no_comment
 moe-lipetsk.ru##.row.gr_bg_mob
 moe-lipetsk.ru##.visible-xs.lower_panel
+motherlesspics.com###dle-comments-form
+motherlesspics.com##div.col-lg-4.col-md-6.col-12
+motherlesspics.com##div.mb-4.mt-4.h3:nth-of-type(2)
+motherlesspics.com##div.mb-4.mt-4.h3:nth-of-type(4)
 mtsbank.ru###__next > div.sc-8350f874-0.gPWgxB:first-child > div.styled__Wrapper-sc-37ac7ba-0.hhBONQ:last-child > div.styled__BodyWrapper-sc-37ac7ba-2.jAbiuc > a.styled__Body-sc-37ac7ba-3.bZA-dsh:first-child
 mtsbank.ru###__next > div.sc-8350f874-0.gPWgxB:first-child > div.styled__Wrapper-sc-37ac7ba-0.hhBONQ:last-child > div.styled__BodyWrapper-sc-37ac7ba-2.jAbiuc > a.styled__ImageContainer-sc-37ac7ba-8.jTOuQO:last-child > picture > img:last-child
 my.mail.ru##.sp-video__body__right
@@ -602,7 +620,9 @@ vk.*###content > div.VideoLayout > div.VideoLayout__aside.VideoLayout__aside--co
 vk.*###content > div.VideoLayout > div.VideoLayout__aside:first-child
 vk.*###fastchat-reforged > div.vkui__root > div.FCApp.FCAppConfig.MEConfig > aside.FCPanel:last-child
 vk.*###footer_wrap
+vk.*###layout_sidebar
 vk.*###mv_comments_wrap
+vk.*###page_header > li:last-child
 vk.*###react_rootLeftMenuRoot
 vk.*###react_rootTopNavNotifications
 vk.*###react_rootVideo_page > div.vkui__root > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
@@ -850,6 +870,7 @@ zenstat.ru##.progress
 zenstat.ru##.progress-bar.progress-bar-striped.progress-bar-animated
 zenstat.ru##.pt-4.pb-4.text-center.mt-5
 zenstat.ru##.steps.mt-5.pt-4
+||duckduckgo.com/_next/static/media/google-play-store-v2.962e9ea3.png$image
 ||glavpahar.ru/media/uploads/*-ptz-brend-yanv-*.webp
 ||lipetskmedia.ru/upload/rk/30b/7x3006sosdnahlvrd6h1o6n0m4qqz54o.gif
 ||s7.dpic.me/02090/nrptbxkvpxhu_o/lois.gif$image
