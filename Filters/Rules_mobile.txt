@@ -1,8 +1,6 @@
-[uBlock Origin]
 ! Title: Фильтры мобильные
 ! Description: Правила фильтрации контента при пользовании мобильным устройством
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
-!
 !
 ! Разблокировка правил из фильтра "Web Annoyances Ultralist" от Adguard (опускание текста в строке поиска в Google)
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
@@ -15,7 +13,7 @@ ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 @@||wbbasket.ru^$domain=wildberries.ru
 @@||wb.ru^$domain=wildberries.ru
 !
-! Разблокировка разное
+! Разблокировка правил разное
 @@||idcdn.top^$document
 @@||r-cdn.top^$document
 !
