@@ -11,6 +11,7 @@ ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 !
 ! Разблокировка правил из фильтра "Фильтр cookie уведомлений" (раздел Раздражители) от Adguard
 @@||wbbasket.ru^$domain=wildberries.ru
+@@||wbbasket.ru^$domain=wbbasket.ru
 @@||wb.ru^$domain=wildberries.ru
 !
 ! Разблокировка правил разное
