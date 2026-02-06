@@ -585,7 +585,6 @@ theporndude.com##p:nth-of-type(6)
 theporndude.com##p:nth-of-type(7)
 theporndude.com##p:nth-of-type(8)
 transfiles.ru###footer_4 > .container > div
-transfiles.ru##.cont_row
 transfiles.ru##.donate_btn
 tv.mail.ru##div.js-dwh-logger-exclude
 ukraina.ru##.lenta-mini
