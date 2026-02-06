@@ -371,6 +371,7 @@ moe-lipetsk.ru##.material-footer-2.no_comment
 moe-lipetsk.ru##.row.gr_bg_mob
 moe-lipetsk.ru##.visible-xs.lower_panel
 motherlesspics.com###dle-comments-form
+motherlesspics.com###dle-content > div.col-lg-12:first-child > div.row:nth-child(3)
 motherlesspics.com##div.mb-4.mt-4.h3:nth-of-type(2)
 motherlesspics.com##div.mb-4.mt-4.h3:nth-of-type(4)
 mtsbank.ru###__next > div.sc-8350f874-0.gPWgxB:first-child > div.styled__Wrapper-sc-37ac7ba-0.hhBONQ:last-child > div.styled__BodyWrapper-sc-37ac7ba-2.jAbiuc > a.styled__Body-sc-37ac7ba-3.bZA-dsh:first-child
