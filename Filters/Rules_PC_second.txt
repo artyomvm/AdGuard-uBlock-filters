@@ -1,0 +1,22 @@
+! Title: Фильтры ПК вспомогательные
+! Description: Правила фильтрации контента при пользовании ПК в качестве вспомогательных к основным в AdGuard для ПК
+! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
+!
+!
+esia.gosuslugi.ru##esia-banner
+lrepacks.net###comments
+lrepacks.net###pageuserscroll
+lrepacks.net###sidebar > div.widget.widget_recent_posts:nth-child(4) > div.tabs-holder
+lrepacks.net###sidebar > div.widget.widget_recent_posts:nth-child(5) > div.tabs-holder
+lrepacks.net###sidebar > div.widget.widget_upcoming_events:last-child
+lrepacks.net##.respond-comments
+pornrip.cc##.theiaStickySidebar
+selezen.club##.bx-right-arrow-alt.bx
+vk.*###footer_wrap
+vk.*###mv_info > div.mv_info_narrow_column:last-child
+vk.*###mv_info > div.mv_info_narrow_column:last-child > div.VideoLayerInfo__recommended
+vk.*###spa_root > div.vkui__root > div:last-child > div.vkitFooterBanner__banner--JBGVC.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__bannerAppearanceAzure--PswWv:last-child
+vk.*##.HeaderNav__item--acts.HeaderNav__item
+vk.*##.WideSeparator--legalRecommendationsLink.WideSeparator
+vk.*##div.LeftMenuAppPromo
+vk.*##div.WideSeparator:nth-of-type(4)
