@@ -15,6 +15,9 @@ ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 @@||wbbasket.ru^$domain=wildberries.ru
 @@||wb.ru^$domain=wildberries.ru
 !
+! Разблокировка разное
+@@||idcdn.top^$important,document
+!
 ! Разное
 1tw.live##.GDPRPanel-module-root
 1tw.live##.Layout-module-banner
