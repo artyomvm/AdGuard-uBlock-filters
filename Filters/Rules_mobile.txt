@@ -17,6 +17,7 @@ ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 !
 ! Разблокировка разное
 @@||idcdn.top^$document
+@@||r-cdn.top^$document
 !
 ! Разное
 1tw.live##.GDPRPanel-module-root
