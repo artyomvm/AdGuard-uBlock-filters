@@ -18,6 +18,7 @@ ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
 @@||wb.ru^$domain=wildberries.ru
 !
 ! Разблокировка правил - разное
+@@||naughtyblog.org/wp-admin/admin-ajax.php$domain=naughtyblog.org
 @@||idcdn.top^$document
 @@||r-cdn.top^$document
 !
