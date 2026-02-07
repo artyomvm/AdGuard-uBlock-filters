@@ -86,6 +86,8 @@ diplomis-o-vysshem-v-lipetske-48.ru###chat-popup
 downhomedigital.net##section.related-section.inside-article:nth-of-type(1)
 duckduckgo.com##.js-footer-feedback-btn-wrap
 duckduckgo.com##.mobile-atb-banner_appBanner__hAimG.mobile-atb-banner_root__EiCQe
+dzen.ru##.news-site--fixed-drawer__content-3y
+dzen.ru##.news-site--web2app-top-plain-banner__xrnE2cwI3_nVf-16
 dzen.ru##.video-viewer--topic-channel-relatives-floor-redesign__borderWrapper-3m
 dzen.ru##.video-viewer--video-card-view-common__isMobile-R-.video-viewer--video-card-view-common__wrapper-3y
 dzen.ru##.video-viewer--video-feed__doc2Doc-2K
@@ -304,6 +306,7 @@ m.vaginke.life##ul.list-1:nth-of-type(2)
 m.vk.*###lm_cont
 m.vk.*###replies_to_last
 m.vk.*##.BottomMenu__fixed
+m.vk.*##.PageBottomBanner--unauth.PageBottomBanner
 m.vk.*##.Replies_last_shown.Replies_last
 m.vk.*##.ReplyItem__likeWrap
 m.vk.*##.pv_nav_left > .pv_nav_link._thover
@@ -323,6 +326,7 @@ m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realC
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
 m.vk.*##div.vkuiRootComponent__host.vkuiDiv__host > .vkuiRootComponent__host.vkuiInternalHorizontalScroll.vkuiHorizontalScroll__host.vkitGridHorizontalScroll__root--Os7re
+m.vkvideo.ru###Video > div.vkuiPanel__in.vkuiInternalPanel__in:first-child > div:nth-child(2) > div:last-child
 m.voronezhnews.ru###topAdWrapperVRN
 m.voronezhnews.ru##.additional-news
 m.voronezhnews.ru##.content-container > .main-news-list > .big-news-list > .big-news-list-item-category
@@ -484,6 +488,7 @@ promocodes.hi-tech.mail.ru##.landing-banners
 promocodes.hi-tech.mail.ru##.retailer-coupon--banner
 promocodes.hi-tech.mail.ru##.scroll-banner
 promocodes.hi-tech.mail.ru##.swiper-wrapper
+prostitutki-today.com###a_block_catalog > div.owl-slider-carousel:last-child
 prostitutki-today.com###scrollup
 prostitutki-today.com##.filter_text > p:nth-of-type(1)
 prostitutki-today.com##.filter_text > p:nth-of-type(2)
@@ -625,7 +630,9 @@ vk.*###fastchat-reforged > div.vkui__root > div.FCApp.FCAppConfig.MEConfig > asi
 vk.*###footer_wrap
 vk.*###layout_sidebar
 vk.*###mv_comments_wrap
+vk.*###page_header > li.TopNavigation__player--YMED3.vkuiFlex__host.vkuiFlex__wrap.vkuiFlex__alignCenter.vkuiFlex__justifyCenter.vkuiRootComponent__host:nth-child(4)
 vk.*###page_header > li:last-child
+vk.*###page_header > li:nth-child(3)
 vk.*###react_rootLeftMenuRoot
 vk.*###react_rootTopNavNotifications
 vk.*###react_rootVideo_page > div.vkui__root > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
@@ -774,6 +781,9 @@ www.thepornlist.net##.hd2 > span
 www.thepornlist.net##center
 www.thepornlist.net##div.categoryicons
 www.thepornlist.net##p > [href="https://www.thepornlist.net/ru/"]
+www.translatorscafe.com##.uc-article
+www.translatorscafe.com##.uc-article-teaser
+www.translatorscafe.com##.uc-right-column
 www.wildberries.ru###smartBanner
 www.wildberries.ru##._swiperContainer_1va9n_227.custom-slider--goods.swiperContainer--kgj74.isLockedSwiper--WVoGj.custom-slider.custom-slider--beginning
 www.wildberries.ru##.banner--yN9XS
