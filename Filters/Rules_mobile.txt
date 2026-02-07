@@ -283,8 +283,10 @@ m.vk.*###lm_cont
 m.vk.*###replies_to_last
 m.vk.*##.BottomMenu__fixed
 m.vk.*##.PageBottomBanner--unauth.PageBottomBanner
+m.vk.*##.PhotoviewPage__footer:last-child > div.Replies:last-child
 m.vk.*##.Replies_last_shown.Replies_last
 m.vk.*##.ReplyItem__likeWrap
+m.vk.*##._i.is_empty.item_share
 m.vk.*##.pv_nav_left > .pv_nav_link._thover
 m.vk.*##.pv_nav_right > .pv_nav_link._thover
 m.vk.*##.svgIcon.svgIcon-down_circle_24
@@ -292,6 +294,7 @@ m.vk.*##.vkitButton__root--jY25e.OpenInAppPromoButton__button--5j1z2.vkuiInterna
 m.vk.*##.vkitCommentBase__actionsVisible--m0WVl.vkitCommentBase__actions--SiUyy
 m.vk.*##.vkitComment__likesModeAlways--2bEZ9
 m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
+m.vk.*##.vkuiIcon--share_outline_24.vkuiIcon--h-24.vkuiIcon--w-24.vkuiIcon--24.vkuiIcon
 m.vk.*##.vkuiRootComponent__host.vkuiGroup__paddingM.vkuiInternalGroup--mode-plain.vkuiGroup__modePlain.vkuiGroup__sizeXCompact.vkuiGroup__host.vkuiInternalGroup.vkitRecommendationBlock__blockWrapResetPadding--tH8Sb.vkitGroup__groupModePlain--teaPf.vkitGroup__groupPaddingM--YlUNt.vkitGroup__group--lbf33
 m.vk.*##.vkuiRootComponent__host.vkuiWriteBar__host
 m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
@@ -303,6 +306,7 @@ m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realC
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
 m.vk.*##div.vkuiRootComponent__host.vkuiDiv__host > .vkuiRootComponent__host.vkuiInternalHorizontalScroll.vkuiHorizontalScroll__host.vkitGridHorizontalScroll__root--Os7re
+m.vk.*##div.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiInternalTappable.vkitPostFooterAction__action--G4qGh:nth-of-type(3)
 m.vkvideo.ru###Video > div.vkuiPanel__in.vkuiInternalPanel__in:first-child > div:nth-child(2) > div:last-child
 m.voronezhnews.ru###topAdWrapperVRN
 m.voronezhnews.ru##.additional-news
