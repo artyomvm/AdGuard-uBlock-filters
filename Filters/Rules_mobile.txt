@@ -284,6 +284,7 @@ m.vk.*###replies_to_last
 m.vk.*##.BottomMenu__fixed
 m.vk.*##.PageBottomBanner--unauth.PageBottomBanner
 m.vk.*##.PhotoviewPage__footer:last-child > div.Replies:last-child
+m.vk.*##.PostBottomButton--non-shrinkable.PostBottomButton
 m.vk.*##.Replies_last_shown.Replies_last
 m.vk.*##.ReplyItem__likeWrap
 m.vk.*##._i.is_empty.item_share
