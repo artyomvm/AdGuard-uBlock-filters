@@ -642,6 +642,7 @@ vk.*##.reply_fakebox_wrap
 vk.*##.reply_link_wrap
 vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeOutline.vkuiButton__appearanceNeutral.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host
 vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeOutline.vkuiButton__appearanceNeutral.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host > .vkuiButton__in
+vk.*##.vkitCommentBase__actions--SiUyy
 vk.*##.vkitComment__likesModeAlways--2bEZ9.vkitComment__likeShowOnHover--BDeAf
 vk.*##.vkitFooterBanner__inner--APCYy
 vk.*##.vkitOnboardingBanner__root--ghbel
