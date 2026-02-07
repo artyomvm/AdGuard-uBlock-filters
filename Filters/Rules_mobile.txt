@@ -2,30 +2,6 @@
 ! Description: Правила фильтрации контента при пользовании мобильным устройством
 ! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
-!
-! РАЗБЛОКИРОВКА
-!
-! Разблокировка опускания текста в строке поиска в Google
-google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
-!
-! Разблокировка блока сведений о найденном видео в Яндексе (заголовок, описание, источник, дата размещения, количество просмотров)
-yandex.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
-ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
-!
-! Разблокировка Wildberries (не загружается страница полностью с информацией о товарах и отдельного товара)
-@@||wbbasket.ru^$domain=wildberries.ru
-@@||wbbasket.ru^$domain=wbbasket.ru
-@@||wb.ru^$domain=wildberries.ru
-!
-! Разблокировка правил - разное
-@@||naughtyblog.org/wp-admin/admin-ajax.php$domain=naughtyblog.org
-@@||idcdn.top^$document
-@@||r-cdn.top^$document
-!
-!
-! БЛОКИРОВКА
-!
-! Разное
 1tw.live##.GDPRPanel-module-root
 1tw.live##.Layout-module-banner
 1tw.live##.SupportPanel-module-root, .SupportPanel-module-ru
@@ -315,7 +291,6 @@ m.vk.*##.svgIcon.svgIcon-down_circle_24
 m.vk.*##.vkitButton__root--jY25e.OpenInAppPromoButton__button--5j1z2.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeM.vkuiButton__modePrimary.vkuiButton__appearanceAccent.vkuiButton__sizeYRegular.vkuiTappable__host.vkuiTappable__sizeXCompact.vkuiTappable__hasPointerFalse.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host
 m.vk.*##.vkitComment__likesModeAlways--2bEZ9
 m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
-m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
 m.vk.*##.vkuiRootComponent__host.vkuiGroup__paddingM.vkuiInternalGroup--mode-plain.vkuiGroup__modePlain.vkuiGroup__sizeXCompact.vkuiGroup__host.vkuiInternalGroup.vkitRecommendationBlock__blockWrapResetPadding--tH8Sb.vkitGroup__groupModePlain--teaPf.vkitGroup__groupPaddingM--YlUNt.vkitGroup__group--lbf33
 m.vk.*##.vkuiRootComponent__host.vkuiWriteBar__host
 m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
