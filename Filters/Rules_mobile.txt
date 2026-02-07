@@ -609,6 +609,9 @@ vk.*###mv_comments_wrap
 vk.*###page_header > li.TopNavigation__player--YMED3.vkuiFlex__host.vkuiFlex__wrap.vkuiFlex__alignCenter.vkuiFlex__justifyCenter.vkuiRootComponent__host:nth-child(4)
 vk.*###page_header > li:last-child
 vk.*###page_header > li:nth-child(3)
+vk.*###pv_box > div.clear_fix.pv_photo_wrap:nth-child(2) > div.no_select.pv_left_wrap:nth-child(2) > div.pv_bottom_info.clear_fix.pv_with_line_break:last-child > div > div.pv_bottom_actions:last-child
+vk.*###pv_box > div.clear_fix.pv_photo_wrap:nth-child(2) > div.no_select.pv_left_wrap:nth-child(2) > div.pv_bottom_info.clear_fix:last-child > div > div.pv_bottom_actions:last-child
+vk.*###pv_narrow > div.ui_scroll_overflow:first-child > div.ui_scroll_blocker:first-child > div.ui_scroll_outer > div.ui_scroll_inner.tt_noappend > div.ui_scroll_content.clear_fix:first-child > div.like_wrap
 vk.*###react_rootLeftMenuRoot
 vk.*###react_rootTopNavNotifications
 vk.*###react_rootVideo_page > div.vkui__root > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
@@ -634,7 +637,7 @@ vk.*##.mv_info_narrow_column
 vk.*##.no_rows.pv_no_commments_placeholder
 vk.*##.reply_box_wrap
 vk.*##.reply_fakebox_wrap
-vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeLink.vkuiButton__appearanceAccent.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host > .vkuiButton__in
+vk.*##.reply_link_wrap
 vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeOutline.vkuiButton__appearanceNeutral.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host
 vk.*##.vkitButton__root--nxPS7.vkuiInternalTappable.vkuiButton__host.vkuiButton__sizeS.vkuiButton__modeOutline.vkuiButton__appearanceNeutral.vkuiTappable__host.vkuiTappable__hasPointerNone.vkuiClickable__host.vkuiClickable__realClickable.vkuistyles__-focus-visible.vkuiRootComponent__host > .vkuiButton__in
 vk.*##.vkitComment__likesModeAlways--2bEZ9.vkitComment__likeShowOnHover--BDeAf
