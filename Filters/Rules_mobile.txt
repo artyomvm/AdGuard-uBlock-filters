@@ -326,6 +326,7 @@ m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(2)
 m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(3)
 mail.ru###closeCookieBanner
 mail.ru##.ads_overflow-disabled.ads-above-dzen.ads-above-horoscopes
+mail.ru##.dzen-feed
 mail.ru##.horo
 mail.ru##.search-container_mobile.search-container
 mail.ru##.section_rounded-corners.section_padding
