@@ -1,0 +1,20 @@
+! Title: Фильтры разблокировки
+! Description: Правила антифильтрации контента при пользовании мобильным устройством и ПК
+! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
+!
+! Опускание текста в строке поиска Google
+google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
+!
+! Блока сведений о найденном видео в Яндексе (заголовок, описание, источник, дата размещения, количество просмотров)
+yandex.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
+ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
+!
+! Wildberries (не загружается страница полностью с информацией о товарах и отдельного товара)
+@@||wbbasket.ru^$domain=wildberries.ru
+@@||wbbasket.ru^$domain=wbbasket.ru
+@@||wb.ru^$domain=wildberries.ru
+!
+! Разное
+@@||naughtyblog.org/wp-admin/admin-ajax.php$domain=naughtyblog.org
+@@||idcdn.top^$document
+@@||r-cdn.top^$document
