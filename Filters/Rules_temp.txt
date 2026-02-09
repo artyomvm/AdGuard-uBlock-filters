@@ -1,5 +1,6 @@
 ! Title: Временные фильтры
 !
+yandex.*##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic
 news.mail.ru##.rb-pogoda
 4pda.to##.borderwrap
 www.rustore.ru##.E7vxXMKU
