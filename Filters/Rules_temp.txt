@@ -1,5 +1,14 @@
 ! Title: Временные фильтры
 !
+comss.ru###news-container > div.col-md-4:first-child
+comss.ru###news-container > div.col-md-4:nth-child(2)
+comss.ru###news-container > div.col-md-4:nth-child(3)
+comss.ru###news-container > div.col-md-4:nth-child(4)
+comss.ru###news-container > div.col-md-4:nth-child(5)
+comss.ru###news-container > div.col-md-4:last-child
+comss.ru##div.container:nth-child(6) > h3
+comss.ru###main > div.container:nth-child(5) > h3
+comss.ru###hyvor-comments
 moe-lipetsk.ru##.container-adm1.reklama_wr_mob.sitebar_reklama_wr
 moe-lipetsk.ru##div.col-footer-12
 moe-lipetsk.ru##.center_text > p
