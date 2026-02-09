@@ -1,5 +1,9 @@
 ! Title: Временные фильтры
 !
+moe-lipetsk.ru##.container-adm1.reklama_wr_mob.sitebar_reklama_wr
+moe-lipetsk.ru##div.col-footer-12
+moe-lipetsk.ru##.center_text > p
+moe-lipetsk.ru##.pos_nn
 m.dzen.ru##.dzen-layout--mobile-bottom-navigation__menu-1F
 yandex.ru##.ImagesTouchViewer-Card_pp67xELlA2Ht0mqwuVSUbhA:nth-child(2)
 m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
