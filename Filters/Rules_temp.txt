@@ -1,12 +1,9 @@
 ! Title: Временные фильтры
 !
-yandex.*##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic
 news.mail.ru##.rb-pogoda
-4pda.to##.borderwrap
 www.rustore.ru##.E7vxXMKU
 dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
 yandex.*##.mini-suggest__popup-content
-yandex.*##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic
 comss.ru###news-container > div.col-md-4:first-child
 comss.ru###news-container > div.col-md-4:nth-child(2)
 comss.ru###news-container > div.col-md-4:nth-child(3)
