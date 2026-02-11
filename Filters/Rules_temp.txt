@@ -1,5 +1,7 @@
 ! Title: Временные фильтры
 !
+lipetsksm.com###content > section.content-box:last-child > div.description-box:last-child
+lipetsksm.com###content > div.filter-mobile-button.pointer.align-center:nth-child(2)
 www.myip.com##div.row:nth-of-type(3)
 www.myip.com##div.row:nth-of-type(6)
 news.mail.ru##.rb-pogoda
