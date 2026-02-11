@@ -1,5 +1,7 @@
 ! Title: Временные фильтры
 !
+www.myip.com##div.row:nth-of-type(3)
+www.myip.com##div.row:nth-of-type(6)
 news.mail.ru##.rb-pogoda
 www.rustore.ru##.E7vxXMKU
 dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
