@@ -1,5 +1,6 @@
 ! Title: Временные фильтры
 !
+dzen.ru##.dzen-mobile--feed-one-column-item__paddingWithWideDividerShorts-2L.dzen-mobile--feed-one-column-item__withWideDivider-bJ.dzen-mobile--feed-one-column-item__isNullLateralPaddings-2t.dzen-mobile--feed-one-column-item__isDefaultPadding-3f.dzen-mobile--feed-one-column-item__itemWrap-Mb
 dzen.ru##.content--article-between-items-ad-block__mobile-2t.content--article-between-items-ad-block__placeholder-zO
 dzen.ru##.content--article-item-content__clampedArticleContainer-82
 dzen.ru##.content--article-item-content__title-eZ.content--article-header__withIcons-1h.content--article-header__isSmallTitle-3j.content--article-header__isMobile-42.content--article-header__title-3r
