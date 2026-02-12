@@ -1,5 +1,15 @@
 ! Title: Временные фильтры
 !
+dzen.ru##.content--article-between-items-ad-block__mobile-2t.content--article-between-items-ad-block__placeholder-zO
+dzen.ru##.content--article-item-content__clampedArticleContainer-82
+dzen.ru##.content--article-item-content__title-eZ.content--article-header__withIcons-1h.content--article-header__isSmallTitle-3j.content--article-header__isMobile-42.content--article-header__title-3r
+dzen.ru##.content--article-footer__isClamped-3R.content--article-footer__isMobile-m4.content--article-footer__socialsBlock-2F.content--socials-block__breakpointArticle-2W.content--socials-block__socialsBlock-3T
+dzen.ru##.content--article-item__isMobile-1K.content--article-item__d2dBlock-2B
+dzen.ru##.content--styles__isMobile-em.content--styles__comments-3n
+dzen.ru##.video-viewer--video-feed__skeleton-2g > .video-viewer--card-skeleton-wrapper__withBottomSpace-4Z.video-viewer--card-skeleton-wrapper__withPaddinTopWrapper-3l.video-viewer--card-skeleton-wrapper__skeletonWrapper-1j > .video-viewer--card-skeleton-wrapper__withSmallPadding-2s.video-viewer--card-skeleton-wrapper__withSmallGap-2e.video-viewer--card-skeleton-wrapper__withGap-3f.video-viewer--card-skeleton-wrapper__skeleton-2g
+m.dzen.ru##.topic-channel--card-wrapper__withOverflowHidden-1v.topic-channel--card-wrapper__themeWhite-2J.topic-channel--card-wrapper__isMobileRedesign-2v.topic-channel--card-wrapper__isMobile-1M.topic-channel--card-wrapper__cardWrapper-hp
+dzen.ru###LayoutContentMicroRoot > div.content--article__article-1V:nth-child(3)
+dzen.ru###LayoutContentMicroRoot > div.content--article__article-1V:nth-child(4)
 gorod48.ru##.swiper-slide-next.mod--cat.swiper-slide > .h-scroll-item
 m.vk.*##.RepliesField_wrap
 m.vk.*##.Post__row.RepliesThreadReplyField
