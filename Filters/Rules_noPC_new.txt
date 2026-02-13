@@ -1,0 +1,51 @@
+! Title: Фильтры не ПК новые
+!
+vkvideo.ru##.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
+m.dzen.ru##.dzen-layout--mobile-bottom-navigation__menu-1F
+m.dzen.ru##.topic-channel--card-header__forceVisible-1O.topic-channel--card-header__subscribeContainer-1k
+m.dzen.ru##.topic-channel--topic-channel-mobile-navigation__withSmallRightPadding-lv.topic-channel--topic-channel-mobile-navigation__wrapper-3e
+news.mail.ru##.f96e65655a.b7f6791faf
+mail.ru##.search_inactive
+mail.ru##.section_rounded-corners.section_padding.svelte-17veps8.section
+mail.ru##.horo
+mail.ru##.ads_overflow-disabled.ads-above-dzen.ads-above-horoscopes
+sportmail.ru##.f96e65655a.b7f6791faf
+m.dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
+m.dzen.ru##.content--theme-pinner__safePadding-2M.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
+m.dzen.ru##.content--publisher-block-inline__buttonWrapper-3R
+m.dzen.ru##.content--article-action-island-mobile__isNavigationVisible-19.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
+m.dzen.ru##.content--subscribe-banner__subscribeBanner-kp.content--styles__isMobile-tc.content--styles__banner-cc
+m.dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
+m.dzen.ru##.topic-channel--header-v2__subscribeSecondVersion-2p.topic-channel--header-v2__iconsContainer-3X
+m.dzen.ru##.topic-channel--header-v2__description-3x
+m.dzen.ru##.news-site--StoryHead-phone__actions-1- > .news-site--tap-icon__m-1p.news-site--use-icon-hover__icon_secondary-2J.news-site--tap-icon__rootElement-PL
+m.dzen.ru##.channel--common-new-channel-header-mobile__headerContainer-3G
+m.newslipetsk.ru###topAdWrapperNL
+m.newslipetsk.ru##header > div:nth-of-type(1)
+m.newslipetsk.ru##.footer-bottom-block
+m.newslipetsk.ru##.footer-info-flex
+m.newslipetsk.ru##.additional-news
+m.newslipetsk.ru##.main-news-block__in-detail.main-news-block__in
+m.dzen.ru##.content--article-action-island-mobile__isNavigationVisible-19.content--article-action-island-mobile__container-3B
+m.dzen.ru##.content--article-item__isMobile-1K.content--article-item__d2dBlock-2B
+m.dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__container-3B
+m.dzen.ru###second-story-item-placeholder
+360.ru##.m2cv794.m2cv791.m2cv792
+360.ru##._1qkob0d5
+360.ru##._1k0puco0
+360.ru##._1lm4gq64
+360.ru##._1kj79th1
+360.ru##._1qlvv2r0
+360.ru##._1ifrl7
+360.ru##._1ifrl2
+360.ru##a._1ifrl3.sgsmv90
+360.ru##._1ifrlb
+360.ru##.mk4z770
+360.ru##._18qriuy0._5qclqh0
+pornhub.org##.tabWrapper
+pornhub.org##.linkGroup > li:nth-of-type(2)
+pornhub.org##.linkGroup > li:nth-of-type(3)
+pornhub.org##.linkGroup > li:nth-of-type(4)
+pornhub.org##.crrTitleDiv
+pornhub.org##.linkGroup > li:nth-of-type(6)
+pornhub.org##footer.js-mainFooter:nth-child(27) > a:nth-child(8)
