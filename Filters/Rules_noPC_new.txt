@@ -1,5 +1,9 @@
 ! Title: Фильтры не ПК новые
 !
+liteapks.com##.py-4
+liteapks.com##div.col-md-6.col-12:nth-of-type(1) > .mb-4
+liteapks.com##div.col-md-6.col-12 > .mb-4
+liteapks.com##.socials.mb-4.justify-content-center.align-items-center.d-flex
 pornrip.cc###footer > div.main-text.textleft.default.grid-100.tablet-grid-100.mobile-grid-100.np-mobile:first-child > p:nth-child(4)
 pornrip.cc###footer > div.main-text.textleft.default.grid-100.tablet-grid-100.mobile-grid-100.np-mobile:first-child > p:nth-child(2)
 pornrip.cc###home > div.content-wrapper.grid-100.grid-parent > div.articles:nth-child(6)
