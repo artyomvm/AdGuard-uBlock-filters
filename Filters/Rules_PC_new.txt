@@ -1,0 +1,66 @@
+! Title: Фльтры ПК новые
+!
+auto.mail.ru##.js-dwh-logger-exclude > div > div
+auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
+blog.promopult.ru##div.text-insertion
+finance.mail.ru##.js-dwh-logger-exclude
+gorod48.ru##.f-bottom
+gorod48.ru##.f-socia
+gorod48.ru##.footer > .container > .swiper-horizontal.swiper-initialized.mod--cat.swiper
+gorod48.ru##.home--slider-wr
+gorod48.ru##.mob-hide
+gorod48.ru##.post-comments
+gorod48.ru##.post-reaction
+gorod48.ru##.post-tags
+gorod48.ru##.sb--left
+gorod48.ru##.swiper-slide-next.mod--cat.swiper-slide > .h-scroll-item
+gorod48.ru##.top--tabs-sec
+gorod48.ru##section.home--sec:nth-of-type(3)
+gorod48.ru##section.home--sec:nth-of-type(5)
+health.mail.ru##.js-dwh-logger-exclude
+hi-tech.mail.ru##.js-dwh-logger-exclude > div
+lady.mail.ru##.js-dwh-logger-exclude > div
+mail.ru##.search-frame
+news.mail.ru##.js-dwh-logger-exclude > div
+news.mail.ru##.rb--recommendation-link
+otvet.mail.ru##._PostsListOther_3ltyk_3
+otvet.mail.ru##._PostsSimilar_stx16_1
+pets.mail.ru##.js-dwh-logger-exclude > div
+pornhub.org###cmtContent
+pornhub.org##.cmtHeader
+pornhub.org##.innerContainer
+pornhub.org##.orangeButton.noticeLink
+pornhub.org##.original.latestThumbDesign.js-videosTabContent.relatedVideos.js-relatedVideos.js-relatedRecommended.video-wrapper
+pornhub.org##.original.sideColumn
+pornhub.org##.original.video-wrapper.hd-videos_wrapper.hd-smallerWidth.sectionWrapper
+pornhub.org##.videoGridTabs
+pornhub.org##div.col > ul
+rutube.ru##.safe-mode-video-banner-module__desktop.safe-mode-video-banner-module__banner
+rutube.ru##.video-page-layout-module__right
+rutube.ru##.wdp-comments-module__wrapper
+science.mail.ru##.js-dwh-logger-exclude > div
+sportmail.ru##.js-dwh-logger-exclude > div
+t.me##.tgme_channel_download_telegram
+t.me##.tgme_footer
+t.me##.tgme_head_right_btn
+t.me##.tgme_page_widget_actions
+tv.mail.ru##.js-dwh-logger-exclude > div
+vfokuse.mail.ru##.js-dwh-logger-exclude > div
+vk.*###layout_sidebar
+vk.*##.share_link_wrap.reply_link_wrap > .share_link
+vk.*##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
+vk.*##li:nth-of-type(4)
+www.google.com###botstuff > div
+www.google.com###bres
+www.google.com##.hoUro
+www.google.com##i
+www.myip.com##div.row:nth-of-type(3)
+www.myip.com##div.row:nth-of-type(6)
+yandex.*##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
+yandex.*##.Prevention-Content
+yandex.*##.RelatedBottom.VanillaReact
+yandex.*##.RequestMeta_view_minified.RequestMeta
+yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
+yandex.*##.eblCd2u91xQW3jkI-DirectSkeleton.eblCd2u91xQW3jkI-ebVed2vJzwAG5jkL47TXuMgkJmnKf0Jic4Q
+yandex.*##div.eblCd2u91xQW3jkI-VideoListPageDirect.eblCd2u91xQW3jkI-efFCL2uNX_withStore.eblCd2u91xQW3jkI-efFCL2uNX_placement_eTlCd2u8OwAmznw.eblCd2u91xQW3jkI-efFCL2uNX
+||storage.ko-fi.com/cdn/kofi6.png$image
