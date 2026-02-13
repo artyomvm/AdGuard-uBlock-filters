@@ -1,5 +1,11 @@
 ! Title: Фильтры не ПК новые
 !
+dzen.ru##.content--article-action-island-mobile__isNavigationVisible-19.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
+dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
+dzen.ru##.dzen-layout--mobile-bottom-navigation__menuContainer-3l
+dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
+dzen.ru##.content--theme-pinner__safePadding-2M.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
+www.comss.ru###hyvor-comments
 liteapks.com##.py-4
 liteapks.com##div.col-md-6.col-12:nth-of-type(1) > .mb-4
 liteapks.com##div.col-md-6.col-12 > .mb-4
