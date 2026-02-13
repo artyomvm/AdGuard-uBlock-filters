@@ -52,7 +52,7 @@ m.newslipetsk.ru##.main-news-block__in-detail.main-news-block__in
 m.dzen.ru##.content--article-action-island-mobile__isNavigationVisible-19.content--article-action-island-mobile__container-3B
 m.dzen.ru##.content--article-item__isMobile-1K.content--article-item__d2dBlock-2B
 m.dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__container-3B
-! m.dzen.ru###second-story-item-placeholder
+m.dzen.ru###second-story-item-placeholder
 360.ru##.m2cv794.m2cv791.m2cv792
 360.ru##._1qkob0d5
 360.ru##._1k0puco0
