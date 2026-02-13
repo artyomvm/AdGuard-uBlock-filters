@@ -1,4 +1,4 @@
-! Title: Фльтры ПК новые
+! Title: Фильтры ПК новые
 !
 auto.mail.ru##.js-dwh-logger-exclude > div > div
 auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
