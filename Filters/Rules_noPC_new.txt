@@ -41,7 +41,7 @@ m.dzen.ru##.content--subscribe-banner__subscribeBanner-kp.content--styles__isMob
 m.dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
 m.dzen.ru##.topic-channel--header-v2__subscribeSecondVersion-2p.topic-channel--header-v2__iconsContainer-3X
 m.dzen.ru##.topic-channel--header-v2__description-3x
-m.dzen.ru##.news-site--StoryHead-phone__actions-1- > .news-site--tap-icon__m-1p.news-site--use-icon-hover__icon_secondary-2J.news-site--tap-icon__rootElement-PL
+! m.dzen.ru##.news-site--StoryHead-phone__actions-1- > .news-site--tap-icon__m-1p.news-site--use-icon-hover__icon_secondary-2J.news-site--tap-icon__rootElement-PL
 m.dzen.ru##.channel--common-new-channel-header-mobile__headerContainer-3G
 m.newslipetsk.ru###topAdWrapperNL
 m.newslipetsk.ru##header > div:nth-of-type(1)
