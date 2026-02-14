@@ -59,35 +59,39 @@ t.me##.tgme_head_right_btn
 t.me##.tgme_page_widget_actions
 tv.mail.ru##.js-dwh-logger-exclude > div
 vfokuse.mail.ru##.js-dwh-logger-exclude > div
-vk.*###layout_sidebar
-vk.*##.share_link_wrap.reply_link_wrap > .share_link
-vk.*##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
-vk.*##li:nth-of-type(4)
+vk.com###layout_sidebar
+vk.com##.share_link_wrap.reply_link_wrap > .share_link
+vk.com##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
+vk.com##li:nth-of-type(4)
+vk.ru###layout_sidebar
+vk.ru##.share_link_wrap.reply_link_wrap > .share_link
+vk.ru##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
+vk.ru##li:nth-of-type(4)
 www.google.com###botstuff > div
 www.google.com###bres
 www.google.com##.hoUro
 www.google.com##i
 www.myip.com##div.row:nth-of-type(3)
 www.myip.com##div.row:nth-of-type(6)
-yandex.*##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
-yandex.*##.HeaderDesktop:first-child > header.HeaderDesktop-Main:first-child > div.HeaderDesktopActions.HeaderDesktop-Actions:nth-child(2) > div.Distribution.HeaderDesktopActions-Distribution.HeaderDesktopActions-Item.HeaderDesktopActions-Item_stayVisibleOn930:nth-child(6)
-yandex.*##.HeaderDesktopActions-Item_stayVisibleOn930
-yandex.*##.Prevention-Content
-yandex.*##.RelatedBottom.VanillaReact
-yandex.*##.RequestMeta-Level_type_antispam
-yandex.*##.RequestMeta_view_minified.RequestMeta
-yandex.*##.SerpFooter-LinksGroup_type_geo
-yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
-yandex.*##.eblCd2u91xQW3jkI-DirectSkeleton.eblCd2u91xQW3jkI-ebVed2vJzwAG5jkL47TXuMgkJmnKf0Jic4Q
-yandex.*##.main__block-rytthm-ffid
-yandex.*##.main__block-rytthm-ffid
-yandex.*##.settings__open-button.home-link2
-yandex.*##.settings__open-button.home-link2
-yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
-yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
-yandex.*##div.Distribution > div.DistributionPopup.DistributionPopup_motley_dark-grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
-yandex.*##div.Distribution > div.DistributionPopup.DistributionPopup_motley_grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
-yandex.*##div.eblCd2u91xQW3jkI-VideoListPageDirect.eblCd2u91xQW3jkI-efFCL2uNX_withStore.eblCd2u91xQW3jkI-efFCL2uNX_placement_eTlCd2u8OwAmznw.eblCd2u91xQW3jkI-efFCL2uNX
+yandex.ru##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
+yandex.ru##.HeaderDesktop:first-child > header.HeaderDesktop-Main:first-child > div.HeaderDesktopActions.HeaderDesktop-Actions:nth-child(2) > div.Distribution.HeaderDesktopActions-Distribution.HeaderDesktopActions-Item.HeaderDesktopActions-Item_stayVisibleOn930:nth-child(6)
+yandex.ru##.HeaderDesktopActions-Item_stayVisibleOn930
+yandex.ru##.Prevention-Content
+yandex.ru##.RelatedBottom.VanillaReact
+yandex.ru##.RequestMeta-Level_type_antispam
+yandex.ru##.RequestMeta_view_minified.RequestMeta
+yandex.ru##.SerpFooter-LinksGroup_type_geo
+yandex.ru##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
+yandex.ru##.eblCd2u91xQW3jkI-DirectSkeleton.eblCd2u91xQW3jkI-ebVed2vJzwAG5jkL47TXuMgkJmnKf0Jic4Q
+yandex.ru##.main__block-rytthm-ffid
+yandex.ru##.main__block-rytthm-ffid
+yandex.ru##.settings__open-button.home-link2
+yandex.ru##.settings__open-button.home-link2
+yandex.ru##.tablo_position_top.tablo_visibility_yes.tablo
+yandex.ru##.tablo_position_top.tablo_visibility_yes.tablo
+yandex.ru##div.Distribution > div.DistributionPopup.DistributionPopup_motley_dark-grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
+yandex.ru##div.Distribution > div.DistributionPopup.DistributionPopup_motley_grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
+yandex.ru##div.eblCd2u91xQW3jkI-VideoListPageDirect.eblCd2u91xQW3jkI-efFCL2uNX_withStore.eblCd2u91xQW3jkI-efFCL2uNX_placement_eTlCd2u8OwAmznw.eblCd2u91xQW3jkI-efFCL2uNX
 ||storage.ko-fi.com/cdn/kofi6.png$image
 $removeparam=cl4url,domain=dzen.ru
 $removeparam=fan,domain=dzen.ru
