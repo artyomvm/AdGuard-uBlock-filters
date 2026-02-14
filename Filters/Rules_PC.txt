@@ -1,4 +1,4 @@
-! Title: Фильтры ПК новые
+! Title: Фильтры ПК
 !
 auto.mail.ru##.js-dwh-logger-exclude > div > div
 auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
@@ -80,8 +80,13 @@ yandex.*##.SerpFooter-LinksGroup_type_geo
 yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
 yandex.*##.eblCd2u91xQW3jkI-DirectSkeleton.eblCd2u91xQW3jkI-ebVed2vJzwAG5jkL47TXuMgkJmnKf0Jic4Q
 yandex.*##.main__block-rytthm-ffid
+yandex.*##.main__block-rytthm-ffid
+yandex.*##.settings__open-button.home-link2
 yandex.*##.settings__open-button.home-link2
 yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
+yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
+yandex.*##div.Distribution > div.DistributionPopup.DistributionPopup_motley_dark-grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
+yandex.*##div.Distribution > div.DistributionPopup.DistributionPopup_motley_grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
 yandex.*##div.eblCd2u91xQW3jkI-VideoListPageDirect.eblCd2u91xQW3jkI-efFCL2uNX_withStore.eblCd2u91xQW3jkI-efFCL2uNX_placement_eTlCd2u8OwAmznw.eblCd2u91xQW3jkI-efFCL2uNX
 ||storage.ko-fi.com/cdn/kofi6.png$image
 $removeparam=cl4url,domain=dzen.ru
