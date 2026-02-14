@@ -1,5 +1,11 @@
 ! Title: Фильтры не ПК новые
 !
+www.gazeta.ru##.b_footer-license
+www.gazeta.ru##.b_footer-navigation.row
+www.gazeta.ru##.m_code.b_article-incut
+www.gazeta.ru###_id_gazeta_main_article > .b_article > div.b_article-media > .b_article-media-video
+www.gazeta.ru##.b_article-media-video
+www.ntv.ru##.peredacha-video-page__stories.stories-widget
 habr.com##.tm-article-sticky-panel
 habr.com##blockquote:nth-of-type(3)
 habr.com##.article-formatted-body_version-1.article-formatted-body [href^="https://ruvds.com/ru-rub"]
