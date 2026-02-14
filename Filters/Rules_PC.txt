@@ -1,5 +1,8 @@
 ! Title: Фильтры ПК
 !
+translate.ru##.btt-info-top.btt-info.row
+translate.ru##.mb-4.description-bt.feedback-partial
+translate.ru##.lg-gr-bg
 auto.mail.ru##.js-dwh-logger-exclude > div > div
 auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
 blog.promopult.ru##div.text-insertion
