@@ -1,5 +1,36 @@
 ! Title: Фильтры ПК новые
 !
+yandex.*##.main__block-rytthm-ffid
+yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
+yandex.*##.settings__open-button.home-link2
+yandex.*##.HeaderDesktopActions-Item_stayVisibleOn930
+yandex.*##.SerpFooter-LinksGroup_type_geo
+dzen.ru##.is-affixed
+dzen.ru##div.news-site--topic-channel-relatives-floor-redesign__borderWrapper-2T
+$removeparam=lr,domain=yandex.ru
+$removeparam=story,domain=dzen.ru
+$removeparam=utm_source,domain=dzen.ru
+$removeparam=utm_medium,domain=dzen.ru
+$removeparam=utm_referrer,domain=dzen.ru
+$removeparam=lang,domain=dzen.ru
+$removeparam=rubric,domain=dzen.ru
+$removeparam=fan,domain=dzen.ru
+$removeparam=t,domain=dzen.ru
+$removeparam=persistent_id,domain=dzen.ru
+$removeparam=cl4url,domain=dzen.ru
+$removeparam=persistent_id,domain=dzen.ru
+$removeparam=opertop,domain=dzen.ru
+$removeparam=page,domain=dzen.ru
+$removeparam=share_from,domain=dzen.ru
+$removeparam=share_to,domain=dzen.ru
+chromium.org###cookieBar
+dzen.ru##.content--action-island__container-1W, .content--action-island__appear-2L
+dzen.ru##.content--publisher-block-inline__subscribeButton-3C, .content--base-button__rootElement-75, .content--base-button__m-3E, .content--base-button__primary-1Y, .content--base-button__v2-2F
+dzen.ru##.content--article-action-island-desktop__container-12
+dzen.ru##.content--styles__banner-cc, .content--subscribe-banner__subscribeBanner-kp
+dzen.ru##.content--article-action-island-desktop__container-12
+comss.ru###hyvor-comments
+comss.ru##div.container:nth-child(5) > div.row > div.col-md-8.col-lg-8:first-child > div.horizontal:nth-child(5)
 auto.mail.ru##.js-dwh-logger-exclude > div > div
 auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
 blog.promopult.ru##div.text-insertion
