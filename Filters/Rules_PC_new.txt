@@ -1,39 +1,21 @@
 ! Title: Фильтры ПК новые
 !
-yandex.*##.main__block-rytthm-ffid
-yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
-yandex.*##.settings__open-button.home-link2
-yandex.*##.HeaderDesktopActions-Item_stayVisibleOn930
-yandex.*##.SerpFooter-LinksGroup_type_geo
-dzen.ru##.is-affixed
-dzen.ru##div.news-site--topic-channel-relatives-floor-redesign__borderWrapper-2T
-$removeparam=lr,domain=yandex.ru
-$removeparam=story,domain=dzen.ru
-$removeparam=utm_source,domain=dzen.ru
-$removeparam=utm_medium,domain=dzen.ru
-$removeparam=utm_referrer,domain=dzen.ru
-$removeparam=lang,domain=dzen.ru
-$removeparam=rubric,domain=dzen.ru
-$removeparam=fan,domain=dzen.ru
-$removeparam=t,domain=dzen.ru
-$removeparam=persistent_id,domain=dzen.ru
-$removeparam=cl4url,domain=dzen.ru
-$removeparam=persistent_id,domain=dzen.ru
-$removeparam=opertop,domain=dzen.ru
-$removeparam=page,domain=dzen.ru
-$removeparam=share_from,domain=dzen.ru
-$removeparam=share_to,domain=dzen.ru
-chromium.org###cookieBar
-dzen.ru##.content--action-island__container-1W, .content--action-island__appear-2L
-dzen.ru##.content--publisher-block-inline__subscribeButton-3C, .content--base-button__rootElement-75, .content--base-button__m-3E, .content--base-button__primary-1Y, .content--base-button__v2-2F
-dzen.ru##.content--article-action-island-desktop__container-12
-dzen.ru##.content--styles__banner-cc, .content--subscribe-banner__subscribeBanner-kp
-dzen.ru##.content--article-action-island-desktop__container-12
-comss.ru###hyvor-comments
-comss.ru##div.container:nth-child(5) > div.row > div.col-md-8.col-lg-8:first-child > div.horizontal:nth-child(5)
 auto.mail.ru##.js-dwh-logger-exclude > div > div
 auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
 blog.promopult.ru##div.text-insertion
+chromium.org###cookieBar
+comss.ru###hyvor-comments
+comss.ru##div.container-fluid:nth-of-type(4)
+comss.ru##div.container:nth-child(5) > div.row > div.col-md-8.col-lg-8:first-child > div.horizontal:nth-child(5)
+dzen.ru##.content--action-island__container-1W, .content--action-island__appear-2L
+dzen.ru##.content--article-action-island-desktop__container-12
+dzen.ru##.content--publisher-block-inline__subscribeButton-3C, .content--base-button__rootElement-75, .content--base-button__m-3E, .content--base-button__primary-1Y, .content--base-button__v2-2F
+dzen.ru##.content--styles__banner-cc, .content--subscribe-banner__subscribeBanner-kp
+dzen.ru##.is-affixed
+dzen.ru##div.content--d2d-block__cardsSection-3B
+dzen.ru##div.news-site--topic-channel-relatives-floor-redesign__borderWrapper-2T
+dzen.ru##div.news-site--web2app-advert-qr-banner__container-eW
+dzen.ru##span.content--d2d-block__title-kK
 finance.mail.ru##.js-dwh-logger-exclude
 gorod48.ru##.f-bottom
 gorod48.ru##.f-socia
@@ -88,10 +70,30 @@ www.google.com##i
 www.myip.com##div.row:nth-of-type(3)
 www.myip.com##div.row:nth-of-type(6)
 yandex.*##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
+yandex.*##.HeaderDesktopActions-Item_stayVisibleOn930
 yandex.*##.Prevention-Content
 yandex.*##.RelatedBottom.VanillaReact
 yandex.*##.RequestMeta_view_minified.RequestMeta
+yandex.*##.SerpFooter-LinksGroup_type_geo
 yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
 yandex.*##.eblCd2u91xQW3jkI-DirectSkeleton.eblCd2u91xQW3jkI-ebVed2vJzwAG5jkL47TXuMgkJmnKf0Jic4Q
+yandex.*##.main__block-rytthm-ffid
+yandex.*##.settings__open-button.home-link2
+yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
 yandex.*##div.eblCd2u91xQW3jkI-VideoListPageDirect.eblCd2u91xQW3jkI-efFCL2uNX_withStore.eblCd2u91xQW3jkI-efFCL2uNX_placement_eTlCd2u8OwAmznw.eblCd2u91xQW3jkI-efFCL2uNX
 ||storage.ko-fi.com/cdn/kofi6.png$image
+$removeparam=cl4url,domain=dzen.ru
+$removeparam=fan,domain=dzen.ru
+$removeparam=lang,domain=dzen.ru
+$removeparam=lr,domain=yandex.ru
+$removeparam=opertop,domain=dzen.ru
+$removeparam=page,domain=dzen.ru
+$removeparam=persistent_id,domain=dzen.ru
+$removeparam=rubric,domain=dzen.ru
+$removeparam=share_from,domain=dzen.ru
+$removeparam=share_to,domain=dzen.ru
+$removeparam=story,domain=dzen.ru
+$removeparam=t,domain=dzen.ru
+$removeparam=utm_medium,domain=dzen.ru
+$removeparam=utm_referrer,domain=dzen.ru
+$removeparam=utm_source,domain=dzen.ru
