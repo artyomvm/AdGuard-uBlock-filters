@@ -1,5 +1,7 @@
 ! Title: Фильтры ПК
 !
+yandex.ru##div.saAtyMh7cXH6qxCE-VideoListPageDirect.saAtyMh7cXH6qxCE-s6gtkMhLa_withStore.saAtyMh7cXH6qxCE-s6gtkMhLa_placement_s2AtyMh6nWXKu1Q.saAtyMh7cXH6qxCE-s6gtkMhLa
+yandex.ru##.saAtyMh7cXH6qxCE-DirectSkeleton.saAtyMh7cXH6qxCE-sawxyMgPaWXqkxCHJlRolz5CllbeEvjDk1Q
 translate.ru##.btt-info-top.btt-info.row
 translate.ru##.mb-4.description-bt.feedback-partial
 translate.ru##.lg-gr-bg
