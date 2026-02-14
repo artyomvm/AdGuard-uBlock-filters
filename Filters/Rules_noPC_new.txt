@@ -1,5 +1,24 @@
 ! Title: Фильтры не ПК новые
 !
+habr.com##.tm-article-sticky-panel
+habr.com##blockquote:nth-of-type(3)
+habr.com##.article-formatted-body_version-1.article-formatted-body [href^="https://ruvds.com/ru-rub"]
+habr.com##.tm-article-presenter__meta
+habr.com##.tm-article-author__company
+habr.com##.tm-article-blocks__comments
+habr.com##section.tm-block_spacing-bottom.tm-block:nth-of-type(2)
+habr.com##.tm-footer__social.social-icons
+rutube.ru##.app-download-topbar-module__topbar
+dzen.ru##.content--theme-pinner__withRunningLine-eu.content--theme-pinner__container-3n
+dzen.ru##.content--theme-pinner__safePadding-2M.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
+dzen.ru##.content--article-action-island-mobile__container-3B
+dzen.ru##.content--theme-pinner__pinner-uA
+dzen.ru##.dzen-layout--mobile-bottom-navigation__menu-1F
+dzen.ru##.content--publisher-block-inline__buttonWrapper-3R
+dzen.ru##.content--subscribe-banner__subscribeBanner-kp.content--styles__isMobile-tc.content--styles__banner-cc
+dzen.ru##.content--article-item__isMobile-1K.content--article-item__d2dBlock-2B
+www.comss.ru###hyvor-comments
+comss.ru###main > div.container-fluid:last-child
 dzen.ru##.content--article-action-island-mobile__isNavigationVisible-19.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
 dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
 dzen.ru##.dzen-layout--mobile-bottom-navigation__menuContainer-3l
