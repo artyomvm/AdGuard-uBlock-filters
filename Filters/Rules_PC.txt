@@ -17,6 +17,10 @@ dzen.ru##div.news-site--topic-channel-relatives-floor-redesign__borderWrapper-2T
 dzen.ru##div.news-site--web2app-advert-qr-banner__container-eW
 dzen.ru##span.content--d2d-block__title-kK
 finance.mail.ru##.js-dwh-logger-exclude
+google.com###botstuff > div
+google.com###bres
+google.com##.hoUro
+google.com##i
 gorod48.ru##.f-bottom
 gorod48.ru##.f-socia
 gorod48.ru##.footer > .container > .swiper-horizontal.swiper-initialized.mod--cat.swiper
@@ -34,6 +38,8 @@ health.mail.ru##.js-dwh-logger-exclude
 hi-tech.mail.ru##.js-dwh-logger-exclude > div
 lady.mail.ru##.js-dwh-logger-exclude > div
 mail.ru##.search-frame
+myip.com##div.row:nth-of-type(3)
+myip.com##div.row:nth-of-type(6)
 news.mail.ru##.js-dwh-logger-exclude > div
 news.mail.ru##.rb--recommendation-link
 otvet.mail.ru##._PostsListOther_3ltyk_3
@@ -67,12 +73,6 @@ vk.ru###layout_sidebar
 vk.ru##.share_link_wrap.reply_link_wrap > .share_link
 vk.ru##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
 vk.ru##li:nth-of-type(4)
-www.google.com###botstuff > div
-www.google.com###bres
-www.google.com##.hoUro
-www.google.com##i
-www.myip.com##div.row:nth-of-type(3)
-www.myip.com##div.row:nth-of-type(6)
 yandex.ru##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
 yandex.ru##.HeaderDesktop:first-child > header.HeaderDesktop-Main:first-child > div.HeaderDesktopActions.HeaderDesktop-Actions:nth-child(2) > div.Distribution.HeaderDesktopActions-Distribution.HeaderDesktopActions-Item.HeaderDesktopActions-Item_stayVisibleOn930:nth-child(6)
 yandex.ru##.HeaderDesktopActions-Item_stayVisibleOn930
