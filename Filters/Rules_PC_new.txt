@@ -70,9 +70,11 @@ www.google.com##i
 www.myip.com##div.row:nth-of-type(3)
 www.myip.com##div.row:nth-of-type(6)
 yandex.*##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
+yandex.*##.HeaderDesktop:first-child > header.HeaderDesktop-Main:first-child > div.HeaderDesktopActions.HeaderDesktop-Actions:nth-child(2) > div.Distribution.HeaderDesktopActions-Distribution.HeaderDesktopActions-Item.HeaderDesktopActions-Item_stayVisibleOn930:nth-child(6)
 yandex.*##.HeaderDesktopActions-Item_stayVisibleOn930
 yandex.*##.Prevention-Content
 yandex.*##.RelatedBottom.VanillaReact
+yandex.*##.RequestMeta-Level_type_antispam
 yandex.*##.RequestMeta_view_minified.RequestMeta
 yandex.*##.SerpFooter-LinksGroup_type_geo
 yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
