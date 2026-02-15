@@ -1,11 +1,12 @@
 ! Title: Фильтры не ПК новые
 !
-www.gazeta.ru##.b_footer-license
-www.gazeta.ru##.b_footer-navigation.row
-www.gazeta.ru##.m_code.b_article-incut
-www.gazeta.ru###_id_gazeta_main_article > .b_article > div.b_article-media > .b_article-media-video
-www.gazeta.ru##.b_article-media-video
-www.ntv.ru##.peredacha-video-page__stories.stories-widget
+sportsdzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
+gazeta.ru##.b_footer-license
+gazeta.ru##.b_footer-navigation.row
+gazeta.ru##.m_code.b_article-incut
+gazeta.ru###_id_gazeta_main_article > .b_article > div.b_article-media > .b_article-media-video
+gazeta.ru##.b_article-media-video
+ntv.ru##.peredacha-video-page__stories.stories-widget
 habr.com##.tm-article-sticky-panel
 habr.com##blockquote:nth-of-type(3)
 habr.com##.article-formatted-body_version-1.article-formatted-body [href^="https://ruvds.com/ru-rub"]
@@ -23,14 +24,14 @@ dzen.ru##.dzen-layout--mobile-bottom-navigation__menu-1F
 dzen.ru##.content--publisher-block-inline__buttonWrapper-3R
 dzen.ru##.content--subscribe-banner__subscribeBanner-kp.content--styles__isMobile-tc.content--styles__banner-cc
 dzen.ru##.content--article-item__isMobile-1K.content--article-item__d2dBlock-2B
-www.comss.ru###hyvor-comments
+comss.ru###hyvor-comments
 comss.ru###main > div.container-fluid:last-child
 dzen.ru##.content--article-action-island-mobile__isNavigationVisible-19.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
 dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
 dzen.ru##.dzen-layout--mobile-bottom-navigation__menuContainer-3l
 dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
 dzen.ru##.content--theme-pinner__safePadding-2M.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
-www.comss.ru###hyvor-comments
+comss.ru###hyvor-comments
 liteapks.com##.py-4
 liteapks.com##div.col-md-6.col-12:nth-of-type(1) > .mb-4
 liteapks.com##div.col-md-6.col-12 > .mb-4
@@ -39,8 +40,8 @@ pornrip.cc###footer > div.main-text.textleft.default.grid-100.tablet-grid-100.mo
 pornrip.cc###footer > div.main-text.textleft.default.grid-100.tablet-grid-100.mobile-grid-100.np-mobile:first-child > p:nth-child(2)
 pornrip.cc###home > div.content-wrapper.grid-100.grid-parent > div.articles:nth-child(6)
 pornrip.cc###home > div.content-wrapper.grid-100.grid-parent > div.tag-description.textcenter:nth-child(5)
-www.sexfetishforum.com##div.windowbg2 > .post_wrapper > .postarea > center > [href="https://www.xufile.com"]
-www.sexfetishforum.com##div.windowbg
+sexfetishforum.com##div.windowbg2 > .post_wrapper > .postarea > center > [href="https://www.xufile.com"]
+sexfetishforum.com##div.windowbg
 xxxdd.net##.ilike_rating
 xxxdd.net###footbox
 pornrip.cc##.dark.button
