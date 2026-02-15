@@ -22,7 +22,6 @@ dzen.ru##div.news-site--topic-channel-relatives-floor-redesign__borderWrapper-2T
 dzen.ru##div.news-site--web2app-advert-qr-banner__container-eW
 dzen.ru##span.content--d2d-block__title-kK
 finance.mail.ru##.js-dwh-logger-exclude
-! google.com###botstuff > div
 google.com###bres
 google.com##.hoUro
 google.com##i
