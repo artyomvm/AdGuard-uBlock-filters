@@ -55,6 +55,7 @@ lrepacks.net###pageuserscroll > ul
 lrepacks.net###sidebar > div.widget.widget_recent_posts:nth-child(4) > div.tabs-holder
 lrepacks.net###sidebar > div.widget.widget_recent_posts:nth-child(5) > div.tabs-holder
 lrepacks.net###sidebar > div.widget.widget_upcoming_events:last-child
+lrepacks.net##.widget_recent_entries.widget
 lrepacks.net##.block-with-icons
 lrepacks.net##.respond-comments
 lrepacks.net##pageuserscroll
