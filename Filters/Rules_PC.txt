@@ -20,7 +20,6 @@ dzen.ru##div.news-site--web2app-advert-qr-banner__container-eW
 dzen.ru##span.content--d2d-block__title-kK
 finance.mail.ru##.js-dwh-logger-exclude
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
-google.com###botstuff > div
 google.com###bres
 google.com##.b2hzT.fbar
 google.com##.hoUro
