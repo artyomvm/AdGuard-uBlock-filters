@@ -1,16 +1,13 @@
 ! Title: Фильтры ПК
 !
-yandex.ru##div.saAtyMh7cXH6qxCE-VideoListPageDirect.saAtyMh7cXH6qxCE-s6gtkMhLa_withStore.saAtyMh7cXH6qxCE-s6gtkMhLa_placement_s2AtyMh6nWXKu1Q.saAtyMh7cXH6qxCE-s6gtkMhLa
-yandex.ru##.saAtyMh7cXH6qxCE-DirectSkeleton.saAtyMh7cXH6qxCE-sawxyMgPaWXqkxCHJlRolz5CllbeEvjDk1Q
-translate.ru##.btt-info-top.btt-info.row
-translate.ru##.mb-4.description-bt.feedback-partial
-translate.ru##.lg-gr-bg
 auto.mail.ru##.js-dwh-logger-exclude > div > div
 auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
 blog.promopult.ru##div.text-insertion
+cdn.youtubeunblocked.live###feedbackTab
 chromium.org###cookieBar
 comss.ru###hyvor-comments
 comss.ru##div.container-fluid:nth-of-type(4)
+comss.ru##div.container-fluid:nth-of-type(7)
 comss.ru##div.container:nth-child(5) > div.row > div.col-md-8.col-lg-8:first-child > div.horizontal:nth-child(5)
 dzen.ru##.content--action-island__container-1W, .content--action-island__appear-2L
 dzen.ru##.content--article-action-island-desktop__container-12
@@ -22,8 +19,12 @@ dzen.ru##div.news-site--topic-channel-relatives-floor-redesign__borderWrapper-2T
 dzen.ru##div.news-site--web2app-advert-qr-banner__container-eW
 dzen.ru##span.content--d2d-block__title-kK
 finance.mail.ru##.js-dwh-logger-exclude
+google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
+google.com###botstuff > div
 google.com###bres
+google.com##.b2hzT.fbar
 google.com##.hoUro
+google.com##.uU7dJb
 google.com##i
 gorod48.ru##.f-bottom
 gorod48.ru##.f-socia
@@ -38,12 +39,22 @@ gorod48.ru##.swiper-slide-next.mod--cat.swiper-slide > .h-scroll-item
 gorod48.ru##.top--tabs-sec
 gorod48.ru##section.home--sec:nth-of-type(3)
 gorod48.ru##section.home--sec:nth-of-type(5)
+habr.com##.article-formatted-body_version-1.article-formatted-body > div > [href^="https://selectel.ru/services/cloud/servers/"]
 health.mail.ru##.js-dwh-logger-exclude
 hi-tech.mail.ru##.js-dwh-logger-exclude > div
+k2s.cc##.e124gmq03.css-1nlnn4k
+k2s.cc##.e1hoouff5.css-1g8tv9x
+k2s.cc##.e3o18i36.css-3y46tr
+k2s.cc##.omni-email-widget
+kino.mail.ru##.block_pulse-lenta.block_separated_top.block
+kino.mail.ru##.js-dwh-logger-exclude > div
+kino.mail.ru##.springs_active.js-module > .block_separated_top.block
 lady.mail.ru##.js-dwh-logger-exclude > div
+lrepacks.net###sidebar > div.widget.widget_upcoming_events:last-child
 mail.ru##.search-frame
 myip.com##div.row:nth-of-type(3)
 myip.com##div.row:nth-of-type(6)
+news.mail.ru##.b049d2054a
 news.mail.ru##.js-dwh-logger-exclude > div
 news.mail.ru##.rb--recommendation-link
 otvet.mail.ru##._PostsListOther_3ltyk_3
@@ -58,6 +69,19 @@ pornhub.org##.original.sideColumn
 pornhub.org##.original.video-wrapper.hd-videos_wrapper.hd-smallerWidth.sectionWrapper
 pornhub.org##.videoGridTabs
 pornhub.org##div.col > ul
+pornrip.cc###back-to-top
+pornrip.cc###bitcoin-banner
+pornrip.cc###comments
+pornrip.cc###footer > div.main-text.textleft.default.grid-100.tablet-grid-100.mobile-grid-100.np-mobile:first-child > p:nth-child(2)
+pornrip.cc###footer > div.main-text.textleft.default.grid-100.tablet-grid-100.mobile-grid-100.np-mobile:first-child > p:nth-child(4)
+pornrip.cc###home > div.content-wrapper.grid-100.grid-parent > div.articles:nth-child(6)
+pornrip.cc###home > div.content-wrapper.grid-100.grid-parent > div.tag-description.textcenter:nth-child(5)
+pornrip.cc###home > div.content-wrapper.grid-100.grid-parent > div.tag-description.textcenter:nth-child(5) > h2.title.ularge.no-margin.icon:first-child
+pornrip.cc###sidebar
+pornrip.cc###single > div.content-wrapper.grid-70:last-child > article.main-article.post.tag-cocktails.tag-beers:first-child > header:nth-child(8) > div.meta:first-child > div.tags.grid-parent:nth-child(7)
+pornrip.cc###single > div.content-wrapper.grid-70:last-child > section.next-posts:nth-child(3)
+pornrip.cc###st_undr_ban
+ru.wikipedia.org##.wp25-banner
 rutube.ru##.safe-mode-video-banner-module__desktop.safe-mode-video-banner-module__banner
 rutube.ru##.video-page-layout-module__right
 rutube.ru##.wdp-comments-module__wrapper
@@ -67,35 +91,49 @@ t.me##.tgme_channel_download_telegram
 t.me##.tgme_footer
 t.me##.tgme_head_right_btn
 t.me##.tgme_page_widget_actions
+translate.ru##.btt-info-top.btt-info.row
+translate.ru##.lg-gr-bg
+translate.ru##.mb-4.description-bt.feedback-partial
+tv.mail.ru##.block_pulse-lenta.block_separated_top.block
 tv.mail.ru##.js-dwh-logger-exclude > div
+tv.mail.ru##.js-live-channels-carousel
+tv.mail.ru##.p-footer.wrapper
+tv.mail.ru##.p-print-hidden.rb_11495.js-module.js-track_visibility.block_separated_top.padding_vertical_30.wrap-control.block_online.block
 vfokuse.mail.ru##.js-dwh-logger-exclude > div
-vk.com###layout_sidebar
-vk.com##.share_link_wrap.reply_link_wrap > .share_link
-vk.com##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
-vk.com##li:nth-of-type(4)
-vk.ru###layout_sidebar
-vk.ru##.share_link_wrap.reply_link_wrap > .share_link
-vk.ru##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
-vk.ru##li:nth-of-type(4)
-yandex.ru##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
-yandex.ru##.HeaderDesktop:first-child > header.HeaderDesktop-Main:first-child > div.HeaderDesktopActions.HeaderDesktop-Actions:nth-child(2) > div.Distribution.HeaderDesktopActions-Distribution.HeaderDesktopActions-Item.HeaderDesktopActions-Item_stayVisibleOn930:nth-child(6)
-yandex.ru##.HeaderDesktopActions-Item_stayVisibleOn930
-yandex.ru##.Prevention-Content
-yandex.ru##.RelatedBottom.VanillaReact
-yandex.ru##.RequestMeta-Level_type_antispam
-yandex.ru##.RequestMeta_view_minified.RequestMeta
-yandex.ru##.SerpFooter-LinksGroup_type_geo
-yandex.ru##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
-yandex.ru##.eblCd2u91xQW3jkI-DirectSkeleton.eblCd2u91xQW3jkI-ebVed2vJzwAG5jkL47TXuMgkJmnKf0Jic4Q
-yandex.ru##.main__block-rytthm-ffid
-yandex.ru##.main__block-rytthm-ffid
-yandex.ru##.settings__open-button.home-link2
-yandex.ru##.settings__open-button.home-link2
-yandex.ru##.tablo_position_top.tablo_visibility_yes.tablo
-yandex.ru##.tablo_position_top.tablo_visibility_yes.tablo
-yandex.ru##div.Distribution > div.DistributionPopup.DistributionPopup_motley_dark-grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
-yandex.ru##div.Distribution > div.DistributionPopup.DistributionPopup_motley_grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
-yandex.ru##div.eblCd2u91xQW3jkI-VideoListPageDirect.eblCd2u91xQW3jkI-efFCL2uNX_withStore.eblCd2u91xQW3jkI-efFCL2uNX_placement_eTlCd2u8OwAmznw.eblCd2u91xQW3jkI-efFCL2uNX
+vk.*###layout_sidebar
+vk.*##.share_link_wrap.reply_link_wrap > .share_link
+vk.*##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
+vk.*##li:nth-of-type(4)
+wildberries.ru##div.main-page > div.main-page__content:nth-child(3) > div.main-page__banners.slider-main.j-slider-banners.j-banners-block.j-content-item.banners--3
+ya.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
+yandex.*##.DistributionPopup_visible.DistributionPopup_location_right-top.DistributionPopup_animation_bounce.DistributionPopup_layout_renew.DistributionPopup_motley_grey.DistributionPopup_hasShadow.DistributionPopup
+yandex.*##.HeaderDesktop:first-child > header.HeaderDesktop-Main:first-child > div.HeaderDesktopActions.HeaderDesktop-Actions:nth-child(2) > div.Distribution.HeaderDesktopActions-Distribution.HeaderDesktopActions-Item.HeaderDesktopActions-Item_stayVisibleOn930:nth-child(6)
+yandex.*##.HeaderDesktopActions-Item_stayVisibleOn930
+yandex.*##.Prevention-Content
+yandex.*##.RelatedBottom
+yandex.*##.RelatedBottom.VanillaReact
+yandex.*##.RequestMeta-Level_type_antispam
+yandex.*##.RequestMeta_view_minified.RequestMeta
+yandex.*##.SerpFooter-LinksGroup_type_geo
+yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
+yandex.*##.Typo_line_s.Typo_text_m.Typo.organic.bno.Bno.Organic.Organic
+yandex.*##.eblCd2u91xQW3jkI-DirectSkeleton.eblCd2u91xQW3jkI-ebVed2vJzwAG5jkL47TXuMgkJmnKf0Jic4Q
+yandex.*##.main__block-rytthm-ffid
+yandex.*##.saAtyMh7cXH6qxCE-DirectSkeleton.saAtyMh7cXH6qxCE-sawxyMgPaWXqkxCHJlRolz5CllbeEvjDk1Q
+yandex.*##.saAtyMh7cXH6qxCE-s6gtkMhLa, .saAtyMh7cXH6qxCE-s6gtkMhLa_placement_s2AtyMh6nWXKu1Q, .saAtyMh7cXH6qxCE-s6gtkMhLa_withStore, .saAtyMh7cXH6qxCE-VideoListPageDirect
+yandex.*##.settings__open-button.home-link2
+yandex.*##.tablo_position_top.tablo_visibility_yes.tablo
+yandex.*##div.Distribution > div.DistributionPopup.DistributionPopup_motley_dark-grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
+yandex.*##div.Distribution > div.DistributionPopup.DistributionPopup_motley_grey.DistributionPopup_layout_rectangle.DistributionPopup_animation_fade-show.DistributionPopup_location_bottom.DistributionPopup_visible:last-child
+yandex.*##div.eblCd2u91xQW3jkI-VideoListPageDirect.eblCd2u91xQW3jkI-efFCL2uNX_withStore.eblCd2u91xQW3jkI-efFCL2uNX_placement_eTlCd2u8OwAmznw.eblCd2u91xQW3jkI-efFCL2uNX
+yandex.*##div.saAtyMh7cXH6qxCE-VideoListPageDirect.saAtyMh7cXH6qxCE-s6gtkMhLa_withStore.saAtyMh7cXH6qxCE-s6gtkMhLa_placement_s2AtyMh6nWXKu1Q.saAtyMh7cXH6qxCE-s6gtkMhLa
+yandex.*#@#.VideoViewer div[class*="_placement_"]:style(display: none !important)
+youtube.com###comments > .ytd-comments.style-scope
+youtube.com###contents > ytd-comments.style-scope.ytd-section-list-renderer:last-child
+youtube.com###country-code
+youtube.com###secondary
+youtube.com##.ytd-watch-next-secondary-results-renderer.style-scope
+youtube.com##yt-lockup-view-model.yt-lockup-view-model--wrapper.lockup.ytd-watch-next-secondary-results-renderer
 ||storage.ko-fi.com/cdn/kofi6.png$image
 $removeparam=cl4url,domain=dzen.ru
 $removeparam=fan,domain=dzen.ru
@@ -107,8 +145,15 @@ $removeparam=persistent_id,domain=dzen.ru
 $removeparam=rubric,domain=dzen.ru
 $removeparam=share_from,domain=dzen.ru
 $removeparam=share_to,domain=dzen.ru
+$removeparam=site,domain=pornrip.cc
 $removeparam=story,domain=dzen.ru
 $removeparam=t,domain=dzen.ru
 $removeparam=utm_medium,domain=dzen.ru
 $removeparam=utm_referrer,domain=dzen.ru
 $removeparam=utm_source,domain=dzen.ru
+@@||idcdn.top^$document
+@@||naughtyblog.org/wp-admin/admin-ajax.php$domain=naughtyblog.org
+@@||r-cdn.top^$document
+@@||wb.ru^$domain=wildberries.ru
+@@||wbbasket.ru^$domain=wbbasket.ru
+@@||wbbasket.ru^$domain=wildberries.ru
