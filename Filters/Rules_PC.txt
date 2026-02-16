@@ -49,6 +49,15 @@ kino.mail.ru##.block_pulse-lenta.block_separated_top.block
 kino.mail.ru##.js-dwh-logger-exclude > div
 kino.mail.ru##.springs_active.js-module > .block_separated_top.block
 lady.mail.ru##.js-dwh-logger-exclude > div
+lrepacks.net###comments
+lrepacks.net###navigation > a.button.large.donate:last-child
+lrepacks.net###pageuserscroll > ul
+lrepacks.net###sidebar > div.widget.widget_recent_posts:nth-child(4) > div.tabs-holder
+lrepacks.net###sidebar > div.widget.widget_recent_posts:nth-child(5) > div.tabs-holder
+lrepacks.net###sidebar > div.widget.widget_upcoming_events:last-child
+lrepacks.net##.block-with-icons
+lrepacks.net##.respond-comments
+lrepacks.net##pageuserscroll
 lrepacks.net###sidebar > div.widget.widget_upcoming_events:last-child
 mail.ru##.search-frame
 myip.com##div.row:nth-of-type(3)
