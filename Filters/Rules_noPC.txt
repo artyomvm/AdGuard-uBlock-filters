@@ -1,5 +1,64 @@
 ! Title: Фильтры не ПК
 !
+google.com##.b2hzT.fbar
+google.com##.smiUbb.fbar
+google.com###rso > div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.AuVD > .Wt5Tfe
+lrepacks.net###pageuserscroll
+lrepacks.net##.widget_recent_entries.widget
+lrepacks.net##div.columns.large-4:nth-of-type(1)
+lrepacks.net##div.widget_upcoming_events.widget:nth-of-type(5)
+lrepacks.net##.widget_recent_posts.widget
+yandex.ru##.RelatedBottom
+yandex.ru##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic.Organic
+apkpure.net##.trending-box.module-card-container
+apkpure.net##.aegon-card
+comss.ru##div.container-fluid:nth-of-type(7)
+dzen.ru###iSCUblagDhswIsw
+yandex.*##div.obHIkc8DIbq3lV70-VideoListPageDirect.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_placement_o3HIkc8Cza6HhRg.obHIkc8DIbq3lV70-o7nIyc8zq
+yandex.*##.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_placement_o33Ukc92z56TzS6qm.obHIkc8DIbq3lV70-o7nIyc8zq
+m.vk.*##.is_empty.ReplyItem__like
+m.vk.*##.active.Replies_last_shown._thover.Replies_last
+prostitutki-today.*##div.owl-slider-carousel
+m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
+m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
+vkvideo.ru##.sticky_top_force.fl_l.side_bar_video_spa
+vkvideo.ru###video_left_menu_toggle
+vkvideo.ru##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
+duckduckgo.com##.footer > div
+pornhub.org##.watchPageUpdated.mostPopularComment
+epp.genproc.gov.ru##.app-mobile-page-link
+epp.genproc.gov.ru##.wd_ziax_chat-widget
+epp.genproc.gov.ru##.footer__special
+epp.genproc.gov.ru##.link_in_row.footer__list
+esia.gosuslugi.ru##esia-banner
+yandex.*##.SerpFooter-LinksGroup_type_feedback.SerpFooter-LinksGroup > .SerpFooter-Link_view_default.SerpFooter-Link.Button
+yandex.*##.SerpFooter-LinksGroup_type_recommendations.SerpFooter-LinksGroup > .SerpFooter-Link_view_default.SerpFooter-Link.Link
+gubdaily.ru##.daily-telegram-body
+pornhub.org##div.footerContentWrapper:nth-child(18) > div.logoFooterWrapper.homePageFooter:last-child > a.rtaLink:nth-child(3)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(3)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(4)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(5)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:last-child
+google.com##.MDLhlf
+google.com###rso .AuVD
+google.com##div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.cUnQKe > .ouy7Mc > .EyBRub.Bb1JKe.Wt5Tfe.Kc1gdb.Ae8kyb
+google.com##.smiUbb.fbar
+google.com##.Wt5Tfe
+hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.box:nth-child(8)
+hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.box:nth-child(7)
+hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.c_title:nth-child(6)
+duckduckgo.com##.footer > div
+fancentro.com##.mui-style-18jhkld.MuiBox-root
+k2s.cc##.eu4h3zr0.css-8udt3u.e4whk300
+k2s.cc##.e87hxvx2.css-1alsx9z
+prostitutki-today.*##div.owl-slider-carousel:nth-of-type(2)
+2ip.ru##.main-related
+2ip.ru##h3:nth-of-type(2)
+2ip.ru##div.site-info:nth-of-type(4)
+2ip.ru##.speed_statistic__full.speed_statistic
+2ip.ru##.speed_last_results
+2ip.ru###slide-isp-review
+2ip.ru###content-articles-block
 360.ru##._18qriuy0._5qclqh0
 360.ru##._1ifrl2
 360.ru##._1ifrl7
