@@ -19,6 +19,7 @@ yandex.*##.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_place
 m.vk.*##.is_empty.ReplyItem__like
 m.vk.*##.active.Replies_last_shown._thover.Replies_last
 prostitutki-today.*##div.owl-slider-carousel
+prostitutki-today.*##div.owl-slider-carousel
 m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
 m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
 vkvideo.ru##.sticky_top_force.fl_l.side_bar_video_spa
