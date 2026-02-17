@@ -44,9 +44,6 @@ google.com###rso .AuVD
 google.com##div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.cUnQKe > .ouy7Mc > .EyBRub.Bb1JKe.Wt5Tfe.Kc1gdb.Ae8kyb
 google.com##.smiUbb.fbar
 google.com##.Wt5Tfe
-hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.box:nth-child(8)
-hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.box:nth-child(7)
-hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.c_title:nth-child(6)
 duckduckgo.com##.footer > div
 fancentro.com##.mui-style-18jhkld.MuiBox-root
 k2s.cc##.eu4h3zr0.css-8udt3u.e4whk300
