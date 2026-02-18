@@ -28,6 +28,24 @@ dzen.ru##div.news-site--web2app-advert-qr-banner__container-eW
 dzen.ru##span.content--d2d-block__title-kK
 e.mail.ru##.ph-project-widgets.ph-project.ph-mw-button
 e.mail.ru##.thread__kaspersky
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.agree-wrap:nth-child(2) > section.portlet.component-internet-reception-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div > main > div.pro__appeals-content.pro__appeals-content--without-warn:first-child
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.agree-wrap:nth-child(2) > section.portlet.component-internet-reception-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div > main > section.pro__appeals-content:last-child > div.appeals-content__alert:nth-child(2)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.agree-wrap:nth-child(2) > section.portlet.component-internet-reception-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div > main > section.pro__appeals-content:last-child > div.appeals-content__wrapper.col-xs-12.col-sm-12.col-md-12.col-lg-12:first-child
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:first-child
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:last-child
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(3)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(3)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(4)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(5)
+epp.genproc.gov.ru###terms > ul:last-child > li:first-child
+epp.genproc.gov.ru###terms > ul:last-child > li:nth-child(2)
+epp.genproc.gov.ru###terms > ul:last-child > li:nth-child(3)
+epp.genproc.gov.ru###terms > ul:last-child > li:nth-child(7)
+epp.genproc.gov.ru##.mobile-app-image, .gpparf-mobile-app-link_button__image-rus
+epp.genproc.gov.ru##.wd_ziax_icon, .ziax_1_image_icon_block
+epp.genproc.gov.ru##main:nth-child(2) > div.wrapper.test-label-enable:nth-child(3) > div.footer:nth-child(3) > div.footer__container > div.footer__main-info:first-child > div.footer__contacts:last-child > a.footer__link:nth-child(10)
+epp.genproc.gov.ru##main:nth-child(2) > div.wrapper.test-label-enable:nth-child(3) > div.footer:nth-child(3) > div.footer__container > div.footer__special:last-child
+esia.gosuslugi.ru##esia-root:first-child > div:first-child > esia-login:last-child > div.container:last-child > esia-banner:last-child > div.banners
 finance.mail.ru##.js-dwh-logger-exclude
 freeconvert.com###ZohodeskWidgetPlaceholder
 freeconvert.com##.content-card
