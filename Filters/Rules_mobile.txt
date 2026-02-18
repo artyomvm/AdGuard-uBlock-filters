@@ -47,6 +47,15 @@ club.dns-shop.ru##.read-more-widget > div:nth-of-type(1)
 club.dns-shop.ru##.scroll-up-btn
 club.dns-shop.ru##.site-banner-list.site-banner-list_mobile
 cocoshot.net###liveToast
+comss.ru###hyvor-comments
+comss.ru###main > div.container:nth-child(5) > h3
+comss.ru###news-container > div.col-md-4:first-child
+comss.ru###news-container > div.col-md-4:last-child
+comss.ru###news-container > div.col-md-4:nth-child(2)
+comss.ru###news-container > div.col-md-4:nth-child(3)
+comss.ru###news-container > div.col-md-4:nth-child(4)
+comss.ru###news-container > div.col-md-4:nth-child(5)
+comss.ru##div.container:nth-child(6) > h3
 daiunique.com##.recent-news.margin-bottom-10
 daiunique.com##.us-close
 daiunique.com##[src*="/assets/cherry/up-c2cf900063250bf367617d76b3f2dc076972f1155de89dcab3ad9326a908dea5.png"]
@@ -59,12 +68,23 @@ diplomis-o-vysshem-v-lipetske-48.ru###chat-popup
 downhomedigital.net##section.related-section.inside-article:nth-of-type(1)
 duckduckgo.com##.js-footer-feedback-btn-wrap
 duckduckgo.com##.mobile-atb-banner_appBanner__hAimG.mobile-atb-banner_root__EiCQe
+dzen.ru###LayoutContentMicroRoot > div.content--article__article-1V:nth-child(3)
+dzen.ru###LayoutContentMicroRoot > div.content--article__article-1V:nth-child(4)
+dzen.ru##.content--article-between-items-ad-block__mobile-2t.content--article-between-items-ad-block__placeholder-zO
+dzen.ru##.content--article-footer__isClamped-3R.content--article-footer__isMobile-m4.content--article-footer__socialsBlock-2F.content--socials-block__breakpointArticle-2W.content--socials-block__socialsBlock-3T
+dzen.ru##.content--article-item-content__clampedArticleContainer-82
+dzen.ru##.content--article-item-content__title-eZ.content--article-header__withIcons-1h.content--article-header__isSmallTitle-3j.content--article-header__isMobile-42.content--article-header__title-3r
+dzen.ru##.content--article-item__isMobile-1K.content--article-item__d2dBlock-2B
+dzen.ru##.content--styles__isMobile-em.content--styles__comments-3n
+dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinnerVisible-26.content--theme-pinner__pinner-uA
+dzen.ru##.dzen-mobile--feed-one-column-item__paddingWithWideDividerShorts-2L.dzen-mobile--feed-one-column-item__withWideDivider-bJ.dzen-mobile--feed-one-column-item__isNullLateralPaddings-2t.dzen-mobile--feed-one-column-item__isDefaultPadding-3f.dzen-mobile--feed-one-column-item__itemWrap-Mb
 dzen.ru##.news-site--fixed-drawer__content-3y
 dzen.ru##.news-site--web2app-top-plain-banner__xrnE2cwI3_nVf-16
 dzen.ru##.video-viewer--topic-channel-relatives-floor-redesign__borderWrapper-3m
 dzen.ru##.video-viewer--video-card-view-common__isMobile-R-.video-viewer--video-card-view-common__wrapper-3y
 dzen.ru##.video-viewer--video-feed__doc2Doc-2K
 dzen.ru##.video-viewer--video-feed__isVisible-MX.video-viewer--video-feed__d2DTabs-Uq
+dzen.ru##.video-viewer--video-feed__skeleton-2g > .video-viewer--card-skeleton-wrapper__withBottomSpace-4Z.video-viewer--card-skeleton-wrapper__withPaddinTopWrapper-3l.video-viewer--card-skeleton-wrapper__skeletonWrapper-1j > .video-viewer--card-skeleton-wrapper__withSmallPadding-2s.video-viewer--card-skeleton-wrapper__withSmallGap-2e.video-viewer--card-skeleton-wrapper__withGap-3f.video-viewer--card-skeleton-wrapper__skeleton-2g
 dzen.ru##div:nth-of-type(8) > .dzen-mobile--snackbar-context-provider__isMobile-3M.dzen-mobile--snackbar-context-provider__snackbarContextProvider-1M
 ebalovo.club##.page-desc
 ebalovo.club##.page-section.mt-0.mt-lg-3 > .thumb-grid
@@ -104,6 +124,7 @@ filejoker.net##.flex-wrap.font-weight-bold.text-big.text-primary.text-center.jus
 filejoker.net##.justify-content-around.plans-wrap.row
 filejoker.net##.px-3.align-items-center.justify-content-center.payment-icons.row
 finance.mail.ru##div.js-dwh-logger-exclude
+firefox.com##.c-banner-is-visible.t-native.mzp-t-firefox.hide-from-legacy-ie.c-banner
 forum.intporn.com###top > div.p-body:nth-child(5) > div.p-body-inner > ul.p-breadcrumbs.p-breadcrumbs--bottom:last-child
 forum.intporn.com##.p-body-inner > div.samCodeUnit:first-child
 forum.intporn.com##.samCodeUnit
@@ -214,6 +235,8 @@ lipetsknews.ru##.footer_ftrInfoWrap__DTP22 > div:nth-of-type(3)
 lipetsknews.ru##.jsx-4bc5312448bc76c0.sub-menu_sbmWrp__cQf1J.logo-lipetsknews
 lipetsknews.ru##.notifycation_notifycationWrap__8lzkG
 lipetsknews.ru##.social-list-subscribe_socialListSubscribeLinks__Nh0pM.social-list-subscribe_socialListSubscribeLinksMoveTwo__noQO_
+lipetsksm.com###content > div.filter-mobile-button.pointer.align-center:nth-child(2)
+lipetsksm.com###content > section.content-box:last-child > div.description-box:last-child
 lipetsktime.ru###banner-AKK5mZyhabGs
 lipetsktime.ru##.articles-column.mt-3.px-3.px-xl-4.order-3.d-flex.right-column.flex-column.flex-md-row.flex-xl-column
 lipetsktime.ru##.container-fluid.gx-0.pt-2.mb-3.pb-3.px-3.px-lg-0
@@ -228,8 +251,10 @@ livejournal.com##div.body-content:nth-child(7) > header.s-header.s-header--notow
 livejournal.com##div.s-layout.body-content.s-logged-out:first-child > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
 livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.mainpage.mainpage--index.mainpage--adv.ng-scope:first-child > div.dugsum5qe4a7fbnpm:nth-child(2)
 m.dzen.ru###zen-row-2
+m.dzen.ru##.dzen-layout--mobile-bottom-navigation__menu-1F
 m.dzen.ru##.news-site--StoryDetails__closeWrapper-1c
 m.dzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
+m.dzen.ru##.topic-channel--card-wrapper__withOverflowHidden-1v.topic-channel--card-wrapper__themeWhite-2J.topic-channel--card-wrapper__isMobileRedesign-2v.topic-channel--card-wrapper__isMobile-1M.topic-channel--card-wrapper__cardWrapper-hp
 m.dzen.ru##.topic-channel--topic-channel-relatives-floor-redesign__isNewGaps-1c.topic-channel--topic-channel-relatives-floor-redesign__mobile-2d.topic-channel--palette__apricot-ta.topic-channel--topic-channel-relatives-floor__isNewGaps-1s.topic-channel--topic-channel-relatives-floor__mobile-2a.topic-channel--topic-channel-relatives-floor__thematicsEntryWrapperRedesign-2E
 m.eblinet.xyz##.replace-video
 m.eblinet.xyz##div.thumbs:nth-child(14)
@@ -292,7 +317,10 @@ m.vk.*##.BottomMenu__fixed
 m.vk.*##.PageBottomBanner--unauth.PageBottomBanner
 m.vk.*##.PhotoviewPage__footer:last-child > div.Replies:last-child
 m.vk.*##.PostBottomButton--non-shrinkable.PostBottomButton
+m.vk.*##.Post__row.RepliesThreadReplyField
+m.vk.*##.RepliesField_wrap
 m.vk.*##.Replies_last_shown.Replies_last
+m.vk.*##.ReplyItem__actions
 m.vk.*##.ReplyItem__likeWrap
 m.vk.*##._i.is_empty.item_share
 m.vk.*##.pv_nav_left > .pv_nav_link._thover
@@ -302,6 +330,8 @@ m.vk.*##.vkitButton__root--jY25e.OpenInAppPromoButton__button--5j1z2.vkuiInterna
 m.vk.*##.vkitCommentBase__actionsVisible--m0WVl.vkitCommentBase__actions--SiUyy
 m.vk.*##.vkitComment__likesModeAlways--2bEZ9
 m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
+m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
+m.vk.*##.vkuiRootComponent__host.vkuiButtonGroup__alignRight.vkuiButtonGroup__gapM.vkuiButtonGroup__modeHorizontal.vkuiButtonGroup__host.Header__rightActions--qYYjq > button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable:nth-of-type(1)
 m.vk.*##.vkuiRootComponent__host.vkuiGroup__paddingM.vkuiInternalGroup--mode-plain.vkuiGroup__modePlain.vkuiGroup__sizeXCompact.vkuiGroup__host.vkuiInternalGroup.vkitRecommendationBlock__blockWrapResetPadding--tH8Sb.vkitGroup__groupModePlain--teaPf.vkitGroup__groupPaddingM--YlUNt.vkitGroup__group--lbf33
 m.vk.*##.vkuiRootComponent__host.vkuiWriteBar__host
 m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
@@ -311,6 +341,7 @@ m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realC
 m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
 m.vk.*##.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__host.vkuiLink__withUnderline.vkuiLink__host.vkuiInternalTappable.vkitLink__withIconInChildren--HZ01v.vkitLink__noUnderline--d9eMK.vkitComment__reply--9dOj5.vkitLink__secondary--6B6OH.vkitLink__link--b0dQw
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
+m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(1)
 m.vk.*##button.vkuiRootComponent__host.vkuistyles__-focus-visible.vkuiClickable__realClickable.vkuiClickable__host.vkuiTappable__hasPointerFalse.vkuiTappable__sizeXCompact.vkuiTappable__host.vkuiPanelHeaderButton__notPrimitive.vkuiPanelHeaderButton__android.vkuiPanelHeaderButton__host.vkuiInternalTappable.vkitgetColorClass__colorTextAccentThemed--6nmth:nth-of-type(4)
 m.vk.*##div.vkuiRootComponent__host.vkuiDiv__host > .vkuiRootComponent__host.vkuiInternalHorizontalScroll.vkuiHorizontalScroll__host.vkitGridHorizontalScroll__root--Os7re
 m.vkvideo.ru###Video > div.vkuiPanel__in.vkuiInternalPanel__in:first-child > div:nth-child(2) > div:last-child
@@ -394,13 +425,17 @@ moe-lipetsk.ru###footer_bottom
 moe-lipetsk.ru###footer_main > .container > div.row:nth-of-type(1) > .col-md-3
 moe-lipetsk.ru###lenta-news
 moe-lipetsk.ru##.banner_adt2_contain
+moe-lipetsk.ru##.center_text > p
+moe-lipetsk.ru##.container-adm1.reklama_wr_mob.sitebar_reklama_wr
 moe-lipetsk.ru##.context-container.mt-30
 moe-lipetsk.ru##.cookie-plate
 moe-lipetsk.ru##.down_stat_wr.clearfix.mt-0.for-phone
 moe-lipetsk.ru##.flex-dop
 moe-lipetsk.ru##.material-footer-2.no_comment
+moe-lipetsk.ru##.pos_nn
 moe-lipetsk.ru##.row.gr_bg_mob
 moe-lipetsk.ru##.visible-xs.lower_panel
+moe-lipetsk.ru##div.col-footer-12
 motherlesspics.com###dle-comments-form
 motherlesspics.com###dle-content > div.col-lg-12:first-child > div.row:nth-child(3)
 motherlesspics.com##div.mb-4.mt-4.h3:nth-of-type(2)
@@ -440,6 +475,8 @@ mygaysites.com##.scrollbox.category-desc
 mygaysites.com##.url_links_wrapper_related.url_links_wrapper
 mygaysites.com##.view_category
 mygaysites.com##.with-bg.copyright-message
+myip.com##div.row:nth-of-type(3)
+myip.com##div.row:nth-of-type(6)
 mylked.com###food-lifeline
 mylked.com###slide-video
 mylked.com##div.main:nth-child(5) > footer:last-child > div.container > div.footer-middle:nth-child(2)
@@ -453,6 +490,8 @@ mylked.com##section.section-logo-slider:nth-child(5)
 mylked.com##section.section.offer-text.text-center.text-uppercase:nth-child(4)
 mylked.com##section.section.section-intro:nth-child(6)
 myqloud.org##.mb-3.py-3.px-1.text-center.col-12.buy-c2a
+news.mail.ru##.mediaPollEmbed
+news.mail.ru##.rb-pogoda
 news.mail.ru##div.js-dwh-logger-exclude
 ntv.ru##.anchor-top
 ntv.ru##.comments__anchor.anchor-comments > button
@@ -550,6 +589,7 @@ ru.savefrom.net##.main-supported-services
 ru.savefrom.net##.show-mobile-only
 ru.savefrom.net##.terms__string
 rudiplomy.ru##span.snowflake
+rustore.ru##.E7vxXMKU
 rutube.ru##div.wdp-grid-module__gridWrapper:nth-of-type(1) > .wdp-grid-module__grid
 science.mail.ru##div.js-dwh-logger-exclude
 sexfetishforum.com##[href="https://xufile.com"]
@@ -799,6 +839,7 @@ yaebymob.com###list_models_models_list
 yaebymob.com###list_videos_related_videos
 yaebymob.com##div.container:first-child > div.footer-margin:last-child
 yandex.*###search-result > div:nth-child(4) > div > div.b8KSwZTZhVEmX.b8KSwZTZkSVaO__card:first-child
+yandex.*##.ImagesTouchViewer-Card_pp67xELlA2Ht0mqwuVSUbhA:nth-child(2)
 yandex.*##.ImagesTouchViewer-ContentCard.ImagesTouchViewer-Rim.ImagesViewerRim.ImagesRelatedImages > .JustifierRowLayout div.JustifierRowLayout-Incut
 yandex.*##.ImagesTouchViewer-Item.ImagesTouchViewer-ViewerItem_active.ImagesTouchViewer-ViewerItem > div > .ImagesTouchViewer-Card_bLcEPib7M15DaTAQ7Vumllg.ImagesTouchViewer-Card.bC80VjavR8YzXSS43_skeleton.bC80VjavR8YzXSS43_bKc0LhK3B.bC80VjavR8YzXSS43
 yandex.*##.PreventionFeature_type_listRKN.PreventionFeature
@@ -808,10 +849,12 @@ yandex.*##.SearchPageGridDirect
 yandex.*##.SearchPrevention.Prevention
 yandex.*##.SerpFooter-LinksGroup_type_geo.SerpFooter-LinksGroup
 yandex.*##.Skeleton_type_ad_search_grid_inplace.Skeleton
+yandex.*##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic
 yandex.*##.cumZDcap68Fskob0-DetailsChannel.Link
 yandex.*##.cumZDcap68Fskob0-cqGZVcaZY_withStore.cumZDcap68Fskob0-cqGZVcaZY_stickyAvailable.cumZDcap68Fskob0-cqGZVcaZY_placement_cmWFDcbcB6VIyvarH.cumZDcap68Fskob0-cqGZVcaZY
 yandex.*##.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_withStore.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_stickyAvailable.h9Q2CkxKI7MhnHQk-h5w2Ukx6q_placement_h1gqCkwbz9cFxAR7X.h9Q2CkxKI7MhnHQk-h5w2Ukx6q
 yandex.*##.mDK9waJAZWw0D1a0-mHq9maJw7_withStore.mDK9waJAZWw0D1a0-mHq9maJw7_stickyAvailable.mDK9waJAZWw0D1a0-mHq9maJw7_placement_mL6hwaI1iQgQVybrB.mDK9waJAZWw0D1a0-mHq9maJw7
+yandex.*##.mini-suggest__popup-content
 yandex.*##.orpLumST4guGewlI-ovJL4mSja_withStore.orpLumST4guGewlI-ovJL4mSja_placement_ojZXumTmDmaiI3kXL.orpLumST4guGewlI-ovJL4mSja
 yandex.*##.sEMxjvbAbOVMb1dM-sAsx1vbwd_withStore.sEMxjvbAbOVMb1dM-sAsx1vbwd_stickyAvailable.sEMxjvbAbOVMb1dM-sAsx1vbwd_placement_sM8tjva1EIFoNycSJ.sEMxjvbAbOVMb1dM-sAsx1vbwd
 yandex.*##.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_withStore.ueKM4E6q7Jjaa4qg-uaqMuE6aZ_placement_uW6Q4E7fAPzaMbrb8.ueKM4E6q7Jjaa4qg-uaqMuE6aZ
