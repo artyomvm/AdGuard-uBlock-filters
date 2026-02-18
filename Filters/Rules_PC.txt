@@ -69,7 +69,6 @@ gorod48.ru##.mob-hide
 gorod48.ru##.post-comments
 gorod48.ru##.post-reaction
 gorod48.ru##.post-tags
-gorod48.ru##.sb--news
 gorod48.ru##.swiper-slide-next.mod--cat.swiper-slide > .h-scroll-item
 gorod48.ru##.w-tabs.top-tabs
 gorod48.ru##section.home--sec:nth-of-type(3)
