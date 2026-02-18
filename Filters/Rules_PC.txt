@@ -62,6 +62,7 @@ google.com##.uU7dJb
 google.com##i
 gorod48.ru##.f-bottom
 gorod48.ru##.f-socia
+gorod48.ru##.nav-desk-soclist
 gorod48.ru##.footer > .container > .swiper-horizontal.swiper-initialized.mod--cat.swiper
 gorod48.ru##.home--slider-wr
 gorod48.ru##.mob-hide
