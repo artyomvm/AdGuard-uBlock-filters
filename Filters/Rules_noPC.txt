@@ -1,62 +1,12 @@
 ! Title: Фильтры не ПК
 !
-google.com##.b2hzT.fbar
-google.com##.smiUbb.fbar
-google.com###rso > div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.AuVD > .Wt5Tfe
-lrepacks.net###pageuserscroll
-lrepacks.net##.widget_recent_entries.widget
-lrepacks.net##div.columns.large-4:nth-of-type(1)
-lrepacks.net##div.widget_upcoming_events.widget:nth-of-type(5)
-lrepacks.net##.widget_recent_posts.widget
-yandex.ru##.RelatedBottom
-yandex.ru##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic.Organic
-apkpure.net##.trending-box.module-card-container
-apkpure.net##.aegon-card
-comss.ru##div.container-fluid:nth-of-type(7)
-dzen.ru###iSCUblagDhswIsw
-yandex.*##div.obHIkc8DIbq3lV70-VideoListPageDirect.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_placement_o3HIkc8Cza6HhRg.obHIkc8DIbq3lV70-o7nIyc8zq
-yandex.*##.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_placement_o33Ukc92z56TzS6qm.obHIkc8DIbq3lV70-o7nIyc8zq
-m.vk.*##.is_empty.ReplyItem__like
-m.vk.*##.active.Replies_last_shown._thover.Replies_last
-prostitutki-today.*##div.owl-slider-carousel
-prostitutki-today.*##div.owl-slider-carousel
-m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
-m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
-vkvideo.ru##.sticky_top_force.fl_l.side_bar_video_spa
-vkvideo.ru###video_left_menu_toggle
-vkvideo.ru##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
-duckduckgo.com##.footer > div
-pornhub.org##.watchPageUpdated.mostPopularComment
-epp.genproc.gov.ru##.app-mobile-page-link
-epp.genproc.gov.ru##.wd_ziax_chat-widget
-epp.genproc.gov.ru##.footer__special
-epp.genproc.gov.ru##.link_in_row.footer__list
-esia.gosuslugi.ru##esia-banner
-yandex.*##.SerpFooter-LinksGroup_type_feedback.SerpFooter-LinksGroup > .SerpFooter-Link_view_default.SerpFooter-Link.Button
-yandex.*##.SerpFooter-LinksGroup_type_recommendations.SerpFooter-LinksGroup > .SerpFooter-Link_view_default.SerpFooter-Link.Link
-gubdaily.ru##.daily-telegram-body
-pornhub.org##div.footerContentWrapper:nth-child(18) > div.logoFooterWrapper.homePageFooter:last-child > a.rtaLink:nth-child(3)
-epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(3)
-epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(4)
-epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(5)
-epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:last-child
-google.com##.MDLhlf
-google.com###rso .AuVD
-google.com##div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.cUnQKe > .ouy7Mc > .EyBRub.Bb1JKe.Wt5Tfe.Kc1gdb.Ae8kyb
-google.com##.smiUbb.fbar
-google.com##.Wt5Tfe
-duckduckgo.com##.footer > div
-fancentro.com##.mui-style-18jhkld.MuiBox-root
-k2s.cc##.eu4h3zr0.css-8udt3u.e4whk300
-k2s.cc##.e87hxvx2.css-1alsx9z
-prostitutki-today.*##div.owl-slider-carousel:nth-of-type(2)
-2ip.ru##.main-related
-2ip.ru##h3:nth-of-type(2)
-2ip.ru##div.site-info:nth-of-type(4)
-2ip.ru##.speed_statistic__full.speed_statistic
-2ip.ru##.speed_last_results
-2ip.ru###slide-isp-review
 2ip.ru###content-articles-block
+2ip.ru###slide-isp-review
+2ip.ru##.main-related
+2ip.ru##.speed_last_results
+2ip.ru##.speed_statistic__full.speed_statistic
+2ip.ru##div.site-info:nth-of-type(4)
+2ip.ru##h3:nth-of-type(2)
 360.ru##._18qriuy0._5qclqh0
 360.ru##._1ifrl2
 360.ru##._1ifrl7
@@ -69,8 +19,13 @@ prostitutki-today.*##div.owl-slider-carousel:nth-of-type(2)
 360.ru##.m2cv794.m2cv791.m2cv792
 360.ru##.mk4z770
 360.ru##a._1ifrl3.sgsmv90
+apkpure.net##.aegon-card
+apkpure.net##.trending-box.module-card-container
 comss.ru###hyvor-comments
 comss.ru###main > div.container-fluid:last-child
+comss.ru##div.container-fluid:nth-of-type(7)
+duckduckgo.com##.footer > div
+dzen.ru###iSCUblagDhswIsw
 dzen.ru##.content--article-action-island-mobile__container-3B
 dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
 dzen.ru##.content--article-action-island-mobile__isNavigationVisible-19.content--article-action-island-mobile__withThemePinner-f2.content--article-action-island-mobile__container-3B
@@ -83,11 +38,29 @@ dzen.ru##.content--theme-pinner__withNavigation-hA.content--theme-pinner__pinner
 dzen.ru##.content--theme-pinner__withRunningLine-eu.content--theme-pinner__container-3n
 dzen.ru##.dzen-layout--mobile-bottom-navigation__menu-1F
 dzen.ru##.dzen-layout--mobile-bottom-navigation__menuContainer-3l
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:last-child
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(3)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(4)
+epp.genproc.gov.ru###layout-column_column-1 > div.portlet-boundary.portlet-static.portlet-static-end.portlet-barebone.portlet-asset-publisher > section.portlet.component-feedback-wrap > div.portlet-content > div.portlet-content-container > div.portlet-body > div.authorization-wrap:last-child > div:first-child > wrapper > div > p:nth-child(5)
+epp.genproc.gov.ru##.app-mobile-page-link
+epp.genproc.gov.ru##.footer__special
+epp.genproc.gov.ru##.link_in_row.footer__list
+epp.genproc.gov.ru##.wd_ziax_chat-widget
+esia.gosuslugi.ru##esia-banner
+fancentro.com##.mui-style-18jhkld.MuiBox-root
 gazeta.ru###_id_gazeta_main_article > .b_article > div.b_article-media > .b_article-media-video
 gazeta.ru##.b_article-media-video
 gazeta.ru##.b_footer-license
 gazeta.ru##.b_footer-navigation.row
 gazeta.ru##.m_code.b_article-incut
+google.com###rso .AuVD
+google.com###rso > div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.AuVD > .Wt5Tfe
+google.com##.MDLhlf
+google.com##.Wt5Tfe
+google.com##.b2hzT.fbar
+google.com##.smiUbb.fbar
+google.com##div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.cUnQKe > .ouy7Mc > .EyBRub.Bb1JKe.Wt5Tfe.Kc1gdb.Ae8kyb
+gubdaily.ru##.daily-telegram-body
 habr.com##.article-formatted-body_version-1.article-formatted-body [href^="https://ruvds.com/ru-rub"]
 habr.com##.tm-article-author__company
 habr.com##.tm-article-blocks__comments
@@ -97,7 +70,14 @@ habr.com##.tm-footer__social.social-icons
 habr.com##blockquote:nth-of-type(3)
 habr.com##section.tm-block_spacing-bottom.tm-block:nth-of-type(2)
 k2s.cc##.e3o18i36.css-3y46tr
+k2s.cc##.e87hxvx2.css-1alsx9z
+k2s.cc##.eu4h3zr0.css-8udt3u.e4whk300
 k2s.cc##.omniEmailWidget
+lrepacks.net###pageuserscroll
+lrepacks.net##.widget_recent_entries.widget
+lrepacks.net##.widget_recent_posts.widget
+lrepacks.net##div.columns.large-4:nth-of-type(1)
+lrepacks.net##div.widget_upcoming_events.widget:nth-of-type(5)
 m.dzen.ru###second-story-item-placeholder
 m.dzen.ru##.channel--common-new-channel-header-mobile__headerContainer-3G
 m.dzen.ru##.content--article-action-island-mobile__isNavigationHidden-lg.content--article-action-island-mobile__container-3B
@@ -121,6 +101,10 @@ m.newslipetsk.ru##.footer-bottom-block
 m.newslipetsk.ru##.footer-info-flex
 m.newslipetsk.ru##.main-news-block__in-detail.main-news-block__in
 m.newslipetsk.ru##header > div:nth-of-type(1)
+m.vk.*##.active.Replies_last_shown._thover.Replies_last
+m.vk.*##.is_empty.ReplyItem__like
+m.vk.*##.vkuiDiv__host.vkuiRootComponent__host.vkuiFlex__justifyCenter.vkuiFlex__alignCenter.vkuiFlex__host.OpenInAppPromoButton__fixedLayout--u4Ao9.vkuiInternalFixedLayout--vertical-bottom.vkuiFixedLayout__verticalBottom.vkuiFixedLayout__host
+m.vk.*##.vkuiInternalPanel__in.vkuiPanel__in > div:nth-of-type(2) > div:nth-of-type(2)
 mail.ru##.ads_overflow-disabled.ads-above-dzen.ads-above-horoscopes
 mail.ru##.horo
 mail.ru##.search_inactive
@@ -133,6 +117,8 @@ pornhub.org##.linkGroup > li:nth-of-type(3)
 pornhub.org##.linkGroup > li:nth-of-type(4)
 pornhub.org##.linkGroup > li:nth-of-type(6)
 pornhub.org##.tabWrapper
+pornhub.org##.watchPageUpdated.mostPopularComment
+pornhub.org##div.footerContentWrapper:nth-child(18) > div.logoFooterWrapper.homePageFooter:last-child > a.rtaLink:nth-child(3)
 pornhub.org##footer.js-mainFooter:nth-child(27) > a:nth-child(8)
 pornrip.cc###bitcoin-banner
 pornrip.cc###footer > div.main-text.textleft.default.grid-100.tablet-grid-100.mobile-grid-100.np-mobile:first-child > p:nth-child(2)
@@ -149,6 +135,8 @@ prostitutki-today.*##.filter_text
 prostitutki-today.*##.footer_text
 prostitutki-today.*##.more-button-box
 prostitutki-today.*##.status_2.item-wrap
+prostitutki-today.*##div.owl-slider-carousel
+prostitutki-today.*##div.owl-slider-carousel:nth-of-type(2)
 prostitutki-today.*##div.status_1.item-wrap
 prostitutki-today.*##h2.main-title
 rutube.ru##.app-download-topbar-module__topbar
@@ -156,6 +144,15 @@ sexfetishforum.com##div.windowbg
 sexfetishforum.com##div.windowbg2 > .post_wrapper > .postarea > center > [href="https://www.xufile.com"]
 sportmail.ru##.f96e65655a.b7f6791faf
 sportsdzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
+vkvideo.ru###video_left_menu_toggle
+vkvideo.ru##.sticky_top_force.fl_l.side_bar_video_spa
 vkvideo.ru##.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
+vkvideo.ru##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
 xxxdd.net###footbox
 xxxdd.net##.ilike_rating
+yandex.*##.SerpFooter-LinksGroup_type_feedback.SerpFooter-LinksGroup > .SerpFooter-Link_view_default.SerpFooter-Link.Button
+yandex.*##.SerpFooter-LinksGroup_type_recommendations.SerpFooter-LinksGroup > .SerpFooter-Link_view_default.SerpFooter-Link.Link
+yandex.*##.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_placement_o33Ukc92z56TzS6qm.obHIkc8DIbq3lV70-o7nIyc8zq
+yandex.*##div.obHIkc8DIbq3lV70-VideoListPageDirect.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_placement_o3HIkc8Cza6HhRg.obHIkc8DIbq3lV70-o7nIyc8zq
+yandex.*##.RelatedBottom
+yandex.*##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic.Organic
