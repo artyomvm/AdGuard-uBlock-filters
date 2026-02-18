@@ -1,6 +1,4 @@
 ! Title: Фильтры мобильные
-! Description: Правила фильтрации контента при пользовании мобильным устройством
-! Homepage: https://github.com/artyomvm/AdGuard-uBlock-filters/tree/main
 !
 1tw.live##.GDPRPanel-module-root
 1tw.live##.Layout-module-banner
@@ -30,9 +28,7 @@ apkpure.net##.module-card-container.hot-search-box
 apkpure.net##.module-card-container.trending-box
 apkpure.net##.scroll-box
 apkpure.net##.title-bar
-auto.mail.ru##.a2e3b3faca
-auto.mail.ru##.js-dwh-logger-exclude > div > div
-auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude
+auto.mail.ru##div.js-dwh-logger-exclude 
 bangbros.com##.bTBSxq.sc-1fep8qc-0
 bangbros.com##.dfFMJe.sc-1fep8qc-0
 bangbros.com##.flickity-resize.is-draggable.flickity-enabled
@@ -58,6 +54,7 @@ daiunique.com##h2:nth-of-type(2)
 daniosvet.ru###as-section-similar
 daniosvet.ru###as-section-similar > .uk-container
 daniosvet.ru##.uk-panel.uk-width-medium\@l.uk-margin-auto-left.uk-height-1-1
+dataspace.ru##.b-cookie-notice__container.b-container
 diplomis-o-vysshem-v-lipetske-48.ru###chat-popup
 downhomedigital.net##section.related-section.inside-article:nth-of-type(1)
 duckduckgo.com##.js-footer-feedback-btn-wrap
@@ -106,8 +103,6 @@ fboom.me##.omni-email-widget
 filejoker.net##.flex-wrap.font-weight-bold.text-big.text-primary.text-center.justify-content-center.align-items-center.d-flex.col-12
 filejoker.net##.justify-content-around.plans-wrap.row
 filejoker.net##.px-3.align-items-center.justify-content-center.payment-icons.row
-finance.mail.ru##.c2c94d0dd4
-finance.mail.ru##.js-dwh-logger-exclude > div
 finance.mail.ru##div.js-dwh-logger-exclude
 forum.intporn.com###top > div.p-body:nth-child(5) > div.p-body-inner > ul.p-breadcrumbs.p-breadcrumbs--bottom:last-child
 forum.intporn.com##.p-body-inner > div.samCodeUnit:first-child
@@ -116,11 +111,25 @@ garant.ru##.consult-banner
 garant.ru##.fl-r.anons
 garant.ru##.popup-social
 gaywire.com###root > div.sc-3hrznp-2.iwCJUI:last-child
+gazeta.ru###_id_topnews
+gazeta.ru###_id_topnews_content
+gazeta.ru##.b_topnews-wrapper
+gazeta.ru##.wrapper
 glavpahar.ru##.leftEar__b38d85
 glavpahar.ru##.mobileBannerContainer__b38d85
 glavpahar.ru##.rightEar__b38d85
+google.com###CE62Bb > div
+google.com##.B4GxFc.b0KoTc
+google.com##.JwzvB
+google.com##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
 google.com##.a1DBFd
+google.com##.aajZCb > div.ftihzf:nth-of-type(2)
+google.com##.b2hzT
 google.com##.card-section
+google.com##.smiUbb.fbar
+google.com##.vt6azd.Ww4FFb.wHYlTd.AuVD
+google.com##div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.cUnQKe > .ouy7Mc
+google.com##i
 gorod48.ru###w-node-aa61ddba-74ad-69d6-cee1-b8da659eddd1-659edd77
 gorod48.ru###w-node-aa61ddba-74ad-69d6-cee1-b8da659eddf3-659edd77
 gorod48.ru###w-node-aa61ddba-74ad-69d6-cee1-b8da659ede09-659edd77
@@ -135,24 +144,24 @@ gorod48.ru##.footer > .container > .swiper.mod--cat.swiper-initialized.swiper-ho
 gorod48.ru##.footer > .container > .swiper.mod--cat.swiper-initialized.swiper-horizontal.swiper-android
 gorod48.ru##.home--slider-wr
 gorod48.ru##.main--slider
+gorod48.ru##.mob-hide
+gorod48.ru##.nav-desk-soclist
 gorod48.ru##.post-comments
 gorod48.ru##.post-reaction
 gorod48.ru##.post-tags
+gorod48.ru##.sb--news
+gorod48.ru##.swiper-slide-next.mod--cat.swiper-slide > .h-scroll-item
 gorod48.ru##.swiper.sl--main.swiper-fade.swiper-initialized.swiper-horizontal.swiper-autoheight.swiper-android.swiper-watch-progress.swiper-backface-hidden
-gorod48.ru##.top--tabs-sec
-gorod48.ru##.top-tabs.w-tabs > .tabs-content.w-tab-content
-gorod48.ru##.top-tabs.w-tabs > .tabs-menu.w-tab-menu
+gorod48.ru##.w-tabs.top-tabs
 gorod48.ru##section.home--sec:nth-of-type(3)
 gorod48.ru##section.home--sec:nth-of-type(5)
-gorod48.ru##section.home--sec:nth-of-type(5) > .container > .home--slider-wr
 guyselector.com###root > div.sc-3hrznp-2.iwCJUI:last-child
 health.mail.ru##div.js-dwh-logger-exclude
-hi-tech.mail.ru##.a398bea66a
-hi-tech.mail.ru##.js-dwh-logger-exclude
 hi-tech.mail.ru##div.js-dwh-logger-exclude
 hornyjourney.com###mvs
 hornyjourney.com###vid-ads > ul
 hornyjourney.com##.thumbs
+hostland.ru##.scrollup
 hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.box:nth-child(8)
 hot.noodlemagazine.com##div.main:nth-child(3) > div.container > div.c_title:nth-child(7)
 incezt.net##.yarpp-related
@@ -180,8 +189,6 @@ k2sporn.net##.section__content.section__items.d-flex.jc-flex-start
 k2sporn.net##[src*="https://static.k2s.cc/images/i/00728x0090-01.gif"]
 k2sporn.net##div.section:nth-of-type(2)
 kino.mail.ru##div.js-dwh-logger-exclude
-lady.mail.ru##.a398bea66a
-lady.mail.ru##.js-dwh-logger-exclude
 lady.mail.ru##div.js-dwh-logger-exclude
 lifehackov.ru##.tg-widget.tg-visible
 lipetskmedia.ru###banneralarm_6781a72f2a8fd > a:nth-child(2) > img
@@ -330,19 +337,58 @@ m.xn--80aabp1a.org##div.video-loop:nth-of-type(8)
 m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(2)
 m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(3)
 mail.ru###closeCookieBanner
+mail.ru##.ads-top__fixed.ads-top__fixed-after-rates.ads_overflow-disabled
 mail.ru##.ads_overflow-disabled.ads-above-dzen.ads-above-horoscopes
 mail.ru##.dzen-feed
 mail.ru##.horo
 mail.ru##.search-container_mobile.search-container
 mail.ru##.section_rounded-corners.section_padding
-mail.ru##.svelte-xvln2f.ads-top__fixed.ads-top__fixed-after-rates.ads_overflow-disabled
 mail.ru##.vk-feed
 meduza.io##.GDPRPanel-module-root
 meduza.io##.Layout-module-banner
 meduza.io##.SupportPanel-module-root, .SupportPanel-module-ru
 mirporeva.com##div.items:nth-of-type(7)
 mirporeva.com##div.stitle:nth-of-type(6)
+mk-lipetsk.ru##.article-grid__in-region
+mk-lipetsk.ru##.article-grid__interesting.interesting_mob-shown
+mk-lipetsk.ru##.article-grid__news.js-federal-news-in-region.js-mob-shown
+mk-lipetsk.ru##.article-grid__partners
+mk-lipetsk.ru##.article-grid__photo-slider.media-slider > .aside-head.aside-head_slider
+mk-lipetsk.ru##.article-grid__photo-slider.media-slider > .media-slider__content-wraper > .media-slider__scroll
+mk-lipetsk.ru##.article-grid__read-more
+mk-lipetsk.ru##.article-grid__read-more > .aside-show-more > .aside-show-more__button
+mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(1) > .article-grid__avto.js-slider-with-counter
+mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(2) > .article-grid__avto.js-slider-with-counter
+mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(3) > .article-grid__avto.js-slider-with-counter
+mk-lipetsk.ru##.article-grid__right > a.weather__widget.weather-full:nth-of-type(1)
+mk-lipetsk.ru##.article-grid__video-slider.media-slider > .aside-head.aside-head_slider
+mk-lipetsk.ru##.article-grid__video-slider.media-slider > .media-slider__content-wraper > .media-slider__scroll
+mk-lipetsk.ru##.article-hide.article-grid__most-read.js-mob-shown
+mk-lipetsk.ru##.footer__copyright > .footer__text
+mk-lipetsk.ru##.footer__copyright > p:nth-of-type(2)
+mk-lipetsk.ru##.footer__copyright > p:nth-of-type(3)
+mk-lipetsk.ru##.footer__copyright > p:nth-of-type(4)
+mk-lipetsk.ru##.footer__for-advertisers.nav_for-advertisers
+mk-lipetsk.ru##.footer__for-readers.nav_for-readers
+mk-lipetsk.ru##.footer__legal-information > .footer__text
+mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(2)
+mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(3)
+mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(4)
+mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(5)
+mk-lipetsk.ru##.footer__mk.nav_mk
+mk-lipetsk.ru##.footer__navigation.nav_main > .nav__list
+mk-lipetsk.ru##.good-place__inner-under-partner-news
 mk-lipetsk.ru##.good-place__top
+mk-lipetsk.ru##.good-place__under-article-2
+mk-lipetsk.ru##.good-place__under-article-1
+mk-lipetsk.ru##.good-place__under-article-1 > div:nth-of-type(1)
+mk-lipetsk.ru##.interesting__item.interesting__item_first.last-shown-item
+mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(1)
+mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(2)
+mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(3)
+mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(4)
+mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(5)
+mk-lipetsk.ru##.subscription.subscription_article
 mmido.ru##.mobile_hide2.new_wrap_cookies
 moe-lipetsk.ru###footer_bottom
 moe-lipetsk.ru###footer_main > .container > div.row:nth-of-type(1) > .col-md-3
@@ -407,11 +453,17 @@ mylked.com##section.section-logo-slider:nth-child(5)
 mylked.com##section.section.offer-text.text-center.text-uppercase:nth-child(4)
 mylked.com##section.section.section-intro:nth-child(6)
 myqloud.org##.mb-3.py-3.px-1.text-center.col-12.buy-c2a
-news.mail.ru##.f96e65655a.b7f6791faf
-news.mail.ru##.fbb742eebb
-news.mail.ru##.js-dwh-logger-exclude
-news.mail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
 news.mail.ru##div.js-dwh-logger-exclude
+ntv.ru##.anchor-top
+ntv.ru##.comments__anchor.anchor-comments > button
+ntv.ru##.footer__copy > .b-xs.b
+ntv.ru##.footer__info
+ntv.ru##.footer__sberrr
+ntv.ru##.news__rec.recommendations
+ntv.ru##.news__stories.stories-widget
+ntv.ru##.news__subscribe-socials
+ntv.ru##.news__subscribe-socials.subscribe-socials--max2.subscribe-socials.router-ui
+ntv.ru##.swiper-watch-progress.swiper-android.swiper-horizontal.swiper-initialized.swiper.slider-ui__slider > .swiper-wrapper.slider-ui__wrapper
 ok.ru###hook_Block_AuthLoginAutoOpen > auth-login-banner.h-mod.auth-login_auth-login-banner:last-child > div.auth-login-banner__e19f0
 ok.ru##.auth-login-banner__e19f0
 pcsupport.lenovo.com###confirmit-feedback
@@ -425,28 +477,26 @@ pikabu.ru##.promo-button
 pikabu.ru##a.ny2024_shown.ny2024:nth-of-type(2)
 pikabu.ru##div.app.promo-banner-sticky:nth-child(3) > div.app__content:nth-child(3) > div.page-story.main__content:last-child > div.related-stories-feed:last-child > div.stories-feed__container:last-child
 pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(2) > div.main:last-child > main.main__inner > div.page-story > div.related-stories-feed:last-child > div.stories-feed__container:last-child
-pogoda.mail.ru##.dd2b256c60
 pogoda.mail.ru##div.js-dwh-logger-exclude
 porndude2.com##.chat-widget
 porndude2.com##.drawer-opener.drawer-opener-mobile.drawer-opener-show > .drawer-opener-inner
 porndude2.com##.drawer-opener.drawer-opener-mobile.drawer-opener-show > .drawer-opener-inner > .drawer-opener-content
 porndude2.com##.inner-footer
+porner.xxx###scrollUp
+porner.xxx##.ft_holde
+porner.xxx##.info-holder > .sponsor > .text
+porner.xxx##.related-videos
+porner.xxx##.right
+porner.xxx##.sponsor.top_player_sponsor
+porner.xxx##.tags
+porner.xxx##div.ft:nth-of-type(4)
+porner.xxx##div.ft:nth-of-type(4) > div.ft-row:nth-of-type(1)
 porngeek.com##.copyright-message
 porngeek.com##div.content-text__row:nth-of-type(1)
+pornhub.org###countryRedirectMessage
+pornhub.org##.tabWrapper
 pornlistx.com##.drawer-app__toggle.drawer-app__toggle--floating
 pornolab.net##.hide-for-print.ta-inf2.top-alert
-pornrip.cc###back-to-top
-pornrip.cc###bitcoin-banner
-pornrip.cc###footer
-pornrip.cc###sidebar
-pornrip.cc###st_undr_ban > [href*="/buy-premium-on-keep2share-with-litecoin/"] > span
-pornrip.cc##.author.grid-parent > p
-pornrip.cc##.content-wrapper.grid-70 > .section
-pornrip.cc##.hide-on-mobile.hide-on-tablet.grid-parent.tablet-grid-35.grid-30
-pornrip.cc##.next-posts
-pornrip.cc##.tags.grid-parent
-pornrip.cc##div.articles:nth-of-type(5)
-pornrip.cc##div.tag-description.textcenter:nth-of-type(4)
 pornrips.cc###content > article.short:nth-of-type(1)
 pornrips.cc###content > article.short:nth-of-type(2)
 pornrips.cc###content > article.short:nth-of-type(3)
@@ -469,16 +519,16 @@ promocodes.hi-tech.mail.ru##.landing-banners
 promocodes.hi-tech.mail.ru##.retailer-coupon--banner
 promocodes.hi-tech.mail.ru##.scroll-banner
 promocodes.hi-tech.mail.ru##.swiper-wrapper
-prostitutki-today.com###a_block_catalog > div.owl-slider-carousel:last-child
-prostitutki-today.com###scrollup
-prostitutki-today.com##.filter_text > p:nth-of-type(1)
-prostitutki-today.com##.filter_text > p:nth-of-type(2)
-prostitutki-today.com##.footer_text
-prostitutki-today.com##.more-button-box
-prostitutki-today.com##div.owl-slider-carousel:nth-of-type(2) > .catalog-box
-prostitutki-today.com##div.owl-slider-carousel:nth-of-type(4) > .catalog-box
-prostitutki-today.com##h2.main-title:nth-of-type(1)
-prostitutki-today.com##h2.main-title:nth-of-type(2)
+prostitutki-today.*###a_block_catalog > div.owl-slider-carousel:last-child
+prostitutki-today.*###scrollup
+prostitutki-today.*##.filter_text > p:nth-of-type(1)
+prostitutki-today.*##.filter_text > p:nth-of-type(2)
+prostitutki-today.*##.footer_text
+prostitutki-today.*##.more-button-box
+prostitutki-today.*##div.owl-slider-carousel:nth-of-type(2) > .catalog-box
+prostitutki-today.*##div.owl-slider-carousel:nth-of-type(4) > .catalog-box
+prostitutki-today.*##h2.main-title:nth-of-type(1)
+prostitutki-today.*##h2.main-title:nth-of-type(2)
 remonta.top##.scrolltop.js-scrolltop
 ren.tv##.MaxBanner_c3Mc0.MaxBannerOpen_8NkL8
 ren.tv##.px-24.py-24.customButtonsWrapper_pk3ZA
@@ -487,8 +537,6 @@ rg.ru##.PageArticleContent_relationBottom__jIiqg
 rg.ru##.PageArticle_media7__cdeUV
 ria.ru##.js__toggle-chat-article.widgets__open-chat
 ria.ru##.lenta-mini
-rt.pornhub.org###countryRedirectMessage
-rt.pornhub.org##.tabWrapper
 ru.kbs-connector.com##.GdImBox
 ru.kbs-connector.com##.GdImMiniBox
 ru.kbs-connector.com##.msgList.bubbleList
@@ -503,15 +551,13 @@ ru.savefrom.net##.show-mobile-only
 ru.savefrom.net##.terms__string
 rudiplomy.ru##span.snowflake
 rutube.ru##div.wdp-grid-module__gridWrapper:nth-of-type(1) > .wdp-grid-module__grid
-science.mail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
+science.mail.ru##div.js-dwh-logger-exclude
+sexfetishforum.com##[href="https://xufile.com"]
+sexfetishforum.com##div.windowbg
 sexhd.pics###free_sign_up
 sexhd.pics##.relativetop
 sexhd.pics##div.mc
 site-analyzer.ru##.popup-fade.exitblock
-sportmail.ru##.fbb742eebb
-sportmail.ru##.js-dwh-logger-exclude
-sportmail.ru##.js-dwh-logger-exclude > div
-sportmail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
 sportmail.ru##.rb-lenta__lenta.lenta-lenta-root
 sportmail.ru##.rb-pulse__lenta, .pulse-lenta-root
 sportmail.ru##div.js-dwh-logger-exclude
@@ -549,6 +595,7 @@ t.me###widget_actions_wrap
 t.me##.stuck.tgme_page_widget_actions_wrap
 t.me##.tgme_head_right_btn
 t.me##.tgme_page_widget_actions_wrap
+tafile.com###Prem_days
 telemetr.me###__replain_widget_iframe
 telemetr.me##.img-fluid.advise-block__bg
 telemetr.me##.partners-mp-section > .mp-section-separate__heading
@@ -591,8 +638,15 @@ theporndude.com##p:nth-of-type(5)
 theporndude.com##p:nth-of-type(6)
 theporndude.com##p:nth-of-type(7)
 theporndude.com##p:nth-of-type(8)
-transfiles.ru###footer_4 > .container > div
+thepornlist.net##.categorylink
+thepornlist.net##.hd2 > span
+thepornlist.net##center
+thepornlist.net##div.categoryicons
+thepornlist.net##p > [href="https://thepornlist.net/ru/"]
 transfiles.ru##.donate_btn
+translatorscafe.com##.uc-article
+translatorscafe.com##.uc-article-teaser
+translatorscafe.com##.uc-right-column
 tv.mail.ru##div.js-dwh-logger-exclude
 ukraina.ru##.lenta-mini
 unian.net##.read-also-slider
@@ -603,7 +657,6 @@ useful-faq.livejournal.com##.threeposts, .threeposts--count-3, .threeposts--size
 useful-faq.livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.aentry.aentry--post2017 > div.aentry-item.js--first-post-item:first-child > div.aentry-comments:nth-child(6)
 useful-faq.livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.aentry.aentry--post2017 > div.aentry-item.js--first-post-item:first-child > div.more-entries-wrapper:nth-child(4)
 useful-faq.livejournal.com##div.s-layout.body-content.s-logged-out:nth-child(3) > div.s-body:last-child > div.aentry.aentry--post2017 > div.aentry__loader.js-initial-observer-target:nth-child(3)
-vfokuse.mail.ru##.js-dwh-logger-exclude > div:nth-of-type(1)
 vfokuse.mail.ru##div.js-dwh-logger-exclude
 vk.*###content > div.VideoLayout > div.VideoLayout__aside.VideoLayout__aside--collapsed:first-child
 vk.*###content > div.VideoLayout > div.VideoLayout__aside:first-child
@@ -632,8 +685,6 @@ vk.*##.FCPanel__widthToggleIcon
 vk.*##.HeaderNav__item--acts.HeaderNav__item
 vk.*##.StoryFeedBlockWrapper.stories_feed_wrap
 vk.*##.WideSeparator--legalRecommendationsLink.WideSeparator
-vk.*##._emoji_field_wrap
-vk.*##._like.like.like_btn
 vk.*##._post_wrap.wall_module.pv_reply_form
 vk.*##.empty._like.like.like_btn
 vk.*##.fl_l.side_bar_video_spa_collapsed
@@ -683,111 +734,26 @@ wdfiles.ru##.homepage-section.homepage-section-4.visible.fadeInUp.animated
 wdfiles.ru##.scrollup
 webgraal.ru###block-11
 webgraal.ru###block-3
-www.dataspace.ru##.b-cookie-notice__container.b-container
-www.gazeta.ru###_id_topnews
-www.gazeta.ru###_id_topnews_content
-www.gazeta.ru##.b_topnews-wrapper
-www.gazeta.ru##.wrapper
-www.google.com###CE62Bb > div
-www.google.com##.B4GxFc.b0KoTc
-www.google.com##.JwzvB
-www.google.com##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
-www.google.com##.aajZCb > div.ftihzf:nth-of-type(2)
-www.google.com##.b2hzT
-www.google.com##.smiUbb.fbar
-www.google.com##.vt6azd.Ww4FFb.wHYlTd.AuVD
-www.google.com##div.MjjYud > .vt6azd.Ww4FFb.wHYlTd.cUnQKe > .ouy7Mc
-www.google.com##i
-www.hostland.ru##.scrollup
-www.mk-lipetsk.ru##.article-grid__in-region
-www.mk-lipetsk.ru##.article-grid__interesting.interesting_mob-shown
-www.mk-lipetsk.ru##.article-grid__news.js-federal-news-in-region.js-mob-shown
-www.mk-lipetsk.ru##.article-grid__partners
-www.mk-lipetsk.ru##.article-grid__photo-slider.media-slider > .aside-head.aside-head_slider
-www.mk-lipetsk.ru##.article-grid__photo-slider.media-slider > .media-slider__content-wraper > .media-slider__scroll
-www.mk-lipetsk.ru##.article-grid__read-more
-www.mk-lipetsk.ru##.article-grid__read-more > .aside-show-more > .aside-show-more__button
-www.mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(1) > .article-grid__avto.js-slider-with-counter
-www.mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(2) > .article-grid__avto.js-slider-with-counter
-www.mk-lipetsk.ru##.article-grid__right-group.article-grid__right-group_bottom > div.article-hide:nth-of-type(3) > .article-grid__avto.js-slider-with-counter
-www.mk-lipetsk.ru##.article-grid__right > a.weather__widget.weather-full:nth-of-type(1)
-www.mk-lipetsk.ru##.article-grid__video-slider.media-slider > .aside-head.aside-head_slider
-www.mk-lipetsk.ru##.article-grid__video-slider.media-slider > .media-slider__content-wraper > .media-slider__scroll
-www.mk-lipetsk.ru##.article-hide.article-grid__most-read.js-mob-shown
-www.mk-lipetsk.ru##.footer__copyright > .footer__text
-www.mk-lipetsk.ru##.footer__copyright > p:nth-of-type(2)
-www.mk-lipetsk.ru##.footer__copyright > p:nth-of-type(3)
-www.mk-lipetsk.ru##.footer__copyright > p:nth-of-type(4)
-www.mk-lipetsk.ru##.footer__for-advertisers.nav_for-advertisers
-www.mk-lipetsk.ru##.footer__for-readers.nav_for-readers
-www.mk-lipetsk.ru##.footer__legal-information > .footer__text
-www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(2)
-www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(3)
-www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(4)
-www.mk-lipetsk.ru##.footer__legal-information > p:nth-of-type(5)
-www.mk-lipetsk.ru##.footer__mk.nav_mk
-www.mk-lipetsk.ru##.footer__navigation.nav_main > .nav__list
-www.mk-lipetsk.ru##.good-place__inner-under-partner-news
-www.mk-lipetsk.ru##.good-place__under-article-2
-www.mk-lipetsk.ru##.good-place__under-article-1
-www.mk-lipetsk.ru##.good-place__under-article-1 > div:nth-of-type(1)
-www.mk-lipetsk.ru##.interesting__item.interesting__item_first.last-shown-item
-www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(1)
-www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(2)
-www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(3)
-www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(4)
-www.mk-lipetsk.ru##.nav__list.article-hide > li.nav__item:nth-of-type(5)
-www.mk-lipetsk.ru##.subscription.subscription_article
-www.ntv.ru##.anchor-top
-www.ntv.ru##.comments__anchor.anchor-comments > button
-www.ntv.ru##.footer__copy > .b-xs.b
-www.ntv.ru##.footer__info
-www.ntv.ru##.footer__sberrr
-www.ntv.ru##.news__rec.recommendations
-www.ntv.ru##.news__stories.stories-widget
-www.ntv.ru##.news__subscribe-socials
-www.ntv.ru##.news__subscribe-socials.subscribe-socials--max2.subscribe-socials.router-ui
-www.ntv.ru##.swiper-watch-progress.swiper-android.swiper-horizontal.swiper-initialized.swiper.slider-ui__slider > .swiper-wrapper.slider-ui__wrapper
-www.porner.xxx###scrollUp
-www.porner.xxx##.ft_holde
-www.porner.xxx##.info-holder > .sponsor > .text
-www.porner.xxx##.related-videos
-www.porner.xxx##.right
-www.porner.xxx##.sponsor.top_player_sponsor
-www.porner.xxx##.tags
-www.porner.xxx##div.ft:nth-of-type(4)
-www.porner.xxx##div.ft:nth-of-type(4) > div.ft-row:nth-of-type(1)
-www.sexfetishforum.com##[href="https://www.xufile.com"]
-www.sexfetishforum.com##div.windowbg
-www.tafile.com###Prem_days
-www.thepornlist.net##.categorylink
-www.thepornlist.net##.hd2 > span
-www.thepornlist.net##center
-www.thepornlist.net##div.categoryicons
-www.thepornlist.net##p > [href="https://www.thepornlist.net/ru/"]
-www.translatorscafe.com##.uc-article
-www.translatorscafe.com##.uc-article-teaser
-www.translatorscafe.com##.uc-right-column
-www.wildberries.ru###smartBanner
-www.wildberries.ru##._swiperContainer_1va9n_227.custom-slider--goods.swiperContainer--kgj74.isLockedSwiper--WVoGj.custom-slider.custom-slider--beginning
-www.wildberries.ru##.banner--yN9XS
-www.wildberries.ru##.banners--3.j-content-item.j-banners-block.j-slider-banners.slider-main.main-page__banners
-www.wildberries.ru##.cards-list
-www.wildberries.ru##.footer-social__list
-www.wildberries.ru##.footer__list.hide-desktop
-www.wildberries.ru##.goods-slider__header-wrap
-www.wildberries.ru##.j-online-chat.j-btn-chat-open
-www.wildberries.ru##.j-recent-items
-www.wildberries.ru##.mainRecBlock--ACZvd
-www.wildberries.ru##.pageBottom--s6YXs
-www.wildberries.ru##div.basket-page__recommend--custom.basket-page__recommend:nth-of-type(2)
-www.wildberries.ru##div.basket-page__recommend--custom.basket-page__recommend:nth-of-type(3)
-www.wildberries.ru##div.basket-page__recommend.basket-page__recommend--custom:nth-of-type(2)
-www.wildberries.ru##div.basket-page__recommend.basket-page__recommend--custom:nth-of-type(3)
-www.xtits.com###list_videos_related_videos
+wildberries.ru###smartBanner
+wildberries.ru##._swiperContainer_1va9n_227.custom-slider--goods.swiperContainer--kgj74.isLockedSwiper--WVoGj.custom-slider.custom-slider--beginning
+wildberries.ru##.banner--yN9XS
+wildberries.ru##.banners--3.j-content-item.j-banners-block.j-slider-banners.slider-main.main-page__banners
+wildberries.ru##.cards-list
+wildberries.ru##.footer-social__list
+wildberries.ru##.footer__list.hide-desktop
+wildberries.ru##.goods-slider__header-wrap
+wildberries.ru##.j-online-chat.j-btn-chat-open
+wildberries.ru##.j-recent-items
+wildberries.ru##.mainRecBlock--ACZvd
+wildberries.ru##.pageBottom--s6YXs
+wildberries.ru##div.basket-page__recommend--custom.basket-page__recommend:nth-of-type(2)
+wildberries.ru##div.basket-page__recommend--custom.basket-page__recommend:nth-of-type(3)
+wildberries.ru##div.basket-page__recommend.basket-page__recommend--custom:nth-of-type(2)
+wildberries.ru##div.basket-page__recommend.basket-page__recommend--custom:nth-of-type(3)
 xnxx-ru.com###ad-footer
 xnxx.lgbt###_popup
 xnxx.lgbt###chat-widget-host
+xtits.com###list_videos_related_videos
 xx.huyalkino.com###gotop
 xx.huyalkino.com##.bongo
 xx.huyalkino.com##.rels-t
