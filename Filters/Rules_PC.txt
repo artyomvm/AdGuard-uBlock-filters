@@ -1,10 +1,18 @@
 ! Title: Фильтры ПК
 !
+2ip.ru###content-articles-block
+2ip.ru###slide-isp-review
+2ip.ru##.likely_ready.likely_visible.likely-small.likely
+2ip.ru##.related-list
+2ip.ru##.speed_last_results
+2ip.ru##.speed_statistic
 auto.mail.ru##.js-dwh-logger-exclude > div > div
 auto.mail.ru##div:nth-of-type(2) > .js-dwh-logger-exclude > div
 blog.promopult.ru##div.text-insertion
 cdn.youtubeunblocked.live###feedbackTab
 chromium.org###cookieBar
+cloud.mail.ru##.TrialPromo__root--yTwv6
+cloud.mail.ru##.ph-project-widgets.ph-project
 comss.ru###hyvor-comments
 comss.ru##div.container-fluid:nth-of-type(4)
 comss.ru##div.container-fluid:nth-of-type(7)
@@ -18,7 +26,16 @@ dzen.ru##div.content--d2d-block__cardsSection-3B
 dzen.ru##div.news-site--topic-channel-relatives-floor-redesign__borderWrapper-2T
 dzen.ru##div.news-site--web2app-advert-qr-banner__container-eW
 dzen.ru##span.content--d2d-block__title-kK
+e.mail.ru##.ph-project-widgets.ph-project.ph-mw-button
+e.mail.ru##.thread__kaspersky
 finance.mail.ru##.js-dwh-logger-exclude
+freeconvert.com###ZohodeskWidgetPlaceholder
+freeconvert.com##.content-card
+freeconvert.com##.home-conversion-guide__wrapper.home-conversion-guide
+freeconvert.com##.layout__section--elevated.user-feedback__wrapper
+freeconvert.com##div.col-md-12:nth-of-type(2)
+freeconvert.com##div.container--theme.container:nth-of-type(2) > .row
+freeconvert.com##div.container--theme.container:nth-of-type(2) > .row > div.col-md-12:nth-of-type(1)
 google.*#@$#.gLFyf { font-size: 16px !important; line-height: 22px !important; padding-top: 14px !important; margin: 0 !important; border: none !important; }
 google.com###bres
 google.com##.b2hzT.fbar
@@ -33,9 +50,9 @@ gorod48.ru##.mob-hide
 gorod48.ru##.post-comments
 gorod48.ru##.post-reaction
 gorod48.ru##.post-tags
-! gorod48.ru##.sb--left
+gorod48.ru##.sb--news
 gorod48.ru##.swiper-slide-next.mod--cat.swiper-slide > .h-scroll-item
-! gorod48.ru##.top--tabs-sec
+gorod48.ru##.w-tabs.top-tabs
 gorod48.ru##section.home--sec:nth-of-type(3)
 gorod48.ru##section.home--sec:nth-of-type(5)
 habr.com##.article-formatted-body_version-1.article-formatted-body > div > [href^="https://selectel.ru/services/cloud/servers/"]
@@ -94,6 +111,10 @@ pornrip.cc###sidebar
 pornrip.cc###single > div.content-wrapper.grid-70:last-child > article.main-article.post.tag-cocktails.tag-beers:first-child > header:nth-child(8) > div.meta:first-child > div.tags.grid-parent:nth-child(7)
 pornrip.cc###single > div.content-wrapper.grid-70:last-child > section.next-posts:nth-child(3)
 pornrip.cc###st_undr_ban
+rsload.net###dle-content > div.ignore-select.side-box
+rsload.net##div.short:nth-of-type(17)
+rsload.net##div.side-box:nth-of-type(2)
+rsload.net##div.side-box:nth-of-type(3)
 ru.wikipedia.org##.wp25-banner
 rutube.ru##.safe-mode-video-banner-module__desktop.safe-mode-video-banner-module__banner
 rutube.ru##.video-page-layout-module__right
@@ -116,6 +137,11 @@ tv.mail.ru##.p-footer.wrapper
 tv.mail.ru##.p-print-hidden.rb_11495.js-module.js-track_visibility.block_separated_top.padding_vertical_30.wrap-control.block_online.block
 vfokuse.mail.ru##.js-dwh-logger-exclude
 vfokuse.mail.ru##.js-dwh-logger-exclude > div
+videocompressor.io##.testimonials-section
+videocompressor.io##div.video-compression-section:nth-of-type(3)
+videocompressor.io##section.info-section:nth-of-type(1)
+videocompressor.io##section.info-section:nth-of-type(2)
+videocompressor.io##section.video-compression-section
 vk.*###layout_sidebar
 vk.*##.share_link_wrap.reply_link_wrap > .share_link
 vk.*##.vkitFooterBanner__bannerAppearanceAzure--PswWv.vkitFooterBanner__bannerAnimated--rzpRh.vkitFooterBanner__banner--JBGVC
