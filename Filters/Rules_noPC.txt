@@ -1,5 +1,6 @@
 ! Title: Фильтры не ПК
 !
+pornhub.org##.homePageFooter.vkImageAdded.socialIconsWrapper
 liteapks.com###primary > section.py-4 > div.row.mb-4
 liteapks.com###colophon > div.container:first-child
 liteapks.com###primary > section.related-posts:nth-child(4)
