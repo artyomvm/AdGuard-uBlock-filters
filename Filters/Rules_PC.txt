@@ -1,5 +1,7 @@
 ! Title: Фильтры ПК
 !
+pikabu.ru##div.sidebar-block_border.sidebar-block:nth-of-type(1)
+vk.*##.VideoLayerInfo__recommended
 garant.ru##.show.popup-social.border-primary-subtle.bg-primary-subtle.toast
 garant.ru##.show.bg-light-subtle.toast
 pikabu.ru##.stories-feed__container > article.story
