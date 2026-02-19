@@ -1,5 +1,16 @@
 ! Title: Фильтры ПК
 !
+garant.ru##.show.popup-social.border-primary-subtle.bg-primary-subtle.toast
+garant.ru##.show.bg-light-subtle.toast
+pikabu.ru##.stories-feed__container > article.story
+pikabu.ru##.sidebar-block_no-padding.sidebar-block_border.sidebar-block
+pikabu.ru##.sidebar-public-ratings.sidebar-block_border.sidebar-block
+transfiles.ru###footer_4 > .container > div
+transfiles.ru##.donate_btn_cont
+transfiles.ru##li > [href="/donate"]
+transfiles.ru###share_vk
+transfiles.ru###share_ok
+transfiles.ru###share_tm
 2ip.ru###content-articles-block
 2ip.ru###slide-isp-review
 2ip.ru##.likely_ready.likely_visible.likely-small.likely
