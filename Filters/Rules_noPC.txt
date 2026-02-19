@@ -1,5 +1,19 @@
 ! Title: Фильтры не ПК
 !
+liteapks.com###primary > section.py-4 > div.row.mb-4
+liteapks.com###colophon > div.container:first-child
+liteapks.com###primary > section.related-posts:nth-child(4)
+liteapks.com###secondary
+liteapks.com###primary > section.related-posts:nth-child(5)
+intim.prostitytky-mos.com##div.line1:nth-of-type(3)
+intim.prostitytky-mos.com##.map.text-section-wrapper
+intim.prostitytky-mos.com##.line2 > ul
+intim.prostitytky-mos.com##.no-mob-3.map.col-1-1.col
+intim.prostitytky-mos.com##.bottom-cards
+intim.prostitytky-mos.com##.no-mob-3.map.col-3-5.col
+intim.prostitytky-mos.com##.extra-menu-wrapper
+liteapks.com##.mx-auto.mb-3.px-md-3.px-2.pt-3.shadow-sm.rounded.border.bg-white
+intim.prostitytky-mos.com##.phone.button
 2ip.ru###content-articles-block
 2ip.ru###slide-isp-review
 2ip.ru##.main-related
