@@ -1,5 +1,6 @@
 ! Title: Фильтры ПК
 !
+sourceforge.net###mdb-sticky
 pikabu.ru##div.sidebar-block_border.sidebar-block:nth-of-type(1)
 vk.*##.VideoLayerInfo__recommended
 garant.ru##.show.popup-social.border-primary-subtle.bg-primary-subtle.toast
