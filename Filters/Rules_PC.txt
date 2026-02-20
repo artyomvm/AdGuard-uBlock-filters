@@ -1,5 +1,6 @@
 ! Title: Фильтры ПК
 !
+mail.ru##.ph-project-widgets.ph-project
 yandex.*##.SerpFooter-LinksGroup_type_feedback.SerpFooter-LinksGroup
 epp.genproc.gov.ru##.footer__special
 epp.genproc.gov.ru##a.footer__link:nth-of-type(4)
