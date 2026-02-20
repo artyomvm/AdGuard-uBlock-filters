@@ -1,5 +1,8 @@
 ! Title: Фильтры не ПК
 !
+yandex.*##.services-kbOdI0g.services-kbOdI0g
+habr.com##.narrow.element-wrapper
+yandex.*##.SearchThemesSection_justify_center.SearchThemesSection
 m.vk.*##.Replies_last_shown.Replies_last
 club.dns-shop.ru##.post-page__popular-widget.most-popular-widget
 club.dns-shop.ru##.read-more-widget > div
