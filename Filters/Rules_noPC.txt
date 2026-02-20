@@ -1,5 +1,31 @@
 ! Title: Фильтры не ПК
 !
+google.com##.b2hzT
+google.com##.JwzvB
+google.com##.aajZCb > div.ftihzf:nth-of-type(2)
+google.com##.Pqkn2e.vt6azd.Ww4FFb.ClPXac
+||files.sudrf.ru/1195/user/Poluchenie_sudebnih_aktov_i_uvedomleniy.jpg$image
+||files.sudrf.ru/1195/user/1681042263_papik-pro-p-nakleika-invalid-7.jpg$image
+||files.sudrf.ru/1195/user/Primiritelnie_protseduri.jpg$image
+||files.sudrf.ru/1195/user/VK_sayt.png$image
+sudrf.ru##.pobeda80
+sudrf.ru##.col_right.col
+sudrf.ru##.assist-toggle.voit
+sudrf.ru##.gossluzhba
+sudrf.ru###divAdmMessContainer0
+sudrf.ru##.assist-toggle.voit
+sudrf.ru##.spice_adopt.spice_assist.spice.m-all_m.row > div.m-right_m.m-ver_m > div
+sudrf.ru##.gossluzhba
+yandex.*##.SearchThemesSection_justify_center.SearchThemesSection
+sudrf.ru##.blockall
+fpa.ru##.calculator-navbar--show.calculator-navbar
+fpa.ru##pf-widget
+fpa.ru##.coockie-header
+fpa.ru##.phone-call--show.link--telephone--cnt.phone-call.link--phone.link
+fpa.ru##.reviews-aside
+fpa.ru##section.related:nth-of-type(1)
+fpa.ru##section.related:nth-of-type(2)
+fpa.ru##.contact-form--mt-phones.contact-form
 pornhub.org##.homePageFooter.vkImageAdded.socialIconsWrapper
 liteapks.com###primary > section.py-4 > div.row.mb-4
 liteapks.com###colophon > div.container:first-child
