@@ -1,5 +1,8 @@
 ! Title: Фильтры не ПК
 !
+m.vk.*##.Replies_last_shown.Replies_last
+club.dns-shop.ru##.post-page__popular-widget.most-popular-widget
+club.dns-shop.ru##.read-more-widget > div
 google.com##.b2hzT
 google.com##.JwzvB
 google.com##.aajZCb > div.ftihzf:nth-of-type(2)
