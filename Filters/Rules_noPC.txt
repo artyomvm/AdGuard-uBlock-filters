@@ -46,7 +46,7 @@ prostitytky-mos.com##.bottom-cards
 prostitytky-mos.com##.no-mob-3.map.col-3-5.col
 prostitytky-mos.com##.extra-menu-wrapper
 liteapks.com##.mx-auto.mb-3.px-md-3.px-2.pt-3.shadow-sm.rounded.border.bg-white
-intim.prostitytky-mos.com##.phone.button
+prostitytky-mos.com##.phone.button
 2ip.ru###content-articles-block
 2ip.ru###slide-isp-review
 2ip.ru##.main-related
