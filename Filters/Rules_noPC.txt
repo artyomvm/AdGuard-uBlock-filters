@@ -1,5 +1,21 @@
 ! Title: Фильтры не ПК
 !
+m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(2)
+m.xn--80aabp1a.org##.video-comments
+m.xn--80aabp1a.org##.video-sidebar.col-md-3.col-12
+m.xn--80aabp1a.org##.menu-footer-menu-container
+m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(3)
+m.xn--80aabp1a.org##div.video-loop:nth-of-type(8)
+m.xn--80aabp1a.org##.popular > .video-loop > .no-gutters.row
+m.xn--80aabp1a.org##.popular > .watchnow
+m.xn--80aabp1a.org##.container > .watchnow
+m.xn--80aabp1a.org##.refresh-btn.reloadbtn
+m.xn--80aabp1a.org##.hero-text
+9xbuddy.com##.left-0.translate-y-0.delay-100.transition-transform.dark\:text-gray-200.text-gray-600.m-4.dark\:border-night-300.border.rounded.shadow.dark\:bg-night-400.bg-white.bottom-0.fixed.block
+9xbuddy.com##.leading-6.text-sm.dark\:text-gray-200.text-gray-500.py-3.px-4
+9xbuddy.com##.py-6.sm\:my-5.my-2.mx-auto.max-w-5xl.container
+mygaysites.com##.scroll-to-next
+||s7.dpic.me/02090/nrptbxkvpxhu_o/lois.gif$image
 yandex.*##.services-kbOdI0g.services-kbOdI0g
 habr.com##.narrow.element-wrapper
 yandex.*##.SearchThemesSection_justify_center.SearchThemesSection
