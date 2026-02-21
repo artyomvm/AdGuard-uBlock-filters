@@ -1,5 +1,6 @@
 ! Title: Фильтры не ПК
 !
+chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex.data-has-range-start\:select-auto.active\:select-auto.select-none
 m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(2)
 m.xn--80aabp1a.org##.video-comments
 m.xn--80aabp1a.org##.video-sidebar.col-md-3.col-12
