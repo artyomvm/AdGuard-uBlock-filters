@@ -1,5 +1,6 @@
 ! Title: Фильтры ПК
 !
+pornhub.org##.loggedOut.updatedStyledBtn.js-show-subscribe-btn.js_videoSubscribeButton.videoSubscribeButton.subscribeButton
 mail.ru##.ph-project-widgets.ph-project
 yandex.*##.SerpFooter-LinksGroup_type_feedback.SerpFooter-LinksGroup
 epp.genproc.gov.ru##.footer__special
