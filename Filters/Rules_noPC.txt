@@ -1,5 +1,27 @@
 ! Title: Фильтры не ПК
 !
+xxxshake.com###list_videos_custom_related_sphinx_tab
+eporner.com###relateddiv
+eporner.com###commentdiv
+||static-eu-cdn.eporner.com/new/rta.gif$image
+eporner.com##.vjs-docker
+xxxshake.com##.pull-right.btn-red.btn
+xxxshake.com##.rta-label
+xxxshake.com##.nav
+xxxshake.com##.block-comments
+xxxshake.com##.block-details
+xxxshake.com##.flexible-container.content > .box
+hip.porn##section.container:nth-of-type(2)
+hip.porn##.pre_text
+hip.porn##.video-models
+coedcherry.com##.sponsor-wrapper
+coedcherry.com###related-container
+coedcherry.com##.related-title
+k2sporn.net##.wrap.k2s-preview
+||static.k2s.cc/images/i/00728x0090-01.gif$image
+k2sporn.net##.jc-flex-start.d-flex.section__items.section__content
+k2sporn.net##div.section:nth-of-type(2)
+k2sporn.net###scrolltop
 chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex.data-has-range-start\:select-auto.active\:select-auto.select-none
 m.xn--80aabp1a.org##div.video-wrapper:nth-of-type(2)
 m.xn--80aabp1a.org##.video-comments
