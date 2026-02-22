@@ -1,5 +1,20 @@
 ! Title: Фильтры ПК
 !
+indianpornvideos.cc###premiumRow
+||allwebmodels.com/awm_online_widget.php$subdocument
+indianpornvideos.cc##[src="https://allwebmodels.com/awm_online_widget.php?iframe=1&limit=24"]
+indianpornvideos.cc##.desktop-frame
+bing.com##.acf-button-standard__btn
+e.mail.ru##.ph-project-widgets.ph-project.ph-mw-button
+vk.*###page_header > li:nth-of-type(3)
+vk.*###page_header > li:nth-of-type(6)
+vk.*##.FCPanel
+vk.*##.fixed.reply_box_inner_wrap
+vk.*##.empty._like.like.like_btn
+vk.*##.post_actions_wrap.fl_r
+vk.*##div.reply_link_wrap:nth-of-type(3)
+vk.*##._submit_post_box.clear_fix.reply_box.submit_post_box
+vk.*##.reply_box_wrap
 otvet.mail.ru##._Floating_desktop_1aquq_25._Wrapper_2k5g9_1
 pornhub.org##.loggedOut.updatedStyledBtn.js-show-subscribe-btn.js_videoSubscribeButton.videoSubscribeButton.subscribeButton
 mail.ru##.ph-project-widgets.ph-project
