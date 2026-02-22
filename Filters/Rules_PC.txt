@@ -1,5 +1,12 @@
 ! Title: Фильтры ПК
 !
+club.dns-shop.ru##.on-air__container
+club.dns-shop.ru##.read-more-widget
+club.dns-shop.ru##.post-page__popular-widget.most-popular-widget
+club.dns-shop.ru##.site-banner-list
+use.selezen.club##.cc-payment-form
+||use.selezen.club/templates/slz41/images/25k5.webp$image
+use.selezen.club##div.d-flex.col:nth-of-type(4)
 vk.*##.pv_bottom_actions
 vk.*##.PostButtonReactionsContainer.PostBottomActionContainer
 vk.*##.empty._share.share.PostBottomAction--transparent.PostBottomAction
