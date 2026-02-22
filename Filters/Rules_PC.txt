@@ -1,5 +1,24 @@
 ! Title: Фильтры ПК
 !
+vk.*##.pv_bottom_actions
+vk.*##.PostButtonReactionsContainer.PostBottomActionContainer
+vk.*##.empty._share.share.PostBottomAction--transparent.PostBottomAction
+vk.*##.empty._share.share.like_btn
+wildberries.ru##.mainRecBlock--ACZvd
+wildberries.ru##.pageBottom--s6YXs
+sudrf.ru##.col_right.col
+sudrf.ru##.assist-toggle.voit
+||sudrf.ru/themes/mobile/img/gossluzhba-text.png$image
+sudrf.ru##.gossluzhba
+vk.*##.SaveToDocsButton.FlatButton--size-m.FlatButton--secondary.FlatButton
+yandex.*##.Skeleton_type_ad_search_grid_inplace.Skeleton
+yandex.*##.SearchPageGridDirect
+yandex.*##.SerpFooter-LinksGroup_type_help.SerpFooter-LinksGroup
+yandex.*##div.wZtJTveVKdypE03c-VideoListPageDirect.wZtJTveVKdypE03c-wdNJFvelo_withStore.wZtJTveVKdypE03c-wdNJFvelo_placement_wRtJTveUxciZAwg.wZtJTveVKdypE03c-wdNJFvelo
+yandex.*##.wZtJTveVKdypE03c-DirectSkeleton.wZtJTveVKdypE03c-wZdVTvfhMci5K03fpQu16cQjJVe0NoV25tQ
+pornhub.org###footer
+pornhub.org###RTAImage
+pornhub.org##.original.show-more-btn.gtm-event-video-underplayer
 indianpornvideos.cc###premiumRow
 ||allwebmodels.com/awm_online_widget.php$subdocument
 indianpornvideos.cc##[src="https://allwebmodels.com/awm_online_widget.php?iframe=1&limit=24"]
