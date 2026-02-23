@@ -1,5 +1,32 @@
 ! Title: Фильтры не ПК
 !
+dzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
+wildberries.ru###smartBanner
+ru.msi.com###projectBtn
+ru.msi.com###feedbackBtn
+ixbt.com##.space-y-3 > .relative.w-full
+ixbt.com###newsBlock
+ixbt.com##.w-full.structured-infinite-scroll-mount
+ixbt.com##.sm\:flex-row.gap-8.flex-col.flex
+ixbt.com##.sm\:flex-row.pr-1\.5.py-1\.5.self-center.gap-5.justify-between.flex-col.w-full.flex.mt-5.mb-12
+ixbt.com##div.mt-6:nth-of-type(4)
+notebookcheck-ru.com##.first_incontent.nbc-r-float-inline.nbc-r-float
+notebookcheck-ru.com###nbc_bb
+notebookcheck-ru.com##.tx-nbc2fe-relatedarticles > .introa_whole
+notebookcheck-ru.com##.news_pn_surr
+dzen.ru##.tJKw4ucCIL883dia_aDvpWc0M1LFd__wideContent-2l.tJKw4ucCIL883dia_aDvpWc0M1LFd__tM6wmj8SINYdoVDul5TnsUoUX-3S
+dgl.ru##.visible.up
+dgl.ru##.compact-wrap
+dgl.ru##.footer-top
+dgl.ru##.holder.slider-container
+dgl.ru##blockquote
+minisforum.com##[src="https://cdn.shopify.com/s/files/1/0900/3319/3266/files/20250106-172146_1.png?v=1736416346"]
+dzen.ru##.news-site--fixed-drawer__content-3y
+ozon.ru##div.c1.c.container > div > div > div > div > div > div > .ni2_24
+ozon.ru###customBlock > div:nth-of-type(2) > div
+ozon.ru##div:nth-of-type(9) > div > .uw_an8
+ozon.ru##div.c1.c.container:nth-of-type(10) > div > div > div:nth-of-type(9)
+ozon.ru##div.c1.c.container > div > div > div.pdp_a3u.pdp_au2.pdp_a6u.pdp_ua > .uw_an8
 google.com##.ssOUyb.KxwPGc
 xxxshake.com###list_videos_custom_related_sphinx_tab
 eporner.com###relateddiv
