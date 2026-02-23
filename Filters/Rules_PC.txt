@@ -1,5 +1,12 @@
 ! Title: Фильтры ПК
 !
+||e.mail.ru/feedback/nps$subdocument
+epp.genproc.gov.ru##.header__social-block.portlet-barebone.portlet-static-end.portlet-static.portlet-boundary
+vk.*###video_recommendations
+vk.*###side_bar
+vk.*###video_left_menu_toggle
+vk.*##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
+vk.*###react_rootVideo_page > div.vkui__root > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
 club.dns-shop.ru##.on-air__container
 club.dns-shop.ru##.read-more-widget
 club.dns-shop.ru##.post-page__popular-widget.most-popular-widget
