@@ -1,6 +1,7 @@
 ! Title: Фильтры не ПК
 !
 dzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
+dzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
 wildberries.ru###smartBanner
 ru.msi.com###projectBtn
 ru.msi.com###feedbackBtn
