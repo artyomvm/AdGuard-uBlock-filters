@@ -1,5 +1,13 @@
 ! Title: Фильтры ПК
 !
+r3.mixporn.cam##.footer > .container
+r3.mixporn.cam##.footer-bottom__text > p:nth-of-type(1)
+r3.mixporn.cam##.footer-bottom__list
+r3.mixporn.cam###list_videos_related_videos
+r3.mixporn.cam##.comments.block-comments
+r3.mixporn.cam##.side-info > .info-tags
+r3.mixporn.cam##.info-categories
+sudrf.ru##.blockall
 ||e.mail.ru/feedback/nps$subdocument
 epp.genproc.gov.ru##.header__social-block.portlet-barebone.portlet-static-end.portlet-static.portlet-boundary
 vk.*###video_recommendations
