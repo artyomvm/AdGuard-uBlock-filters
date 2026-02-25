@@ -1,5 +1,14 @@
 ! Title: Фильтры ПК
 !
+||www.garant.ru/images/www/all/promo_access.jpg$image
+||www.garant.ru/images/www/all/900x90.jpg$image
+garant.ru##.order-md-1.order-0.gap-7.flex-column.d-flex.col-md-4.col
+garant.ru##.order-md-0.order-1.gap-7.flex-column.d-flex.col-md-8.col > div:nth-of-type(5)
+garant.ru##.order-md-0.order-1.gap-7.flex-column.d-flex.col-md-8.col > div:nth-of-type(4)
+garant.ru##.order-md-0.order-1.gap-7.flex-column.d-flex.col-md-8.col > div:nth-of-type(2)
+vkvideo.ru###side_bar
+vkvideo.ru###video_left_menu_toggle
+vkvideo.ru##.vkuiRootComponent__host.vkuiFlex__justifyEnd.vkuiFlex__alignCenter.vkuiFlex__host
 vk.*###react_rootVideo_page > div.vkui__root > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
 r3.mixporn.cam##.footer > .container
 r3.mixporn.cam##.footer-bottom__text > p:nth-of-type(1)
