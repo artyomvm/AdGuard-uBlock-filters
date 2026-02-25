@@ -1,5 +1,6 @@
 ! Title: Фильтры ПК
 !
+vk.*###react_rootVideo_page > div.vkui__root > div.vkuiDiv__host.vkuiRootComponent__host > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
 r3.mixporn.cam##.footer > .container
 r3.mixporn.cam##.footer-bottom__text > p:nth-of-type(1)
 r3.mixporn.cam##.footer-bottom__list
