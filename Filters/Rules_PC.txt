@@ -1,5 +1,9 @@
 ! Title: Фильтры ПК
 !
+||cdn-yandex.telemetr.me/banner/guest_banner_catalog_desc.png$image
+telemetr.me##.content-container__row--list.content-container__row--sticky.content-container__row > .content-container__col-small
+telemetr.me##.upper-alert-line
+telemetr.me##.w-100.mobile-hide
 vk.*##._emoji_field_wrap
 moe-lipetsk.ru##.info-block-extended
 moe-lipetsk.ru##.mt-30.context-container
