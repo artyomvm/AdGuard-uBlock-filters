@@ -1,5 +1,13 @@
 ! Title: Фильтры ПК
 !
+moe-lipetsk.ru##.info-block-extended
+moe-lipetsk.ru##.mt-30.context-container
+moe-lipetsk.ru##.no_comment.vue-code
+moe-lipetsk.ru##.flex-dop
+moe-lipetsk.ru###footer_main
+moe-lipetsk.ru##.hidden-xs.inTop
+moe-lipetsk.ru##.mt-0.clearfix.down_stat_wr
+moe-lipetsk.ru##div.margin-b-50.col-md-12:nth-of-type(3)
 ||www.garant.ru/images/www/all/promo_access.jpg$image
 ||www.garant.ru/images/www/all/900x90.jpg$image
 garant.ru##.order-md-1.order-0.gap-7.flex-column.d-flex.col-md-4.col
