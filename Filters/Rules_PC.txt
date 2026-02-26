@@ -1,5 +1,6 @@
 ! Title: Фильтры ПК
 !
+vk.*##._emoji_field_wrap
 moe-lipetsk.ru##.info-block-extended
 moe-lipetsk.ru##.mt-30.context-container
 moe-lipetsk.ru##.no_comment.vue-code
