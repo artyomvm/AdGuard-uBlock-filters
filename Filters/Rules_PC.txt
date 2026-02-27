@@ -1,5 +1,6 @@
 ! Title: Фильтры ПК
 !
+vk.*###spa_root > div.vkui__root > div:first-child > div.vkuiDiv__host.vkuiRootComponent__host:last-child > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
 ||cdn-yandex.telemetr.me/banner/guest_banner_catalog_desc.png$image
 telemetr.me##.content-container__row--list.content-container__row--sticky.content-container__row > .content-container__col-small
 telemetr.me##.upper-alert-line
