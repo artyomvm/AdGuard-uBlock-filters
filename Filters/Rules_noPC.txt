@@ -1,5 +1,37 @@
 ! Title: Фильтры не ПК
 !
+||widget.uxfeedback.ru/6uph5qaqaacfuw33laawhyya/fjt2hv7m.svg$image
+samsung.com##.modify.js-rcw-root.bubble-hidden.ru-chatbot-wrapper
+samsung.com##.notice__inner
+||widget.uxfeedback.ru/6uph5qaqaacfuw33laawhyya/*.svg$image
+samsung.com##.otziv_about_site
+mvideo.ru##.footer__promotions
+mvideo.ru##.customer-services
+mvideo.ru##mvid-services-block
+mvideo.ru###PRODUCTS_ACCESSORY_BLOCK_ID
+pikabu.ru##.carousel.story-page-related-carousel
+banki.ru##.LeaveFeedbackPinnedstyled__StyledWrapper-sc-19ama2s-0
+eldorado.ru##section.eltb
+eldorado.ru###TabServices
+eldorado.ru##.elKy
+eldorado.ru##.el6d.el1d
+notik.ru##._refPathId_1648
+amd.com##.open-feedback-button.btn-feedback.btn
+ria.ru##.js-share.widgets__share-article
+ria.ru##.js__toggle-chat-article.widgets__open-chat
+m.vk.*##.vkuiInternalPanelHeader__after.vkuiPanelHeader__after
+max.ru##.header > div > .button--primary.button
+max.ru##.button--big.button--primary.button
+max.ru##.notice
+ntv.ru##.anchor-top
+ntv.ru##.comments__anchor.anchor-comments
+shop.mts.ru##.v2-catalog-card-list__promo-banners-slider.infoblock-slider
+ren.tv##.MaxBannerOpen_8NkL8.MaxBanner_c3Mc0
+moe-lipetsk.ru##.bookmark.bookmark-no.material-bookmark
+moe-lipetsk.ru##.showComment.material-head-comments
+moe-lipetsk.ru###shareInHead > .social-btn-icon
+moe-lipetsk.ru##.lower_panel.visible-xs
+yandex.*##.ImagesTouchViewer-Item.ImagesTouchViewer-ViewerItem_active.ImagesTouchViewer-ViewerItem > div > .ImagesTouchViewer-Card_jQbpxSb0Fkb0fvIfL2R1Lbw.ImagesTouchViewer-Card.jZ7ZrTagYt6ESua3H_skeleton.jZ7ZrTagYt6ESua3H_jRbZ1RK4I.jZ7ZrTagYt6ESua3H
 dzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
 dzen.ru##.news-site--StoryDetails__secondStoryItem-Bl
 wildberries.ru###smartBanner
