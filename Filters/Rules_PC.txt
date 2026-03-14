@@ -1,5 +1,27 @@
 ! Title: Фильтры ПК
 !
+yandex.*##div.taVvC7m9WOfqQtbs-VideoListPageDirect.taVvC7m9WOfqQtbs-t61vU7mN0_withStore.taVvC7m9WOfqQtbs-t61vU7mN0_placement_t2VvC7m8tPPaUpA.taVvC7m9WOfqQtbs-t61vU7mN0
+yandex.*##.taVvC7m9WOfqQtbs-DirectSkeleton.taVvC7m9WOfqQtbs-talzC7nJQPP6etbvDjfw5deCAwciGgFQjtw
+k2s.cc##.e87hxvx2.css-1alsx9z
+k2s.cc##.eu4h3zr0.css-8udt3u.e4whk300
+k2s.cc##.e199m7sk10.css-0
+k2s.cc##.e199m7sk2.css-wy0qxe > .ef1fb662.css-dbpu1g
+ru.savefrom.net##.b-instruction
+ru.savefrom.net###main > .wrapper
+ru.savefrom.net##.main-form__wrapper
+ru.get-save.com###hidden
+ru.get-save.com##.variant--2.flocktory-block
+calc.consultant.ru###bannerPopup
+||files.sudrf.ru/2866/user/GEPS.jpg$image
+||mos-gorsud.ru/resources/img/banner80pobeda.jpg$image
+sudrf.ru###divAdmMessContainer0
+sudrf.ru##.col_left.col > div.left_blocks.m-left_m.m-ver_m > .menu__item
+sudrf.ru##div.m-left_m.m-ver_m:nth-of-type(4)
+sudrf.ru##div.left_blocks.m-left_m.m-ver_m:nth-of-type(3)
+telemetr.me##.additional-header__block
+google.ru##.b2hzT.fbar
+prostitytky-mos.*##.map.text-section-wrapper
+prostitytky-mos.*##.no-mob-3.footer-buttons.mobile-el
 vk.*###spa_root > div.vkui__root > div:first-child > div.vkuiDiv__host.vkuiRootComponent__host:last-child > div.vkuiSplitLayout__host.vkuiRootComponent__host > div.vkitTwoColumnLayout__root--ODtvQ.vkitInternalTwoColumnLayout.vkuiSplitLayout__inner.vkuiRootComponent__host > div.vkitTwoColumnLayoutNarrow__root--5futo.vkitInternalTwoColumnLayoutColumn.vkuiSplitCol__host.vkuiSplitCol__viewWidthNone.vkuiInternalSplitCol--viewWidth-none.vkuiRootComponent__host:last-child
 ||cdn-yandex.telemetr.me/banner/guest_banner_catalog_desc.png$image
 telemetr.me##.content-container__row--list.content-container__row--sticky.content-container__row > .content-container__col-small
