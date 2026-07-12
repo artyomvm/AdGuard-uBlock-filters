@@ -343,6 +343,7 @@ $removeparam=cl4url,domain=dzen.ru
 $removeparam=fan,domain=dzen.ru
 $removeparam=lang,domain=dzen.ru
 $removeparam=lr,domain=yandex.ru
+$removeparam=q_source,domain=yandex.ru
 $removeparam=opertop,domain=dzen.ru
 $removeparam=page,domain=dzen.ru
 $removeparam=persistent_id,domain=dzen.ru
