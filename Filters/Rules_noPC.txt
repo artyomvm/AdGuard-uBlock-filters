@@ -303,3 +303,47 @@ yandex.*##.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_place
 yandex.*##div.obHIkc8DIbq3lV70-VideoListPageDirect.obHIkc8DIbq3lV70-o7nIyc8zq_withStore.obHIkc8DIbq3lV70-o7nIyc8zq_placement_o3HIkc8Cza6HhRg.obHIkc8DIbq3lV70-o7nIyc8zq
 yandex.*##.RelatedBottom
 yandex.*##.Typo_line_s.Typo_text_m.Typo.organic.Organic-App.Organic.Organic
+! 15 июн. 2026 г. https://yandex.ru
+yandex.ru##.tN7uwnkmWE4Akyqg-tJbumnkW0_withStore.tN7uwnkmWE4Akyqg-tJbumnkW0_placement_tFLywnlTtCoky1raP.tN7uwnkmWE4Akyqg-tJbumnkW0
+
+! 17 июн. 2026 г. https://market.yandex.ru
+market.yandex.ru##.cia-cs.cia-vs._5ip-U
+
+! 17 июн. 2026 г. https://lipetsk.kaprionika.ru
+lipetsk.kaprionika.ru##.show.black.type-1.cookie
+
+! 17 июн. 2026 г. https://keysoft.store
+keysoft.store##.shadow.tw-z-\[101\].tw-rounded-2xl.tw-p-4.tw-max-w-\[384px\].tw-bg-white.tw-left-8.tw-bottom-8.tw-fixed
+
+! 21 июн. 2026 г. https://www.ozon.ru
+www.ozon.ru##div.c1.c.container > div > div > .pdp_a9u.pdp_ua3.pdp_ua2
+
+! 22 июн. 2026 г. https://www.ozon.ru
+www.ozon.ru##div.h4k_20.g5q_20.gq4_20.tile-root
+www.ozon.ru##div.c1.c.container:nth-of-type(10) > div > div > div:nth-of-type(8) > div > div:nth-of-type(3) > div
+www.ozon.ru##.uw_a5c
+
+! 26 июн. 2026 г. https://www.ozon.ru
+www.ozon.ru##div.c1.c.container > div > div > div > div > .pdp_au6.pdp_u4a.pdp_au9.pdp_ua2
+
+! 5 июл. 2026 г. https://market.yandex.ru
+market.yandex.ru###\/content\/page\/content\/defaultPage\/recommendationRoll
+market.yandex.ru##.o0iDb
+
+! 9 июл. 2026 г. https://github.com
+github.com##[href="https://ko-fi.com/T6T31KMG8K"]
+
+! 11 июл. 2026 г. https://fssp.gov.ru
+fssp.gov.ru##.it-get-btn_show-panel.it-get-btn_active.it-get-btn_blue.it-get-btn_1.it-get-btn_icon-white.it-get-btn
+
+! 12 июл. 2026 г. https://pravo163.ru
+pravo163.ru##.agree-block
+
+! 17 июл. 2026 г. https://roskvartal.ru
+roskvartal.ru##.svelte-1015gs8.cookie-banner-1_5Sze
+
+! 21 июл. 2026 г. https://voinskaya-chast-poisk.ru
+voinskaya-chast-poisk.ru##.gn-inited
+
+! 22 июл. 2026 г. https://citysakh.ru
+||citysakh.ru/common/bannershow.php$image
